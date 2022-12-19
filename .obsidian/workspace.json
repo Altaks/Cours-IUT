@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "007f737bdd176174",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e0cf4376627fda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f34a1e4e35f9b378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV/2. Les fonctions/1. Les fonctions en général.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "719786c83ea8369e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV/1. Bases/13. Les tableaux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dd11aaf44af6513",
+    "type": "split",
+    "children": [
+      {
+        "id": "687c5d03e0cda00b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d961e0fae78a17c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e3d86ba539ae285",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71bfde4cb87d5a55",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297
+  },
+  "right": {
+    "id": "55a24efc551a758b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3746180cdb8d1fef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ad1d90834ed18c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DEV/2. Les fonctions/1. Les fonctions en général.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7dd2e5545c12d422",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DEV/2. Les fonctions/1. Les fonctions en général.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6726271ed9c227c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "455ce0d4467678f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DEV/2. Les fonctions/1. Les fonctions en général.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "f34a1e4e35f9b378",
+  "lastOpenFiles": [
+    "DEV/1. Bases/16. Les pointeurs.md",
+    "DEV/1. Bases/15. Les références.md",
+    "DEV/1. Bases/13. Les tableaux.md",
+    "DEV/1. Bases/8. Les conditions.md",
+    "DEV/1. Bases/2.0 Les variables.md",
+    "DEV/2. Les fonctions/1. Les fonctions en général.md",
+    "DEV/2. Les fonctions/4. La récursivité.md",
+    "DEV/2. Les fonctions/3. La surcharge de fonction.md",
+    "DEV/2. Les fonctions/2. Les signatures de fonction (prototypes).md",
+    "DEV/1. Bases/14.0 Les enregistrements (struct, enum).md"
+  ]
+}
