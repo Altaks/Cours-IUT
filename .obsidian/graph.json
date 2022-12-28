@@ -11,25 +11,46 @@
       "query": "path:\"DEV/1. Bases\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
       }
     },
     {
       "query": "path:\"DEV/2. Les fonctions\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14514486
       }
     },
     {
       "query": "path:\"DEV/3. La Programmation Orientée Objet\"",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 15791141
+      }
+    },
+    {
+      "query": "path:\"SYS1/Les commandes bash\"",
+      "color": {
+        "a": 1,
+        "rgb": 11937003
+      }
+    },
+    {
+      "query": "path:\"SYS1/Les permissions\"",
+      "color": {
+        "a": 1,
+        "rgb": 9180558
+      }
+    },
+    {
+      "query": "path:\"SYS1/Les utilisateurs\"",
+      "color": {
+        "a": 1,
+        "rgb": 15214277
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.325,
@@ -39,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6346285676930609,
+  "scale": 0.41599798120349657,
   "close": true
 }

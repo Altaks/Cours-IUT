@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "DM Mono"
+  "monospaceFontFamily": "DM Mono",
+  "baseFontSize": 16
 }
