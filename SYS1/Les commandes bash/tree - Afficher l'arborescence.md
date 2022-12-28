@@ -11,18 +11,15 @@ tree [options] [répertoire]
 
 La commande `tree` prend en argument le répertoire à afficher, qui peut être un répertoire local ou un répertoire sur un système de fichiers distant (via un protocole de partage de fichiers comme NFS ou SMB). Si aucun répertoire n'est spécifié, `tree` affiche la structure de l'ensemble du système de fichiers.
 
-```ad-info
-title: Arguments
 Voici quelques options couramment utilisées avec la commande `tree` :
 
--   `-a` : affiche également les fichiers cachés (qui ont un nom commençant par un point).
-  
--   `-d` : affiche seulement les répertoires, pas les fichiers.
--   `-L n` : affiche seulement les n premiers niveaux de l'arborescence.
--   `-f` : affiche le chemin complet des fichiers et répertoires à chaque niveau de l'arborescence.
--   `-i` : n'affiche pas les identifiants des fichiers et répertoires.
--   `-s` : affiche la taille des répertoires en additionnant la taille de leur contenu.
-```
+> [!info] Options
+> -   `-a` : affiche également les fichiers cachés (qui ont un nom commençant par un point).
+> -   `-d` : affiche seulement les répertoires, pas les fichiers.
+> -   `-L n` : affiche seulement les n premiers niveaux de l'arborescence.
+> -   `-f` : affiche le chemin complet des fichiers et répertoires à chaque niveau de l'arborescence.
+> -   `-i` : n'affiche pas les identifiants des fichiers et répertoires.
+> -   `-s` : affiche la taille des répertoires en additionnant la taille de leur contenu.
 
 Voici un exemple d'utilisation de la commande `tree` pour afficher la structure de l'ensemble du système de fichiers, en incluant les fichiers cachés et en affichant la taille des répertoires :
 

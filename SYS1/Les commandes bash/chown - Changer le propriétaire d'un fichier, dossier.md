@@ -19,13 +19,10 @@ chown user:members test.txt
 
 La commande `chown` prend également en charge plusieurs options qui vous permettent de contrôler son comportement :
 
-```ad-info
-title: Arguments
--   `-R` : permet de changer le propriétaire de manière récursive, c'est-à-dire de manière à inclure tous les sous-répertoires.
-  
--   `-f` : permet de forcer le changement de propriétaire même si des erreurs sont détectées.
--   `-v` : permet d'afficher une trace des fichiers pour lesquels le propriétaire a été modifié.
-```
+> [!info] Options
+> -   `-R` : permet de changer le propriétaire de manière récursive, c'est-à-dire de manière à inclure tous les sous-répertoires.
+> -   `-f` : permet de forcer le changement de propriétaire même si des erreurs sont détectées.
+> -   `-v` : permet d'afficher une trace des fichiers pour lesquels le propriétaire a été modifié.
 
 Voici quelques exemples d'utilisation de ces options :
 

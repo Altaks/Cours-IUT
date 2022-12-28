@@ -14,16 +14,13 @@ df [options] [système de fichiers]
 
 La commande `df` prend en argument le système de fichiers à afficher, qui peut être un système de fichiers local ou un système de fichiers sur un serveur distant (via un protocole de partage de fichiers comme NFS ou SMB). Si aucun système de fichiers n'est spécifié, `df` affiche les informations sur tous les systèmes de fichiers montés sur le système.
 
-```ad-info
-title: Arguments
 Voici quelques options couramment utilisées avec la commande `df` :
 
--   `-a` : affiche également les systèmes de fichiers qui n'ont pas de partition montée, comme les répertoires virtuels `/proc` et `/sys`.
-  
--   `-h` : affiche les informations sur l'espace disque en unités lisibles par l'homme (Go, Mo, Ko, etc.).
--   `-i` : affiche les informations sur le nombre de fichiers et d'inodes utilisés et disponibles.
--   `-t` : affiche seulement les informations sur les systèmes de fichiers du type spécifié. Par exemple, `-t ext4` affiche seulement les informations sur les systèmes de fichiers de type `ext4`.
-```
+> [!info] Options
+> -   `-a` : affiche également les systèmes de fichiers qui n'ont pas de partition montée, comme les répertoires virtuels `/proc` et `/sys`.
+> -   `-h` : affiche les informations sur l'espace disque en unités lisibles par l'homme (Go, Mo, Ko, etc.).
+> -   `-i` : affiche les informations sur le nombre de fichiers et d'inodes utilisés et disponibles.
+> -   `-t` : affiche seulement les informations sur les systèmes de fichiers du type spécifié. Par exemple, `-t ext4` affiche seulement les informations sur les systèmes de fichiers de type `ext4`.
 
 Voici un exemple d'utilisation de la commande `df` pour afficher les informations sur l'espace disque utilisé et libre de tous les systèmes de fichiers montés, en utilisant des unités lisibles par l'homme :
 

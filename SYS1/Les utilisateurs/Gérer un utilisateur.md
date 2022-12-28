@@ -14,17 +14,15 @@ sudo useradd utilisateur1
 
 Pour supprimer un utilisateur, on peut utiliser la commande `userdel`. Cette commande prend en argument le nom de l'utilisateur et peut être utilisée avec l'option `-r` pour supprimer également le répertoire home de l'utilisateur.
 
-```ad-note
-title: Arguments
 Voici quelques options couramment utilisées avec la commande `useradd` :
 
--   `-c` : permet de spécifier le commentaire associé au compte de l'utilisateur.
--   `-d` : permet de spécifier le répertoire home de l'utilisateur.
--   `-g` : permet de spécifier le groupe principal de l'utilisateur.
--   `-G` : permet de spécifier les groupes supplémentaires auxquels l'utilisateur appartient.
--   `-m` : permet de créer le répertoire home de l'utilisateur s'il n'existe pas.
--   `-s` : permet de spécifier le shell par défaut de l'utilisateur.
-```
+> [!info] Options
+> -   `-c` : permet de spécifier le commentaire associé au compte de l'utilisateur.
+> -   `-d` : permet de spécifier le répertoire home de l'utilisateur.
+> -   `-g` : permet de spécifier le groupe principal de l'utilisateur.
+> -   `-G` : permet de spécifier les groupes supplémentaires auxquels l'utilisateur appartient.
+> -   `-m` : permet de créer le répertoire home de l'utilisateur s'il n'existe pas.
+> -   `-s` : permet de spécifier le shell par défaut de l'utilisateur.
 
 Voici un exemple de création d'un nouvel utilisateur nommé `utilisateur1` avec le répertoire home `/home/utilisateur1`, le groupe principal `groupe1` et le shell `bash` :
 
@@ -40,11 +38,9 @@ sudo userdel -r utilisateur1
 
 Voici quelques options couramment utilisées avec la commande `userdel` :
 
-```ad-note
-title: Arguments
--   `-f` : permet de forcer la suppression du compte même si l'utilisateur est connecté au système.
--   `-r` : permet de supprimer également le répertoire home de l'utilisateur et tout son contenu.
-```
+> [!info] Options
+> -   `-f` : permet de forcer la suppression du compte même si l'utilisateur est connecté au système.
+> -   `-r` : permet de supprimer également le répertoire home de l'utilisateur et tout son contenu.
 
 ## Modifier les détails d'un utilisateur
 
@@ -56,18 +52,16 @@ Voici un exemple de modification du groupe principal de l'utilisateur `utilisate
 sudo usermod -g groupe1 utilisateur1
 ```
 
-```ad-note
-title: Arguments
 Voici quelques options couramment utilisées avec la commande `usermod` :
 
--   `-c` : permet de modifier le commentaire associé au compte de l'utilisateur.
--   `-d` : permet de modifier le répertoire home de l'utilisateur.
--   `-g` : permet de modifier le groupe principal de l'utilisateur.
--   `-G` : permet de modifier les groupes supplémentaires auxquels l'utilisateur appartient.
--   `-L` : permet de verrouiller le compte de l'utilisateur en empêchant toute authentification.
--   `-s` : permet de modifier le shell par défaut de l'utilisateur.
--   `-U` : permet de déverrouiller le compte de l'utilisateur en autorisant à nouveau l'authentification.
-```
+> [!info] Options
+> -   `-c` : permet de modifier le commentaire associé au compte de l'utilisateur.
+> -   `-d` : permet de modifier le répertoire home de l'utilisateur.
+> -   `-g` : permet de modifier le groupe principal de l'utilisateur.
+> -   `-G` : permet de modifier les groupes supplémentaires auxquels l'utilisateur appartient.
+> -   `-L` : permet de verrouiller le compte de l'utilisateur en empêchant toute authentification.
+> -   `-s` : permet de modifier le shell par défaut de l'utilisateur.
+> -   `-U` : permet de déverrouiller le compte de l'utilisateur en autorisant à nouveau l'authentification.
 
 Voici un exemple de modification du commentaire du compte de l'utilisateur `utilisateur1` et du groupe principal de celui-ci :
 

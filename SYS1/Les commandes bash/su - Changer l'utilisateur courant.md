@@ -20,9 +20,10 @@ Vous serez alors invité à entrer le mot de passe de l'utilisateur `username`. 
 
 Voici la suite des options disponibles pour la commande `su` :
 
--   `-c` : permet d'exécuter une commande en tant que l'utilisateur spécifié, puis de quitter immédiatement.
--   `-l` : permet de se connecter en tant que l'utilisateur spécifié et de charger son environnement, y compris son répertoire de travail et son fichier de configuration `.bashrc`.
--   `-m` : permet de conserver l'environnement actuel, y compris le répertoire de travail et le fichier de configuration `.bashrc`, lorsque vous vous connectez en tant que l'utilisateur spécifié.
+> [!important] Options
+> -   `-c` : permet d'exécuter une commande en tant que l'utilisateur spécifié, puis de quitter immédiatement.
+> -   `-l` : permet de se connecter en tant que l'utilisateur spécifié et de charger son environnement, y compris son répertoire de travail et son fichier de configuration `.bashrc`.
+> -   `-m` : permet de conserver l'environnement actuel, y compris le répertoire de travail et le fichier de configuration `.bashrc`, lorsque vous vous connectez en tant que l'utilisateur spécifié.
 
 Voici quelques exemples d'utilisation de ces options :
 

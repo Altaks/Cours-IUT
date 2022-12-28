@@ -44,19 +44,16 @@ tail -c 10 fichier3.txt
 tail -f /var/log/syslog
 ```
 
-```ad-info
-title: Arguments
 Voici les options principales de la commande `tail` :
 
--   `-n <nombre>` : permet de spécifier le nombre de lignes à afficher. Par exemple, `tail -n 5 mon_fichier.txt` affichera les 5 dernières lignes de `mon_fichier.txt`.
-  
--   `-c <nombre>` : permet de spécifier le nombre de caractères à afficher. Par exemple, `tail -c 10 mon_fichier.txt` affichera les 10 derniers caractères de `mon_fichier.txt`.
--   `-f` : permet de suivre en temps réel un fichier qui est en cours d'écriture (par exemple, un fichier de journal).
--   `-q` : masque les noms de fichier lors de l'affichage de plusieurs fichiers.
--   `-v` : affiche les noms de fichier même si vous ne spécifiez qu'un seul fichier.
--   `-h` ou `--help` : affiche l'aide de la commande `tail`.
--   `--version` : affiche la version de `tail`.
-```
+> [!info] Options
+> -   `-n <nombre>` : permet de spécifier le nombre de lignes à afficher. Par exemple, `tail -n 5 mon_fichier.txt` affichera les 5 dernières lignes de `mon_fichier.txt`.
+> -   `-c <nombre>` : permet de spécifier le nombre de caractères à afficher. Par exemple, `tail -c 10 mon_fichier.txt` affichera les 10 derniers caractères de `mon_fichier.txt`.
+> -   `-f` : permet de suivre en temps réel un fichier qui est en cours d'écriture (par exemple, un fichier de journal).
+> -   `-q` : masque les noms de fichier lors de l'affichage de plusieurs fichiers.
+> -   `-v` : affiche les noms de fichier même si vous ne spécifiez qu'un seul fichier.
+> -   `-h` ou `--help` : affiche l'aide de la commande `tail`.
+> -   `--version` : affiche la version de `tail`.
 
 Il existe également plusieurs options avancées pour la commande `tail`, telles que `--bytes`, `--lines`, `--follow`, `--retry` et `--max-unchanged-stats`, qui permettent de contrôler la façon dont `tail` traite les données. Pour plus d'informations sur ces options, vous pouvez consulter la documentation de la commande `tail` en utilisant la commande `man tail` ou en consultant la documentation en ligne.
 

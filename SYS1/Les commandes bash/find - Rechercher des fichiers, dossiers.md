@@ -19,14 +19,11 @@ find /home/user/documents -name "test.txt"
 
 La commande `find` prend également en charge plusieurs options qui vous permettent de contrôler sa recherche :
 
-```ad-info
-title: Arguments
--   `-type` : permet de spécifier le type de fichier à rechercher (fichier régulier, répertoire, lien symbolique, etc.).
-  
--   `-mtime` : permet de spécifier le nombre de jours depuis la dernière modification du fichier.
--   `-user` : permet de spécifier le propriétaire du fichier.
--   `-group` : permet de spécifier le groupe propriétaire du fichier.
-```
+> [!info] Options
+> -   `-type` : permet de spécifier le type de fichier à rechercher (fichier régulier, répertoire, lien symbolique, etc.).
+> -   `-mtime` : permet de spécifier le nombre de jours depuis la dernière modification du fichier.
+> -   `-user` : permet de spécifier le propriétaire du fichier.
+> -   `-group` : permet de spécifier le groupe propriétaire du fichier.
 
 Voici quelques exemples d'utilisation de ces options :
 

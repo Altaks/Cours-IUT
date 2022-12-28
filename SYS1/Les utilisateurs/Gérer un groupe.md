@@ -19,15 +19,12 @@ sudo groupadd groupe1
 
 Pour supprimer un groupe, on peut utiliser la commande `groupdel`. Cette commande prend en argument le nom du groupe à supprimer.
 
-```ad-info
-title: Arguments
 Voici quelques options couramment utilisées avec la commande `groupadd` :
 
--   `-f` : permet de forcer la création du groupe même si un groupe du même nom existe déjà.
-  
--   `-g` : permet de spécifier un identifiant de groupe (GID) pour le groupe.
--   `-o` : permet de créer un groupe avec un identifiant de groupe (GID) qui n'est pas encore utilisé par un autre groupe.
-```
+> [!info] Options
+> -   `-f` : permet de forcer la création du groupe même si un groupe du même nom existe déjà.
+> -   `-g` : permet de spécifier un identifiant de groupe (GID) pour le groupe.
+> -   `-o` : permet de créer un groupe avec un identifiant de groupe (GID) qui n'est pas encore utilisé par un autre groupe.
 
 Voici un exemple de création d'un nouveau groupe nommé `groupe1` avec l'identifiant de groupe `1000` :
 
@@ -45,14 +42,11 @@ sudo groupdel groupe1
 
 Il est important de noter que la suppression d'un groupe ne supprime pas les utilisateurs qui y appartiennent. Ces utilisateurs conservent leurs droits d'accès aux fichiers et répertoires auxquels ils avaient accès via ce groupe.
 
-```ad-info
-title: Arguments
 Voici quelques options couramment utilisées avec la commande `groupdel` :
 
--   `-f` : permet de forcer la suppression du groupe même s'il y a des utilisateurs qui y appartiennent.
-  
--   `-r` : permet de supprimer également les utilisateurs qui appartiennent au groupe.
-```
+> [!info] Options
+> -   `-f` : permet de forcer la suppression du groupe même s'il y a des utilisateurs qui y appartiennent.
+> -   `-r` : permet de supprimer également les utilisateurs qui appartiennent au groupe.
 
 Voici un exemple de suppression du groupe `groupe1` et de tous les utilisateurs qui y appartiennent:
 

@@ -17,15 +17,12 @@ Par exemple, pour donner les permissions de lecture et d'écriture au propriéta
 chmod 644 test.txt
 ```
 
-```ad-info
-title: Arguments
 Voici la suite des options disponibles pour la commande `chmod` :
 
--   `-R` : permet de changer les permissions de manière récursive, c'est-à-dire de manière à inclure tous les sous-répertoires.
-  
--   `-f` : permet de forcer le changement de permissions même si des erreurs sont détectées.
--   `-v` : permet d'afficher une trace des fichiers pour lesquels les permissions ont été modifiées.
-```
+> [!info] Options
+> -   `-R` : permet de changer les permissions de manière récursive, c'est-à-dire de manière à inclure tous les sous-répertoires.
+> -   `-f` : permet de forcer le changement de permissions même si des erreurs sont détectées.
+> -   `-v` : permet d'afficher une trace des fichiers pour lesquels les permissions ont été modifiées.
 
 Voici quelques exemples d'utilisation de ces options :
 

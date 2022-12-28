@@ -24,11 +24,12 @@ Cette commande créera un nouveau fichier vide nommé `mon_fichier` dans le rép
 
 Voici quelques options couramment utilisées avec la commande `touch` :
 
--   `-a` : met à jour la date d'accès (date à laquelle le fichier a été accédé pour la dernière fois) du fichier, mais pas la date de modification.
--   `-c` : n'actualise pas la date de modification ou de création du fichier si le fichier n'existe pas déjà.
--   `-m` : met à jour la date de modification (date à laquelle le fichier a été modifié pour la dernière fois) du fichier, mais pas la date d'accès.
--   `-t <time>` : spécifie la date et l'heure de modification du fichier sous la forme `YYYYMMDDhhmm`.
--   `--reference=<file>` : utilise la date de modification du fichier spécifié en référence pour mettre à jour la date de modification du fichier cible.
+> [!info] Options
+> -   `-a` : met à jour la date d'accès (date à laquelle le fichier a été accédé pour la dernière fois) du fichier, mais pas la date de modification.
+> -   `-c` : n'actualise pas la date de modification ou de création du fichier si le fichier n'existe pas déjà.
+> -   `-m` : met à jour la date de modification (date à laquelle le fichier a été modifié pour la dernière fois) du fichier, mais pas la date d'accès.
+> -   `-t <time>` : spécifie la date et l'heure de modification du fichier sous la forme `YYYYMMDDhhmm`.
+> -   `--reference=<file>` : utilise la date de modification du fichier spécifié en référence pour mettre à jour la date de modification du fichier cible.
 
 ## Exemples d'utilisation de `touch`
 

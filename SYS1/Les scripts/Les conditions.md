@@ -19,20 +19,17 @@ fi
 
 L'expression doit être placée entre crochets `[]` et doit être suivie d'un point-virgule `;`. Le mot-clé `then` indique le début des instructions à exécuter si l'expression est vraie, et le mot-clé `else` indique le début des instructions à exécuter si l'expression est fausse. Le mot-clé `fi` marque la fin de la condition.
 
-```ad-important
-title: Comment comparer ?
-Voici quelques exemples d'expressions couramment utilisées en Bash :
-
--   `-z "$string"` : vérifie si la chaîne `string` est vide (c'est-à-dire si elle a une longueur de 0).
-  
--   `-n "$string"` : vérifie si la chaîne `string` n'est pas vide (c'est-à-dire si elle a une longueur supérieure à 0).
--   `"$a" = "$b"` : vérifie si les chaînes `a` et `b` sont égales.
--   `"$a" != "$b"` : vérifie si les chaînes `a` et `b` sont différentes.
--   `"$a" -eq "$b"` : vérifie si les nombres `a` et `b` sont égaux.
--   `"$a" -ne "$b"` : vérifie si les nombres `a` et `b` sont différents.
--   `"$a" -gt "$b"` : vérifie si le nombre `a` est strictement supérieur à `b`.
--   `"$a" -lt "$b"` : vérifie si le nombre `a` est strictement inférieur à `b`.
-```
+> [!important] Comment comparer ?
+> Voici quelques exemples d'expressions couramment utilisées en Bash :
+> 
+> -   `-z "$string"` : vérifie si la chaîne `string` est vide (c'est-à-dire si elle a une longueur de 0).
+> -   `-n "$string"` : vérifie si la chaîne `string` n'est pas vide (c'est-à-dire si elle a une longueur supérieure à 0).
+> -   `"$a" = "$b"` : vérifie si les chaînes `a` et `b` sont égales.
+> -   `"$a" != "$b"` : vérifie si les chaînes `a` et `b` sont différentes.
+> -   `"$a" -eq "$b"` : vérifie si les nombres `a` et `b` sont égaux.
+> -   `"$a" -ne "$b"` : vérifie si les nombres `a` et `b` sont différents.
+> -   `"$a" -gt "$b"` : vérifie si le nombre `a` est strictement supérieur à `b`.
+> -   `"$a" -lt "$b"` : vérifie si le nombre `a` est strictement inférieur à `b`.
 
 Voici un exemple de script qui utilise une condition en Bash :
 

@@ -29,13 +29,10 @@ Dans ce cas, le contenu de `file1`, `file2` et `file3` sera concaténé et enreg
 
 La commande `cat` prend également en charge plusieurs options qui vous permettent de contrôler son comportement :
 
-```ad-info
-title: Arguments
--   `-n` : ajoute un numéro de ligne devant chaque ligne de sortie.
-  
--   `-s` : supprime les lignes vides consécutives.
--   `-E` : ajoute un `$` à la fin de chaque ligne de sortie.
-```
+>[!info] Options 
+>-   `-n` : ajoute un numéro de ligne devant chaque ligne de sortie.
+>-   `-s` : supprime les lignes vides consécutives.
+> -   `-E` : ajoute un `$` à la fin de chaque ligne de sortie.
 
 Voici quelques exemples d'utilisation de ces options :
 

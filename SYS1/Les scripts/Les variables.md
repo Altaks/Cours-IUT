@@ -23,16 +23,11 @@ Cela affichera "Bonjour, Paul".
 
 Il est important de noter que les noms de variables en Bash sont sensibles à la casse, c'est-à-dire qu'une variable nommée `nom` n'est pas la même que `Nom` ou `NOM`. De plus, les noms de variables ne peuvent pas commencer par un chiffre et ne doivent pas contenir d'espaces.
 
-```ad-important
-title: "Types" de variables
-Il existe plusieurs types de variables en Bash, notamment :
-
--   Les variables d'**environnement** : ce sont des variables qui sont définies par le système et qui peuvent être utilisées par tous les programmes. Elles sont généralement préfixées par `$` (par exemple, `$HOME` pour le répertoire home de l'utilisateur).
-
--   Les variables **locales** : ce sont des variables qui sont définies dans un script ou un shell et qui ne sont accessibles que dans ce script ou ce shell.
-
--   Les variables de **paramètres** : ce sont des variables qui sont passées en tant qu'arguments lors de l'exécution d'un script. Elles sont accessibles via les variables spéciales `$1`, `$2`, etc. (par exemple, `$1` représente le premier argument, `$2` représente le second argument, etc.).
-```
+> [!important] "Types" de variables en Bash
+> Il existe plusieurs types de variables en Bash, notamment :
+> -   Les variables d'**environnement** : ce sont des variables qui sont définies par le système et qui peuvent être utilisées par tous les programmes. Elles sont généralement préfixées par `$` (par exemple, `$HOME` pour le répertoire home de l'utilisateur).
+> -   Les variables **locales** : ce sont des variables qui sont définies dans un script ou un shell et qui ne sont accessibles que dans ce script ou ce shell.
+> -   Les variables de **paramètres** : ce sont des variables qui sont passées en tant qu'arguments lors de l'exécution d'un script. Elles sont accessibles via les variables spéciales `$1`, `$2`, etc. (par exemple, `$1` représente le premier argument, `$2` représente le second argument, etc.).
 
 
 Voici un exemple de script qui utilise plusieurs types de variables :

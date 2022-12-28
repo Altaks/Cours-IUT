@@ -21,9 +21,10 @@ Lorsque vous exécutez cette commande, le contenu du fichier est affiché dans l
 
 La commande `less` prend également en charge plusieurs options qui vous permettent de contrôler son comportement :
 
--   `-N` : affiche le numéro de ligne devant chaque ligne de sortie.
--   `-S` : ne pas couper les lignes trop longues, mais les afficher sur plusieurs lignes.
--   `-X` : ne pas afficher l'historique de la navigation lorsque vous quittez `less`.
+> [!info] Options
+> -   `-N` : affiche le numéro de ligne devant chaque ligne de sortie.
+> -   `-S` : ne pas couper les lignes trop longues, mais les afficher sur plusieurs lignes.
+> -   `-X` : ne pas afficher l'historique de la navigation lorsque vous quittez `less`.
 
 Voici quelques exemples d'utilisation de ces options :
 

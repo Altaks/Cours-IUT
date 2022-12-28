@@ -27,19 +27,16 @@ head fichier1.txt fichier2.txt fichier3.txt
 
 Dans ce cas, `head` affichera les 10 premières lignes de chaque fichier.
 
-```ad-info
-title: Arguments
 Voici les options principales de la commande `head` :
 
--   `-n <nombre>` : permet de spécifier le nombre de lignes à afficher. 
+> [!info] Options
+> -   `-n <nombre>` : permet de spécifier le nombre de lignes à afficher. 
 Par exemple, `head -n 5 mon_fichier.txt` affichera les 5 premières lignes de `mon_fichier.txt`.
-  
--   `-c <nombre>` : permet de spécifier le nombre de caractères à afficher. Par exemple, `head -c 10 mon_fichier.txt` affichera les 10 premiers caractères de `mon_fichier.txt`.
--   `-q` : masque les noms de fichier lors de l'affichage de plusieurs fichiers.
--   `-v` : affiche les noms de fichier même si vous ne spécifiez qu'un seul fichier.
--   `-h` ou `--help` : affiche l'aide de la commande `head`.
--   `--version` : affiche la version de `head`.
-```
+> -   `-c <nombre>` : permet de spécifier le nombre de caractères à afficher. Par exemple, `head -c 10 mon_fichier.txt` affichera les 10 premiers caractères de `mon_fichier.txt`.
+> -   `-q` : masque les noms de fichier lors de l'affichage de plusieurs fichiers.
+> -   `-v` : affiche les noms de fichier même si vous ne spécifiez qu'un seul fichier.
+> -   `-h` ou `--help` : affiche l'aide de la commande `head`.
+> -   `--version` : affiche la version de `head`.
 
 Il existe également plusieurs options avancées pour la commande `head`, telles que `--bytes`, `--lines`, `--max-lines` et `--max-bytes`, qui permettent de contrôler la façon dont `head` traite les données. Pour plus d'informations sur ces options, vous pouvez consulter la documentation de la commande `head` en utilisant la commande `man head` ou en consultant la documentation en ligne.
 

@@ -6,14 +6,11 @@ La commande `ls -l` permet de lister les fichiers et répertoires d'un répertoi
 
 Les droits d'accès sont affichés sous forme de neuf caractères, chacun correspondant à un type de droit pour un type de parties (propriétaire, groupe et tous). 
 
-```ad-info
-title: La notation alphabétique
-Les caractères utilisés sont :
-
-- `r` pour la lecture (Ouvrir le fichier ou du dossier)
-- `w` pour l'écriture  (Changer le contenu du fichier ou du dossier)
-- `x` pour l'exécution (Executer le fichier)
-```
+> [!info] La notation alphabétique
+> Les caractères utilisés sont :
+> - `r` pour la lecture (Ouvrir le fichier ou du dossier)
+> - `w` pour l'écriture  (Changer le contenu du fichier ou du dossier)
+> - `x` pour l'exécution (Executer le fichier)
 
 Si un type de droit n'est pas accordé, le caractère correspondant est remplacé par un `-`.
 

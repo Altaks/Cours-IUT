@@ -32,9 +32,10 @@ rm -r documents
 
 La commande `rm` prend également en charge plusieurs options qui vous permettent de contrôler son comportement :
 
--   `-f` : ignore toutes les erreurs et force la suppression du fichier ou du dossier.
--   `-i` : demande une confirmation avant de supprimer le fichier ou le dossier.
--   `-v` : affiche les noms des fichiers et des dossiers qui sont supprimés.
+> [!info] Options
+> -   `-f` : ignore toutes les erreurs et force la suppression du fichier ou du dossier.
+> -   `-i` : demande une confirmation avant de supprimer le fichier ou le dossier.
+> -   `-v` : affiche les noms des fichiers et des dossiers qui sont supprimés.
 
 Voici quelques exemples d'utilisation de ces options :
 

@@ -29,16 +29,11 @@ Cette commande copiera le fichier `mon_fichier` dans le répertoire `/chemin/ver
 
 ## Options de la commande `cp`
 
-```ad-info
-title: Arguments
-Voici quelques options couramment utilisées avec la commande `cp` :
-
--   `-a` : copie le fichier ou le répertoire ainsi que tous ses attributs, comme les permissions et les propriétaires.
-  
--   `-i` : demande confirmation avant d'écraser un fichier existant.
--   `-r` : copie récursivement les sous-répertoires et leur contenu.
--   `-v` : affiche des messages de confirmation lors de la copie des fichiers.
-```
+> [!info] Options
+> -   `-a` : copie le fichier ou le répertoire ainsi que tous ses attributs, comme les permissions et les propriétaires.
+> -   `-i` : demande confirmation avant d'écraser un fichier existant.
+> -   `-r` : copie récursivement les sous-répertoires et leur contenu.
+> -   `-v` : affiche des messages de confirmation lors de la copie des fichiers.
 
 ## Exemples d'utilisation de `cp`
 

@@ -31,10 +31,11 @@ mv test.txt example.txt
 
 La commande `mv` prend également en charge plusieurs options qui vous permettent de contrôler son comportement :
 
--   `-f` : ignore toutes les erreurs et force le déplacement ou le renommage du fichier ou du dossier.
--   `-i` : demande une confirmation avant de déplacer ou de renommer le fichier ou le dossier.
--   `-n` : n'écrase pas les fichiers existants et renvoie une erreur si le fichier de destination existe déjà.
--   `-v` : affiche les noms des fichiers et des dossiers qui sont déplacés ou renommés.
+> [!info] Options
+> -   `-f` : ignore toutes les erreurs et force le déplacement ou le renommage du fichier ou du dossier.
+> -   `-i` : demande une confirmation avant de déplacer ou de renommer le fichier ou le dossier.
+> -   `-n` : n'écrase pas les fichiers existants et renvoie une erreur si le fichier de destination existe déjà.
+> -   `-v` : affiche les noms des fichiers et des dossiers qui sont déplacés ou renommés.
 
 Voici quelques exemples d'utilisation de ces options :
 

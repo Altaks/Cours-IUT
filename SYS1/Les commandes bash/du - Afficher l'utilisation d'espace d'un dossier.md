@@ -12,17 +12,14 @@ du [options] [répertoire]
 
 La commande `du` prend en argument le répertoire à analyser, qui peut être un répertoire local ou un répertoire sur un système de fichiers distant (via un protocole de partage de fichiers comme NFS ou SMB). Si aucun répertoire n'est spécifié, `du` analyse l'ensemble du système de fichiers.
 
-```ad-info
-title: Arguments
 Voici quelques options couramment utilisées avec la commande `du` :
 
--   `-a` : affiche l'espace disque occupé par chaque fichier et répertoire, en plus de l'espace disque occupé par l'ensemble du répertoire.
-  
--   `-h` : affiche l'espace disque occupé en unités lisibles par l'homme (Go, Mo, Ko, etc.).
--   `-s` : affiche seulement l'espace disque occupé par l'ensemble du répertoire, pas par chaque fichier et sous-répertoire.
--   `-c` : affiche le total de l'espace disque occupé par tous les répertoires analysés.
--   `-L n` : suit les liens symboliques jusqu'à n niveaux de profondeur.
-```
+> [!info] Options
+> -   `-a` : affiche l'espace disque occupé par chaque fichier et répertoire, en plus de l'espace disque occupé par l'ensemble du répertoire.
+> -   `-h` : affiche l'espace disque occupé en unités lisibles par l'homme (Go, Mo, Ko, etc.).
+> -   `-s` : affiche seulement l'espace disque occupé par l'ensemble du répertoire, pas par chaque fichier et sous-répertoire.
+> -   `-c` : affiche le total de l'espace disque occupé par tous les répertoires analysés.
+> -   `-L n` : suit les liens symboliques jusqu'à n niveaux de profondeur.
 
 Voici un exemple d'utilisation de la commande `du` pour afficher l'espace disque occupé par l'ensemble du système de fichiers, en utilisant des unités lisibles par l'homme et en incluant l'espace disque occupé par chaque fichier et répertoire :
 

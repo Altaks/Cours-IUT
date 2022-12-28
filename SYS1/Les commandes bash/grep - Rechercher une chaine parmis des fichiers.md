@@ -21,19 +21,16 @@ grep "example" test.txt
 
 Lorsque vous exécutez cette commande, `grep` affiche toutes les lignes du fichier qui contiennent la chaîne `example`.
 
-```ad-info
-title: Arguments
 La commande `grep` prend également en charge plusieurs options qui vous permettent de contrôler son comportement :
 
--   `-i` : ignore la casse lors de la recherche (ne fait pas la différence entre majuscules et minuscules).
-  
--   `-n` : affiche le numéro de ligne devant chaque ligne de sortie.
--   `-v` : inverse le processus de recherche, et affiche tous les fichiers qui ne disposent pas de la chaine de caractère spécifiée
--  `-l` : ne affiche que les noms des fichiers qui contiennent la chaîne de caractères recherchée.
--   `-c` : affiche le nombre de lignes qui correspondent à la chaîne de caractères recherchée pour chaque fichier.
--   `-r` : effectue la recherche de manière récursive dans tous les sous-répertoires.
--   `-o` : ne affiche que les parties des lignes qui correspondent à la chaîne de caractères recherchée.
-```
+> [!info] Options
+> -   `-i` : ignore la casse lors de la recherche (ne fait pas la différence entre majuscules et minuscules). 
+> -   `-n` : affiche le numéro de ligne devant chaque ligne de sortie.
+> -   `-v` : inverse le processus de recherche, et affiche tous les fichiers qui ne disposent pas de la chaine de caractère spécifiée
+> -  `-l` : ne affiche que les noms des fichiers qui contiennent la chaîne de caractères recherchée.
+> -   `-c` : affiche le nombre de lignes qui correspondent à la chaîne de caractères recherchée pour chaque fichier.
+> -   `-r` : effectue la recherche de manière récursive dans tous les sous-répertoires.
+> -   `-o` : ne affiche que les parties des lignes qui correspondent à la chaîne de caractères recherchée.
 
 Voici quelques exemples d'utilisation de ces options :
 

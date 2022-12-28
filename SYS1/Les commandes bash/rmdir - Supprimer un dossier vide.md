@@ -11,14 +11,11 @@ rmdir [options] répertoire
 
 La commande `rmdir` prend en argument le nom du répertoire à supprimer, qui peut être un répertoire local ou un répertoire sur un système de fichiers distant (via un protocole de partage de fichiers comme NFS ou SMB).
 
-```ad-info
-title: Arguments
 Voici quelques options couramment utilisées avec la commande `rmdir` :
 
--   `-p` : permet de supprimer également les répertoires parent qui sont vides, jusqu'à ce qu'un répertoire non vide soit rencontré.
-  
--   `-v` : affiche des messages de confirmation pour chaque répertoire supprimé.
-```
+> [!info] Options
+> -   `-p` : permet de supprimer également les répertoires parent qui sont vides, jusqu'à ce qu'un répertoire non vide soit rencontré.
+> -   `-v` : affiche des messages de confirmation pour chaque répertoire supprimé.
 
 Voici un exemple de suppression du répertoire `répertoire1` et de tous les répertoires parent vides :
 

@@ -105,18 +105,15 @@ ls -t -S
 
 ## Liste complète des options de la commande `ls`
 
-```ad-info
-title: Arguments
 Voici une liste des options couramment utilisées avec la commande `ls` :
 
--  `-a` : affiche tous les fichiers et répertoires, y compris ceux qui sont cachés (c'est-à-dire dont le nom commence par un point).
-  
--  `-l` : affiche la liste des fichiers et répertoires avec plus de détails, tels que la taille du fichier, les droits d'accès et la date de modification.
--  `-d` : affiche seulement les répertoires eux-mêmes, et non leur contenu.
--  `-h` : affiche les tailles de fichier de manière lisible par l'homme (c'est-à-dire en utilisant des unités comme K, M ou G au lieu de chiffres bruts).
--  `-R` : affiche récursivement la liste des fichiers et répertoires de tous les sous-répertoires du répertoire spécifié.
--  `-S` : trie la liste des fichiers et répertoires par taille, du plus grand au plus petit.
--  `-t` : trie la liste des fichiers et répertoires par date de modification, du plus récent au plus ancien.
-```
+> [!info] Options
+> -  `-a` : affiche tous les fichiers et répertoires, y compris ceux qui sont cachés (c'est-à-dire dont le nom commence par un point).
+> -  `-l` : affiche la liste des fichiers et répertoires avec plus de détails, tels que la taille du fichier, les droits d'accès et la date de modification.
+> -  `-d` : affiche seulement les répertoires eux-mêmes, et non leur contenu.
+> -  `-h` : affiche les tailles de fichier de manière lisible par l'homme (c'est-à-dire en utilisant des unités comme K, M ou G au lieu de chiffres bruts).
+> -  `-R` : affiche récursivement la liste des fichiers et répertoires de tous les sous-répertoires du répertoire spécifié.
+> -  `-S` : trie la liste des fichiers et répertoires par taille, du plus grand au plus petit.
+> -  `-t` : trie la liste des fichiers et répertoires par date de modification, du plus récent au plus ancien.
 
 Il existe de nombreuses autres options disponibles pour la commande `ls`, vous pouvez donc personnaliser l'affichage de la liste de fichiers et répertoires selon vos besoins. Pour en savoir plus sur les options disponibles, vous pouvez consulter la documentation de votre shell ou utiliser la commande `man ls` pour afficher la page de manuel de `ls`.
