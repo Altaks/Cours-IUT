@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cb4eab8108038bb",
+        "id": "42808b0afcf83a67",
         "type": "tabs",
         "children": [
           {
-            "id": "bfd7d30897fbeec4",
+            "id": "ab45f8d17f1b98ec",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,19 +16,103 @@
             }
           },
           {
-            "id": "f4c10a088e374744",
+            "id": "48f6970e876176ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SYS1/Sha-bang.md",
+                "file": "BD1/SQL - Dépendences et Restrictions/PK - Clé primaire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0513f60a6c512cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BD1/SQL - Dépendences et Restrictions/UNIQUE - Clé unique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08a579c2842cd4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BD1/SQL - Dépendences et Restrictions/FK - Clé étrangère.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "436bc25afd7b9775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BD1/SQL - Requêtes/SELECT - Afficher des valeurs depuis une table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16393e2488fc5b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BD1/SQL - Jointure et Tables virtuelles/NATURAL JOIN - Jointure naturelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca9c3ff2f51b9083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BD1/SQL - Jointure et Tables virtuelles/LEFT JOIN - Jointure (gauche) sur attribut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e518b0a0871036c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BD1/SQL - Jointure et Tables virtuelles/RIGHT JOIN - Jointure (droite) sur attribut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "108ec14a6e4412a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BD1/SQL - Requêtes/INSERT - Insérer des valeurs dans des tables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -94,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYS1/Sha-bang.md",
+                "file": "BD1/SQL - Requêtes/INSERT - Insérer des valeurs dans des tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SYS1/Sha-bang.md",
+                "file": "BD1/SQL - Requêtes/INSERT - Insérer des valeurs dans des tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SYS1/Sha-bang.md"
+                "file": "BD1/SQL - Requêtes/INSERT - Insérer des valeurs dans des tables.md"
               }
             }
           },
@@ -165,17 +249,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4c10a088e374744",
+  "active": "108ec14a6e4412a4",
   "lastOpenFiles": [
-    "OMF/Calculer la valeur d'un polynôme.md",
-    "ARCHI1/Codage des nombres entiers.md",
-    "ARCHI1/Codage des caractères.md",
-    "SYS1/Les scripts/Les boucles.md",
-    "SYS1/Les scripts/Les conditions.md",
-    "SYS1/Les scripts/Les variables.md",
-    "SYS1/Les commandes bash/tree - Afficher l'arborescence.md",
-    "ARCHI1/La numération actuelle.md",
-    "ARCHI1/Codage des nombres flottants.md",
-    "SYS1/Les commandes bash/touch - Créer des fichiers.md"
+    "BD1/SQL - Requêtes/SELECT - Afficher des valeurs depuis une table.md",
+    "BD1/SQL - Jointure et Tables virtuelles/LEFT OUTER JOIN, RIGHT OUTER JOIN - Jointure complète.md",
+    "BD1/SQL - Jointure et Tables virtuelles/RIGHT JOIN - Jointure (droite) sur attribut.md",
+    "BD1/SQL - Jointure et Tables virtuelles/LEFT JOIN - Jointure (gauche) sur attribut.md",
+    "BD1/SQL - Jointure et Tables virtuelles/NATURAL JOIN - Jointure naturelle.md",
+    "BD1/SQLPlus - Client de serveur.md",
+    "BD1/SQL - Dépendences et Restrictions/CHECK - Restriction de valeur.md",
+    "BD1/SQL - Dépendences et Restrictions/FK - Clé étrangère.md",
+    "BD1/SQL - Dépendences et Restrictions/UNIQUE - Clé unique.md",
+    "BD1/SQL - Dépendences et Restrictions/PK - Clé primaire.md"
   ]
 }
