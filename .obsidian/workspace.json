@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2964aeb03e595787",
+        "id": "c4b08f89df1339b3",
         "type": "tabs",
         "children": [
           {
-            "id": "2a4b9ab1f20e20aa",
+            "id": "c58593a560042cb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SYS1/Les commandes bash/tree - Afficher l'arborescence.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYS1/Les commandes bash/tree - Afficher l'arborescence.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SYS1/Les commandes bash/tree - Afficher l'arborescence.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SYS1/Les commandes bash/tree - Afficher l'arborescence.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a4b9ab1f20e20aa",
+  "active": "c58593a560042cb3",
   "lastOpenFiles": [
-    "SYS1/Les scripts/Les variables.md",
-    "ARCHI1/L'encodage binaire des nombres entiers.md",
-    "SYS1/Les scripts/Les arguments de lancement.md",
-    "SYS1/Les scripts/Les boucles.md",
-    "SYS1/Les scripts/Les conditions.md",
-    "SYS1/Les permissions/La notation octale.md",
-    "SYS1/Les permissions/Une vue globale.md",
+    "SYS1/Un shell, c'est quoi.md",
     "SYS1/Les utilisateurs/Gérer un utilisateur.md",
     "SYS1/Les utilisateurs/Gérer un groupe.md",
-    "SYS1/Les permissions/La notation alphabétique.md"
+    "SYS1/Les scripts/Les arguments de lancement.md",
+    "SYS1/Les scripts/Les variables.md",
+    "SYS1/Les scripts/Les conditions.md",
+    "README.md",
+    "SYS1/Les scripts/Les boucles.md",
+    "SYS1/Les commandes bash/ls - Lister les fichiers.md",
+    "SYS1/Les commandes bash/less - Afficher les pages d'un fichier.md"
   ]
 }

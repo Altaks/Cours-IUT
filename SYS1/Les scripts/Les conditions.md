@@ -20,7 +20,7 @@ fi
 L'expression doit être placée entre crochets `[]` et doit être suivie d'un point-virgule `;`. Le mot-clé `then` indique le début des instructions à exécuter si l'expression est vraie, et le mot-clé `else` indique le début des instructions à exécuter si l'expression est fausse. Le mot-clé `fi` marque la fin de la condition.
 
 ```ad-important
-title: Comparateurs
+title: Comment comparer ?
 Voici quelques exemples d'expressions couramment utilisées en Bash :
 
 -   `-z "$string"` : vérifie si la chaîne `string` est vide (c'est-à-dire si elle a une longueur de 0).

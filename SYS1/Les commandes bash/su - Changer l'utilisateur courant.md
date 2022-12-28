@@ -38,3 +38,7 @@ su -m user
 ```
 
 Il est important de noter que la commande `su` nécessite de connaitre le mot de passe de l'utilisateur sur lequel vous souhaitez vous connecter
+
+**Cours à voir :**
+- [[Un utilisateur, c'est quoi]]
+- [[Gérer un utilisateur]]

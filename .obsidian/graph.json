@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 15214277
       }
+    },
+    {
+      "query": "path:\"SYS1/Les scripts\"",
+      "color": {
+        "a": 1,
+        "rgb": 15472728
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.41599798120349657,
+  "scale": 0.4159979812034954,
   "close": true
 }

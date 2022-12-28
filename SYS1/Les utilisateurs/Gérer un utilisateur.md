@@ -74,3 +74,6 @@ Voici un exemple de modification du commentaire du compte de l'utilisateur `util
 ```bash
 sudo usermod -c "Nouveau commentaire" -g groupe2 utilisateur1
 ```
+
+**Cours à voir :**
+- [[su - Changer l'utilisateur courant]]
