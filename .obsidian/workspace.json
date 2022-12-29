@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "746797b9c00f7b59",
+        "id": "e367059a03959e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "dc744a7c98306441",
+            "id": "69498e9b31777f7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -148,17 +148,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc744a7c98306441",
+  "active": "69498e9b31777f7c",
   "lastOpenFiles": [
-    "WEB1/HTML/Balises/img, figure, video - Images et vidéos.md",
-    "WEB1/HTML/Balises/script - Intégrer du JavaScript.md",
+    "WEB1/HTML/Balises/form, input - Formulaires.md",
     "WEB1/HTML/Balises/div, section - Partitionner sa page.md",
-    "WEB1/HTML/Balises/iframe - Intégration de page.md",
-    "WEB1/HTML/Balises/nav - Menu de navigation.md",
-    "WEB1/HTML/Balises/pre, code - Ecrire du code.md",
-    "WEB1/HTML/Balises/button - Bouton.md",
-    "WEB1/HTML/Balises/b, em, i - Format de texte.md",
-    "WEB1/HTML/Balises/h1, h2 , h3, h4, h5, h6 - Titres.md",
-    "WEB1/HTML/Balises/input, form - Formulaires.md"
+    "BD1/SQL - Requêtes/CREATE TABLE - Créer des tables.md",
+    "BD1/SQL - Requêtes/INSERT - Insérer des valeurs dans des tables.md",
+    "BD1/SQL, SGBD - C'est quoi.md",
+    "BD1/SQLPlus - Client de serveur.md",
+    "ARCHI1/Codage des nombres flottants.md",
+    "ARCHI1/La numération actuelle.md",
+    "BD1/SQL - Dépendences et Restrictions/PK - Clé primaire.md",
+    "BD1/SQL - Dépendences et Restrictions/CHECK - Restriction de valeur.md"
   ]
 }

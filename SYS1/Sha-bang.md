@@ -1,3 +1,6 @@
+**Cours liés :**
+- [[Un shell, c'est quoi]]
+
 ## Le sha-bang, c'est quoi ?
 
 Le sha-bang, également connu sous le nom de shebang ou hashbang, est une ligne de commentaire spéciale qui se trouve en tête de certains scripts Linux. Il est utilisé pour indiquer au système l'interpréteur à utiliser pour exécuter le script.

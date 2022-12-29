@@ -18,14 +18,14 @@
       "query": "path:\"DEV/2. Les fonctions\"",
       "color": {
         "a": 1,
-        "rgb": 14514486
+        "rgb": 12998156
       }
     },
     {
       "query": "path:\"DEV/3. La Programmation Orientée Objet\"",
       "color": {
         "a": 1,
-        "rgb": 15791141
+        "rgb": 15822596
       }
     },
     {
@@ -60,20 +60,69 @@
       "query": "path:ARCHI1",
       "color": {
         "a": 1,
-        "rgb": 714334
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"BD1/SQL - Requêtes\"",
+      "color": {
+        "a": 1,
+        "rgb": 1845731
+      }
+    },
+    {
+      "query": "path:\"BD1/SQL - Dépendences et Restrictions\"",
+      "color": {
+        "a": 1,
+        "rgb": 3628795
+      }
+    },
+    {
+      "query": "path:\"BD1/SQL - Fonctions d'agrégations\"",
+      "color": {
+        "a": 1,
+        "rgb": 2132974
+      }
+    },
+    {
+      "query": "path:\"BD1/SQL - Jointure et Tables virtuelles\"",
+      "color": {
+        "a": 1,
+        "rgb": 3000294
+      }
+    },
+    {
+      "query": "path:WEB1/HTML",
+      "color": {
+        "a": 1,
+        "rgb": 14415624
+      }
+    },
+    {
+      "query": "path:WEB1/CSS",
+      "color": {
+        "a": 1,
+        "rgb": 8366601
+      }
+    },
+    {
+      "query": "path:OMF",
+      "color": {
+        "a": 1,
+        "rgb": 844916
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.325,
+  "nodeSizeMultiplier": 1.30458333333333,
   "lineSizeMultiplier": 0.753014322916667,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.5125,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5038336078507766,
+  "linkDistance": 253,
+  "scale": 0.34965970272166264,
   "close": true
 }
