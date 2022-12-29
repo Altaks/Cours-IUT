@@ -9,10 +9,10 @@ Voici un exemple de définition d'une clé unique lors de la création d'une tab
 
 ```sql
 CREATE TABLE utilisateurs (
-  id      NUMBER       PRIMARY KEY,
-  email   VARCHAR(255) UNIQUE,
-  nom     VARCHAR(255),
-  prenom  VARCHAR(255),
+  id      NUMBER        PRIMARY KEY,
+  email   VARCHAR2(255) UNIQUE,
+  nom     VARCHAR2(255),
+  prenom  VARCHAR2(255),
   age     NUMBER
 );
 ```

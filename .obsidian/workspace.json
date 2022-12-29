@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "42808b0afcf83a67",
+        "id": "746797b9c00f7b59",
         "type": "tabs",
         "children": [
           {
-            "id": "0513f60a6c512cce",
+            "id": "dc744a7c98306441",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BD1/SQL - Dépendences et Restrictions/UNIQUE - Clé unique.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BD1/SQL - Dépendences et Restrictions/UNIQUE - Clé unique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BD1/SQL - Dépendences et Restrictions/UNIQUE - Clé unique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BD1/SQL - Dépendences et Restrictions/UNIQUE - Clé unique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +148,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0513f60a6c512cce",
+  "active": "dc744a7c98306441",
   "lastOpenFiles": [
-    "BD1/SQL - Dépendences et Restrictions/FK - Clé étrangère.md",
-    "BD1/SQL - Requêtes/SELECT - Afficher des valeurs depuis une table.md",
-    "BD1/SQL - Jointure et Tables virtuelles/NATURAL JOIN - Jointure naturelle.md",
-    "BD1/SQL - Jointure et Tables virtuelles/LEFT JOIN - Jointure (gauche) sur attribut.md",
-    "BD1/SQL - Jointure et Tables virtuelles/RIGHT JOIN - Jointure (droite) sur attribut.md",
-    "BD1/SQL - Jointure et Tables virtuelles/INNER JOIN, OUTER JOIN - Quelle différence.md",
-    "BD1/SQL - Requêtes/CREATE TABLE - Créer des tables.md",
-    "BD1/SQL - Dépendences et Restrictions/UNIQUE - Clé unique.md",
-    "BD1/SQL - Dépendences et Restrictions/CHECK - Restriction de valeur.md",
-    "BD1/SQL - Dépendences et Restrictions/PK - Clé primaire.md"
+    "WEB1/HTML/Balises/img, figure, video - Images et vidéos.md",
+    "WEB1/HTML/Balises/script - Intégrer du JavaScript.md",
+    "WEB1/HTML/Balises/div, section - Partitionner sa page.md",
+    "WEB1/HTML/Balises/iframe - Intégration de page.md",
+    "WEB1/HTML/Balises/nav - Menu de navigation.md",
+    "WEB1/HTML/Balises/pre, code - Ecrire du code.md",
+    "WEB1/HTML/Balises/button - Bouton.md",
+    "WEB1/HTML/Balises/b, em, i - Format de texte.md",
+    "WEB1/HTML/Balises/h1, h2 , h3, h4, h5, h6 - Titres.md",
+    "WEB1/HTML/Balises/input, form - Formulaires.md"
   ]
 }
