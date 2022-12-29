@@ -11,8 +11,12 @@
             "id": "69498e9b31777f7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -150,6 +158,7 @@
   },
   "active": "69498e9b31777f7c",
   "lastOpenFiles": [
+    "OMF/Calculer la valeur d'un polynôme.md",
     "WEB1/HTML/Balises/form, input - Formulaires.md",
     "WEB1/HTML/Balises/div, section - Partitionner sa page.md",
     "BD1/SQL - Requêtes/CREATE TABLE - Créer des tables.md",
@@ -158,7 +167,6 @@
     "BD1/SQLPlus - Client de serveur.md",
     "ARCHI1/Codage des nombres flottants.md",
     "ARCHI1/La numération actuelle.md",
-    "BD1/SQL - Dépendences et Restrictions/PK - Clé primaire.md",
-    "BD1/SQL - Dépendences et Restrictions/CHECK - Restriction de valeur.md"
+    "BD1/SQL - Dépendences et Restrictions/PK - Clé primaire.md"
   ]
 }
