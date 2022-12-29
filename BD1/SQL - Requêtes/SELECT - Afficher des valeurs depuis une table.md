@@ -1,3 +1,6 @@
+**Cours liés :**
+- [[INSERT - Insérer des valeurs dans des tables]]
+
 La requête `SELECT` est l'une des commandes les plus couramment utilisées en SQL (Structured Query Language). Elle permet de sélectionner des données d'une base de données et de les afficher à l'écran ou de les utiliser dans une autre requête.
 
 Voici comment utiliser la requête `SELECT` :

@@ -1,3 +1,7 @@
+**Cours liés :**
+- [[DELETE - Supprimer le contenu des tables]]
+- [[UPDATE - Mettre a jour des valeurs]]
+
 La requête `INSERT` est utilisée en SQL pour ajouter de nouvelles lignes à une table de base de données. Elle prend la forme suivante :
 
 ```sql
