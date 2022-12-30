@@ -11,11 +11,11 @@ NATURAL JOIN table2;
 Voici comment utiliser la clause `NATURAL JOIN` :
 
 1.  Sélectionnez les colonnes que vous souhaitez récupérer à l'aide de la clause `SELECT`. Vous pouvez utiliser l'asterisque `*` pour sélectionner toutes les colonnes.
-    
+
 2.  Utilisez la clause `FROM` pour spécifier les tables à joindre.
-    
+
 3.  Utilisez la clause `NATURAL JOIN` pour effectuer la jointure entre les tables.
-    
+
 
 Voici un exemple de requête avec la clause `NATURAL JOIN` :
 

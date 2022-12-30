@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e367059a03959e8e",
+        "id": "87e92b72a2587f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "69498e9b31777f7c",
+            "id": "d22d1c135905bed6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "OMF/Calculer la valeur d'un polynôme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "OMF/Calculer la valeur d'un polynôme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "OMF/Calculer la valeur d'un polynôme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "OMF/Calculer la valeur d'un polynôme.md"
               }
             }
           },
@@ -156,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69498e9b31777f7c",
+  "active": "d22d1c135905bed6",
   "lastOpenFiles": [
-    "OMF/Calculer la valeur d'un polynôme.md",
-    "WEB1/HTML/Balises/form, input - Formulaires.md",
-    "WEB1/HTML/Balises/div, section - Partitionner sa page.md",
-    "BD1/SQL - Requêtes/CREATE TABLE - Créer des tables.md",
-    "BD1/SQL - Requêtes/INSERT - Insérer des valeurs dans des tables.md",
-    "BD1/SQL, SGBD - C'est quoi.md",
-    "BD1/SQLPlus - Client de serveur.md",
-    "ARCHI1/Codage des nombres flottants.md",
-    "ARCHI1/La numération actuelle.md",
-    "BD1/SQL - Dépendences et Restrictions/PK - Clé primaire.md"
+    "SYS1/Les commandes bash/echo - Afficher du texte.md",
+    "DEV/1. Bases/16. Les pointeurs.md",
+    "DEV/1. Bases/15. Les références.md",
+    "Sans titre.canvas",
+    "SYS1/Un shell, c'est quoi.md",
+    "SYS1/Les scripts/Les variables.md",
+    "SYS1/Les scripts/Les conditions.md",
+    "SYS1/Les scripts/Les boucles.md",
+    "SYS1/Les permissions/La notation octale.md",
+    "SYS1/Les permissions/Une vue globale.md"
   ]
 }

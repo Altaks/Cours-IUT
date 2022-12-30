@@ -166,7 +166,7 @@ Qui peut être écrite en **pseudocode** :
 > [!hint] Algorithme en pseudocode 
 > $Res \leftarrow a_n$
 > Pour $i$ allant de $1$ à $n$ :
-> $\qquad$$Res \leftarrow Res \times x + a_{n-i-1}$
+> $\qquad$$Res \leftarrow Res \times x + a_{n-i}$
 > Retourner $Res$
 
 Ce qui donne alors en *python* avec un polynôme sous forme de liste de coefficients :
