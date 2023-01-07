@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"DEV/1. Bases\"",
@@ -22,7 +22,14 @@
       }
     },
     {
-      "query": "path:\"DEV/3. La Programmation Orientée Objet\"",
+      "query": "path:\"DEV/3. Les structures de données\"",
+      "color": {
+        "a": 1,
+        "rgb": 10429219
+      }
+    },
+    {
+      "query": "path:\"DEV/4. La Programmation Orientée Objet\"",
       "color": {
         "a": 1,
         "rgb": 15822596
@@ -64,28 +71,28 @@
       }
     },
     {
-      "query": "path:\"BD1/SQL - Requêtes\"",
+      "query": "path:\"BD1/1. SQL - Requêtes\"",
       "color": {
         "a": 1,
         "rgb": 1845731
       }
     },
     {
-      "query": "path:\"BD1/SQL - Dépendences et Restrictions\"",
+      "query": "path:\"BD1/3. SQL - Dépendences et Restrictions\"",
       "color": {
         "a": 1,
         "rgb": 3628795
       }
     },
     {
-      "query": "path:\"BD1/SQL - Fonctions d'agrégations\"",
+      "query": "path:\"BD1/2. SQL - Fonctions d'agrégations\"",
       "color": {
         "a": 1,
         "rgb": 2132974
       }
     },
     {
-      "query": "path:\"BD1/SQL - Jointure et Tables virtuelles\"",
+      "query": "path:\"BD1/4. SQL - Jointure et Tables virtuelles\"",
       "color": {
         "a": 1,
         "rgb": 3000294
@@ -111,9 +118,23 @@
         "a": 1,
         "rgb": 844916
       }
+    },
+    {
+      "query": "path:MD",
+      "color": {
+        "a": 1,
+        "rgb": 2420925
+      }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.30458333333333,
@@ -123,6 +144,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 253,
-  "scale": 0.26986071124479605,
+  "scale": 0.2621376108230804,
   "close": true
 }

@@ -7,6 +7,7 @@ Lorsque
 Lorsqu
 Liste
 Linux
+LinkedList
 balise
 but
 balises
@@ -431,6 +432,7 @@ renvoient
 recevant
 refl
 rencier
+ragir
 de
 documents
 document
@@ -772,6 +774,8 @@ Method
 Mo
 Manipuler
 Modifier
+MD
+Matrices
 Elle
 En
 Exemples
@@ -1486,6 +1490,7 @@ const
 chage
 choses
 chain
+correspondrait
 autres
 avant
 au
@@ -1687,6 +1692,8 @@ assign
 assignation
 allouer
 attribuer
+al
+atoire
 Voici
 Valeurs
 Vous
@@ -2049,6 +2056,7 @@ solution
 sortant
 sallouer
 sommet
+simplifi
 Dans
 DEV
 De
@@ -2149,6 +2157,7 @@ verticales
 value
 voulons
 vont
+vive
 Il
 Ils
 Internet

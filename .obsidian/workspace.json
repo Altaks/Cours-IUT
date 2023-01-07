@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f3d3e06937f4bd9",
+        "id": "7cbe7702c7f9c5c8",
         "type": "tabs",
         "children": [
           {
-            "id": "774ec64d938f1cd0",
+            "id": "a64e0bc611491e1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.3 Matrices symétiques et antisymétriques.md",
+                "file": "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.3 Matrices symétiques et antisymétriques.md",
+                "file": "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.3 Matrices symétiques et antisymétriques.md",
+                "file": "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.3 Matrices symétiques et antisymétriques.md"
+                "file": "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md"
               }
             }
           },
@@ -163,17 +163,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "774ec64d938f1cd0",
+  "active": "a64e0bc611491e1a",
   "lastOpenFiles": [
-    "OMF/1. Les matrices/1.1 Définitions et notations.md",
+    "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
     "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
-    "ARCHI1/1. La numération actuelle.md",
-    "ARCHI1/4. Codage des caractères.md",
-    "OMF/Calculer la valeur d'un polynôme.md",
-    "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.1 La matrice Identité.md",
-    "OMF/2. Systèmes linéaires/2.4 Résolution par la méthode du pivot.md",
+    "DEV/3. Les structures de données/3.1 Les listes chaînées.md",
+    "DEV/3. Les structures de données/3.2 Les piles.md",
+    "MD/Introduction au Mathématiques Discrètes.md",
+    "OMF/2. Systèmes linéaires/2.1 Equations linéaires de 1 à 3 inconnues.md",
+    "OMF/Introduction aux Outils Mathématiques Fondamentaux.md",
+    "README.md",
     "OMF/2. Systèmes linéaires/2.3 Cas particulier des systèmes échelonnés.md",
-    "OMF/2. Systèmes linéaires/2.2 Théorie des systèmes linéaires.md",
-    "OMF/2. Systèmes linéaires/2.1 Equations linéaires de 1 à 3 inconnues.md"
+    "OMF/2. Systèmes linéaires/2.2 Théorie des systèmes linéaires.md"
   ]
 }
