@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD/3. Calcul booléen/3.1 Algèbre de Boole.md",
+                "file": "OMF/Calculer la valeur d'un polynôme.md",
                 "mode": "source",
                 "source": false
               }
@@ -235,8 +235,7 @@
               }
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MD/3. Calcul booléen/3.1 Algèbre de Boole.md",
+                "file": "OMF/Calculer la valeur d'un polynôme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD/3. Calcul booléen/3.1 Algèbre de Boole.md",
+                "file": "OMF/Calculer la valeur d'un polynôme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MD/3. Calcul booléen/3.1 Algèbre de Boole.md"
+                "file": "OMF/Calculer la valeur d'un polynôme.md"
               }
             }
           },
@@ -380,17 +379,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d961e0fae78a17c1",
+  "active": "c98daced2f5aa6b2",
   "lastOpenFiles": [
     "ARCHI1/La numération actuelle.md",
     "OMF/Calculer la valeur d'un polynôme.md",
+    "ARCHI1/Codage des nombres flottants.md",
+    "MD/3. Calcul booléen/3.1 Algèbre de Boole.md",
     "DEV/3. Les structures de données/Les listes chaînées.md",
     "DEV/3. Les structures de données/Les arbres.md",
     "DEV/3. Les structures de données/Les maps (dictionnaires).md",
     "DEV/3. Les structures de données/Les piles.md",
     "DEV/3. Les structures de données/Les files.md",
-    "MD/5. Arithmétique/5.4 PGCD, PPCM et applications.md",
-    "MD/5. Arithmétique/5.6 Théorème de Bézout.md",
-    "MD/5. Arithmétique/5.7 Les nombres premiers.md"
+    "MD/5. Arithmétique/5.4 PGCD, PPCM et applications.md"
   ]
 }

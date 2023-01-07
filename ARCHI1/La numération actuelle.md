@@ -30,36 +30,37 @@ On peut alors compter en unités, en dizaines, en centaines, en milliers, etc.
 | Valeur décimale | $4 \times 10^3 = 4000$ | $7 \times 10^2 = 700$ | $8 \times 10^1 = 80$       |  $5\times 10^0 = 5$      |
 Ce qui nous donne finalement  $4000 + 700 + 80 + 5 = 4785$
 
-Le poids $\textcolor{lime}p$ d’un symbole, dans une juxtaposition, est lié à la $\color{orange}base$ de numération et au rang ($\color{red}r$) qu’occupe le symbole par la relation suivante :
+Le poids $\textcolor{lime}p$ d’un symbole, dans une juxtaposition, est lié à la $\color{orange}base$ de numération et au rang $\color{pink}r$
+qu’occupe le symbole par la relation suivante :
 
-$$\textcolor{lime}p = \textcolor{orange}{base}^\textcolor{red}r$$
+$$\textcolor{lime}p = \textcolor{orange}{base}^\textcolor{pink}r$$
 ## La forme canonique, la notation qui supporte toutes les bases
 
 Il est ainsi possible d'exprimer n'importe quel nombre dans sa forme **canonique** :
 
 $$
-(\textcolor{yellow}a_\textcolor{red}{n} \text{ } \textcolor{yellow}a_\textcolor{red}{n-1} \text{ } \textcolor{yellow}a_\textcolor{red}{n-2} \text{ ... } \textcolor{yellow}a_\textcolor{red}2 \text{ } \textcolor{yellow}a_\textcolor{red}1 \text{ }  
-\textcolor{yellow}a_\textcolor{red}0 )_\textcolor{orange}B
+(\textcolor{yellow}a_\textcolor{pink}{n} \text{ } \textcolor{yellow}a_\textcolor{pink}{n-1} \text{ } \textcolor{yellow}a_\textcolor{pink}{n-2} \text{ ... } \textcolor{yellow}a_\textcolor{pink}2 \text{ } \textcolor{yellow}a_\textcolor{pink}1 \text{ }  
+\textcolor{yellow}a_\textcolor{pink}0 )_\textcolor{orange}B
 $$
 
 Soit 
 $$
-=(\textcolor{yellow}a_\textcolor{red}n\times \textcolor{orange}{B}^\textcolor{red}n)
-+(\textcolor{yellow}a_\textcolor{red}{n-1}\times \textcolor{orange}{B}^\textcolor{red}{n-1})
-+(\textcolor{yellow}a_\textcolor{red}{n-2}\times \textcolor{orange}{B}^\textcolor{red}{n-2}) 
+=(\textcolor{yellow}a_\textcolor{pink}n\times \textcolor{orange}{B}^\textcolor{pink}n)
++(\textcolor{yellow}a_\textcolor{pink}{n-1}\times \textcolor{orange}{B}^\textcolor{pink}{n-1})
++(\textcolor{yellow}a_\textcolor{pink}{n-2}\times \textcolor{orange}{B}^\textcolor{pink}{n-2}) 
 + \text{ ... } 
-+ (\textcolor{yellow}a_\textcolor{red}2\times \textcolor{orange}{B}^\textcolor{red}2)
-+ (\textcolor{yellow}a_\textcolor{red}1\times \textcolor{orange}{B}^\textcolor{red}1)
-+ (\textcolor{yellow}a_\textcolor{red}0\times \textcolor{orange}{B}^\textcolor{red}0)
++ (\textcolor{yellow}a_\textcolor{pink}2\times \textcolor{orange}{B}^\textcolor{pink}2)
++ (\textcolor{yellow}a_\textcolor{pink}1\times \textcolor{orange}{B}^\textcolor{pink}1)
++ (\textcolor{yellow}a_\textcolor{pink}0\times \textcolor{orange}{B}^\textcolor{pink}0)
 $$
 
 $\textcolor{orange}{B}$ : La base du nombre à convertir
-$\textcolor{red}{n}$ : Le nombre de chiffres ou de bits du nombre exprimé en base $\textcolor{orange}{B}$
-$\textcolor{yellow}a_\textcolor{red}i$ : Le chiffre ou bit de rang $\textcolor{red}i$ du nombre exprimé en base $\textcolor{orange}{B}$
+$\textcolor{pink}{n}$ : Le nombre de chiffres ou de bits du nombre exprimé en base $\textcolor{orange}{B}$
+$\textcolor{yellow}a_\textcolor{pink}i$ : Le chiffre ou bit de rang $\textcolor{pink}i$ du nombre exprimé en base $\textcolor{orange}{B}$
 
 Ce qui revient tout simplement à écrire quelque chose tel que : 
 $$
-(\textcolor{yellow}4 \times \textcolor{orange}{10}^\textcolor{red}3) + (\textcolor{yellow}7 \times \textcolor{orange}{10}^\textcolor{red}2) + (\textcolor{yellow}8 \times \textcolor{orange}{10}^\textcolor{red}1) + (\textcolor{yellow}5 \times \textcolor{orange}{10}^\textcolor{red}0) = \textcolor{yellow}{4785}
+(\textcolor{yellow}4 \times \textcolor{orange}{10}^\textcolor{pink}3) + (\textcolor{yellow}7 \times \textcolor{orange}{10}^\textcolor{pink}2) + (\textcolor{yellow}8 \times \textcolor{orange}{10}^\textcolor{pink}1) + (\textcolor{yellow}5 \times \textcolor{orange}{10}^\textcolor{pink}0) = \textcolor{yellow}{4785}
 $$
 $$
 (\textcolor{yellow}4 \times \textcolor{lime}{1000}) + (\textcolor{yellow}7 \times \textcolor{lime}{100}) + (\textcolor{yellow}8 \times \textcolor{lime}{10}) + (\textcolor{yellow}5 \times \textcolor{lime}{1}) = \textcolor{yellow}{4785}
