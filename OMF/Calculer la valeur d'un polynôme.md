@@ -1,6 +1,6 @@
 ## Un [polynôme](https://fr.wikipedia.org/wiki/Polyn%C3%B4me) c'est quoi ?
 
-Un polynôme est une expression mathématique qui consiste en une somme de termes de la forme $ax^n$, où $a$ est un nombre (appelé coefficient) et $n$ est un entier (appelé degré). Le degré d'un polynôme est le plus grand degré de ses termes. Par exemple, le polynôme $2x^2 + 3x + 1$ a un degré de 2.
+Un polynôme est une expression mathématique qui consiste en une somme de termes de la forme $\textcolor{magenta}a\textcolor{cyan}x^\textcolor{pink}n$, où $a$ est un nombre (appelé coefficient) et $n$ est un entier (appelé degré). Le degré d'un polynôme est le plus grand degré de ses termes. Par exemple, le polynôme $2x^2 + 3x + 1$ a un degré de 2.
 
 1. Les polynômes de degré 1 sont appelés polynômes du premier degré ou polynômes linéaires. Ils ont la forme $ax + b$, où $a$ et $b$ sont des nombres. 
     Par exemple, $3x + 2$ est un polynôme du premier degré.
@@ -11,27 +11,29 @@ Un polynôme est une expression mathématique qui consiste en une somme de terme
 2. Les polynômes de degré 3 sont appelés polynômes du troisième degré ou polynômes cubiques. Ils ont la forme $ax^3 + bx^2 + cx + d$, où $a$, $b$, $c$ et $d$ sont des nombres. 
     Par exemple, $x^3 + 2x^2 + 3x + 1$ est un polynôme du troisième degré.
 
-On peut généraliser cette définition en disant qu'un polynôme de degré $n$ a la forme 
+On peut généraliser cette définition en disant qu'un polynôme de degré $\color{pink}n$ a la forme 
 $$
-a_nx^n + a_{n-1}x^{n-1} + \text{ ... } + a_1x^1 + a_0
+\textcolor{magenta}a_\textcolor{pink}n\textcolor{cyan}x^\textcolor{pink}n + \textcolor{magenta}a_\textcolor{pink}{n-1}\textcolor{cyan}x^\textcolor{pink}{n-1} + \text{ ... } + \textcolor{magenta}a_\textcolor{pink}1\textcolor{cyan}x^\textcolor{pink}1 + \textcolor{magenta}a_\textcolor{pink}0
 $$
-Où $a_n$, $a_{n-1}$, ..., $a_1$ et $a_0$ sont des nombres appelés *coefficients*.
+Où $\textcolor{magenta}a_\textcolor{pink}n$, $\textcolor{magenta}a_\textcolor{pink}{n-1}$, ..., $\textcolor{magenta}a_\textcolor{pink}1$ et $\textcolor{magenta}a_\textcolor{pink}0$ sont des nombres appelés *coefficients*.
 
 Voici quelques exemples de polynômes de différents degrés :
 
--   $x + 1$ est un polynôme du premier degré.
--   $x^2 + 2x + 1$ est un polynôme du second degré.
--   $x^3 - 2x^2 + x - 1$ est un polynôme du troisième degré.
--   $x^4 - 3x^3 + 2x^2 - x + 1$ est un polynôme du quatrième degré.
+-   $\textcolor{cyan}x + \textcolor{magenta}1$ est un polynôme du premier degré.
+-   $\textcolor{cyan}x^\textcolor{pink}2 + \textcolor{magenta}2\textcolor{cyan}x + \textcolor{magenta}1$ est un polynôme du second degré.
+-   $\textcolor{cyan}x^\textcolor{pink}3 - \textcolor{magenta}2\textcolor{cyan}x^\textcolor{pink}2 + \textcolor{cyan}x - \textcolor{magenta}1$ est un polynôme du troisième degré.
+-   $\textcolor{cyan}x^\textcolor{pink}4 - \textcolor{magenta}3\textcolor{cyan}x^\textcolor{pink}3 + \textcolor{magenta}2\textcolor{cyan}x^\textcolor{pink}2 - \textcolor{cyan}x + \textcolor{magenta}1$ est un polynôme du quatrième degré. 
 
 # Calcul de la valeur d'un polynome : $P(x)$
 
 Il existe plusieurs méthodes pour calculer la valeur d'un polynôme.
 Nous allons étudier 3 méthodes différentes, plus ou moins efficaces ou simples à comprendre.
 
-Nous prendrons comme exemple un polynôme de degré 4 : 
+Nous prendrons comme exemple un polynôme de degré $\color{pink}4$ : 
 $$
-P(x) = a_4x^4 + a_3x^3 + a_2x^2+a_1x+a_0
+P(\textcolor{cyan}x) = 
+\textcolor{magenta}a_\textcolor{pink}4\textcolor{cyan}x^\textcolor{pink}4+\textcolor{magenta}a_\textcolor{pink}3\textcolor{cyan}x^\textcolor{pink}3+\textcolor{magenta}a_\textcolor{pink}2\textcolor{cyan}x^\textcolor{pink}2+\textcolor{magenta}a_\textcolor{pink}1\textcolor{cyan}x +
+\textcolor{magenta}a_\textcolor{pink}0
 $$
 ## Version 1 - Calcul classique
 
@@ -40,19 +42,19 @@ Explication du fonctionnement :
 > [!abstract] Fonctionnement
 > Voici le fonctionnement de base de la méthode
 > 
-> | Initialisation | $Res = a_0$ |
+> | Initialisation | $Res = \textcolor{magenta}a_\textcolor{pink}0$ |
 > | :---: | :---- | 
-> |Itération 1 | $Res = Res + a_1x^1$ |
-> |Itération 2 | $Res = Res + a_2x^2$ |
-> |Itération 3 | $Res = Res + a_3x^3$ |
-> |Itération 4 | $Res = Res + a_4x^4$ |
+> |Itération 1 | $Res = Res + \textcolor{magenta}a_\textcolor{pink}1\textcolor{cyan}x^\textcolor{pink}1$ |
+> |Itération 2 | $Res = Res + \textcolor{magenta}a_\textcolor{pink}2\textcolor{cyan}x^\textcolor{pink}2$ |
+> |Itération 3 | $Res = Res + \textcolor{magenta}a_\textcolor{pink}3\textcolor{cyan}x^\textcolor{pink}3$ |
+> |Itération 4 | $Res = Res + \textcolor{magenta}a_\textcolor{pink}4\textcolor{cyan}x^\textcolor{pink}4$ |
 
 Qui peut être écrite en **pseudocode** : 
 
 > [!hint] Algorithme en pseudocode 
-> $Res \leftarrow a_0$
-> Pour $i$ allant de $1$ à $n$ :
-> $\qquad$$Res \leftarrow Res +a_i \times x^i$
+> $Res \leftarrow \textcolor{magenta}a_\textcolor{pink}0$
+> Pour $\color{pink}i$ allant de $1$ à $\color{pink}n$ :
+> $\qquad$$Res \leftarrow Res + \textcolor{magenta}a_\textcolor{pink}i \times \textcolor{cyan}x^\textcolor{pink}i$
 > Retourner $Res$
 
 Ce qui donne alors en *python* avec un polynôme sous forme de liste de coefficients :
@@ -72,22 +74,22 @@ Explication du fonctionnement :
 > [!abstract] Fonctionnement
 > Voici le fonctionnement de base de la méthode
 > 
-> | Initialisation | $Res = a_0$ |
+> | Initialisation | $Res = \textcolor{magenta}a_\textcolor{pink}0$ |
 > | :---: | :---- | 
-> |Itération 1 | $Res = Res + a_1x^1$ |
-> |Itération 2 | $Res = Res + a_2x^2$ |
-> |Itération 3 | $Res = Res + a_3x^3$ |
-> |Itération 4 | $Res = Res + a_4x^4$ |
+> |Itération 1 | $Res = Res + \textcolor{magenta}a_\textcolor{pink}1\times\textcolor{cyan}x^\textcolor{pink}1$ |
+> |Itération 2 | $Res = Res + \textcolor{magenta}a_\textcolor{pink}2\times\textcolor{cyan}x^\textcolor{pink}2$ |
+> |Itération 3 | $Res = Res + \textcolor{magenta}a_\textcolor{pink}3\times\textcolor{cyan}x^\textcolor{pink}3$ |
+> |Itération 4 | $Res = Res + \textcolor{magenta}a_\textcolor{pink}4\times\textcolor{cyan}x^\textcolor{pink}4$ |
 
 Qui peut être écrite en **pseudocode** : 
 
 > [!hint] Algorithme en pseudocode 
-> $Res \leftarrow a_0$
-> Pour $i$ allant de $1$ à $n$ :
+> $Res \leftarrow \textcolor{magenta}a_\textcolor{pink}0$
+> Pour $\textcolor{pink}i$ allant de $1$ à $\textcolor{pink}n$ :
 > $\qquad$$Puiss \leftarrow 1$
-> $\qquad$Pour $k$ allant de $1$ à $i$ :
-> $\qquad$$\qquad$$Puiss \leftarrow Puiss \times x$ 
-> $\qquad$$Res \leftarrow Res +a_i \times Puiss$
+> $\qquad$Pour $\textcolor{orange}k$ allant de $1$ à $\textcolor{pink}i$ :
+> $\qquad$$\qquad$$Puiss \leftarrow Puiss \times \textcolor{cyan}x$ 
+> $\qquad$$Res \leftarrow Res +\textcolor{magenta}a_\textcolor{pink}i \times Puiss$
 > Retourner $Res$
 
 Ce qui donne alors en *python* avec un polynôme sous forme de liste de coefficients :
@@ -110,21 +112,21 @@ Explication du fonctionnement :
 > [!abstract] Fonctionnement
 > Voici le fonctionnement de base de la méthode
 > 
-> | Initialisation | $Res = a_0$ |
+> | Initialisation | $Res = \textcolor{magenta}a_\textcolor{pink}0$ |
 > | :---: | :---- | 
-> |Itération 1 | $Res = Res + a_1x^1$ |
-> |Itération 2 | $Res = Res + a_2x^2$ |
-> |Itération 3 | $Res = Res + a_3x^3$ |
-> |Itération 4 | $Res = Res + a_4x^4$ |
+> |Itération 1 | $Res = Res + (\textcolor{magenta}a_\textcolor{pink}1\times\textcolor{cyan}x^\textcolor{pink}0\times\textcolor{cyan}x)$ |
+> |Itération 2 | $Res = Res + (\textcolor{magenta}a_\textcolor{pink}2\times\textcolor{cyan}x^\textcolor{pink}1\times\textcolor{cyan}x)$ |
+> |Itération 3 | $Res = Res + (\textcolor{magenta}a_\textcolor{pink}3\times\textcolor{cyan}x^\textcolor{pink}2\times\textcolor{cyan}x)$ |
+> |Itération 4 | $Res = Res + (\textcolor{magenta}a_\textcolor{pink}4\times\textcolor{cyan}x^\textcolor{pink}3\times\textcolor{cyan}x)$ |
 
 Qui peut être écrite en **pseudocode** : 
 
 > [!hint] Algorithme en pseudocode 
-> $Res \leftarrow a_0$
+> $Res \leftarrow \textcolor{magenta}a_\textcolor{pink}0$
 > $Puiss \leftarrow 1$
-> Pour $i$ allant de $1$ à $n$ :
-> $\qquad$$Puiss \leftarrow Puiss \times x$
-> $\qquad$$Res \leftarrow Res +a_i \times Puiss$
+> Pour $\textcolor{pink}i$ allant de $1$ à $\textcolor{pink}n$ :
+> $\qquad$$Puiss \leftarrow Puiss \times \textcolor{cyan}x$
+> $\qquad$$Res \leftarrow Res +\textcolor{magenta}a_\textcolor{pink}i \times Puiss$
 > Retourner $Res$
 
 Ce qui donne alors en *python* avec un polynôme sous forme de liste de coefficients :
@@ -141,11 +143,13 @@ def version_3(P,x) :
 
 ## Version 4 - [Algorithme de Horner](https://fr.wikipedia.org/wiki/M%C3%A9thode_de_Ruffini-Horner#Valeur_d'un_polyn%C3%B4me_en_un_point)
 
-Voyons le polynome suivant : $P(x) = a_4x^4 + a_3x^3 + a_2x^2+a_1x+a_0$ d'une manière un peu différente. 
-
+Voyons différement le polynome suivant : $$P(\textcolor{cyan}x) = 
+\textcolor{magenta}a_\textcolor{pink}4\textcolor{cyan}x^\textcolor{pink}4+\textcolor{magenta}a_\textcolor{pink}3\textcolor{cyan}x^\textcolor{pink}3+\textcolor{magenta}a_\textcolor{pink}2\textcolor{cyan}x^\textcolor{pink}2+\textcolor{magenta}a_\textcolor{pink}1\textcolor{cyan}x +
+\textcolor{magenta}a_\textcolor{pink}0$$  
 Il peut s'écrire de la façon suivante :
 $$
-P(x) = ((((a_4)\times x + a_3)\times x + a_2)\times x + a_1)\times x + a_0
+P(\textcolor{cyan}x) = ((((
+\textcolor{magenta}a_\textcolor{pink}4)\times \textcolor{cyan}x + \textcolor{magenta}a_\textcolor{pink}3)\times \textcolor{cyan}x + \textcolor{magenta}a_\textcolor{pink}2)\times \textcolor{cyan}x + \textcolor{magenta}a_\textcolor{pink}1)\times \textcolor{cyan}x + \textcolor{magenta}a_\textcolor{pink}0
 $$
 Cette version permet d'éviter de calculer la $n$-ième puissance de $x$ associée au coefficiant.
 
@@ -154,19 +158,19 @@ Le calcul se fait alors de la façon suivante :
 > [!abstract] Fonctionnement
 > Voici le déroulé du calcul pour un polynôme de degré 4
 > 
-> | Initialisation | $Res = a_4$ |
+> | Initialisation | $Res = \textcolor{magenta}a_\textcolor{pink}4$ |
 > | :---: | :---- | 
-> |Itération 1 | $Res = Res \times x + a_3$ |
-> |Itération 2 | $Res = Res \times x + a_2$ |
-> |Itération 3 | $Res = Res \times x + a_1$ |
-> |Itération 4 | $Res = Res \times x + a_0$ |
+> |Itération 1 | $Res = Res \times \textcolor{cyan}x + \textcolor{magenta}a_\textcolor{pink}3$ |
+> |Itération 2 | $Res = Res \times \textcolor{cyan}x + \textcolor{magenta}a_\textcolor{pink}2$ |
+> |Itération 3 | $Res = Res \times \textcolor{cyan}x + \textcolor{magenta}a_\textcolor{pink}1$ |
+> |Itération 4 | $Res = Res \times \textcolor{cyan}x + \textcolor{magenta}a_\textcolor{pink}0$ |
 
 Qui peut être écrite en **pseudocode** : 
 
 > [!hint] Algorithme en pseudocode 
-> $Res \leftarrow a_n$
-> Pour $i$ allant de $1$ à $n$ :
-> $\qquad$$Res \leftarrow Res \times x + a_{n-i}$
+> $Res \leftarrow \textcolor{magenta}a_\textcolor{pink}n$
+> Pour $\textcolor{pink}i$ allant de $1$ à $\textcolor{pink}n$ :
+> $\qquad$$Res \leftarrow Res \times \textcolor{cyan}x + \textcolor{magenta}a_\textcolor{pink}{n-i}$
 > Retourner $Res$
 
 Ce qui donne alors en *python* avec un polynôme sous forme de liste de coefficients :

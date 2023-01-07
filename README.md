@@ -13,3 +13,4 @@ Le cours contient le semestre 1 :
 - OMF - Début : [[Calculer la valeur d'un polynôme]]
 - SYS - Début : [[Un shell, c'est quoi]]
 - WEB - Début : [[Bases - Le web, c'est quoi]]
+- MD - Début : [[Introduction au Mathématiques Discrètes]]

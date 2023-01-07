@@ -30,34 +30,39 @@ On peut alors compter en unités, en dizaines, en centaines, en milliers, etc.
 | Valeur décimale | $4 \times 10^3 = 4000$ | $7 \times 10^2 = 700$ | $8 \times 10^1 = 80$       |  $5\times 10^0 = 5$      |
 Ce qui nous donne finalement  $4000 + 700 + 80 + 5 = 4785$
 
-Le poids (p) d’un symbole, dans une juxtaposition, est lié à la base de numération et au rang (r) qu’occupe le symbole par la relation suivante :
+Le poids $\textcolor{lime}p$ d’un symbole, dans une juxtaposition, est lié à la $\color{orange}base$ de numération et au rang ($\color{red}r$) qu’occupe le symbole par la relation suivante :
 
-$$p = base^r$$
-
+$$\textcolor{lime}p = \textcolor{orange}{base}^\textcolor{red}r$$
 ## La forme canonique, la notation qui supporte toutes les bases
 
 Il est ainsi possible d'exprimer n'importe quel nombre dans sa forme **canonique** :
 
 $$
-(a_{n-1} \text{ } a_{n-2} \text{ ... } a_2 \text{ } a_1 \text{ }  
-a_0 )_B
+(\textcolor{yellow}a_\textcolor{red}{n} \text{ } \textcolor{yellow}a_\textcolor{red}{n-1} \text{ } \textcolor{yellow}a_\textcolor{red}{n-2} \text{ ... } \textcolor{yellow}a_\textcolor{red}2 \text{ } \textcolor{yellow}a_\textcolor{red}1 \text{ }  
+\textcolor{yellow}a_\textcolor{red}0 )_\textcolor{orange}B
 $$
 
 Soit 
 $$
-=(a_{n-1}\times B^{n-1})+ (a_{n-2}\times B^{n-2}) + \text{ ... } + (a_2\times B^2)+(a_1\times B^1)+ (a_0\times B^0)
+=(\textcolor{yellow}a_\textcolor{red}n\times \textcolor{orange}{B}^\textcolor{red}n)
++(\textcolor{yellow}a_\textcolor{red}{n-1}\times \textcolor{orange}{B}^\textcolor{red}{n-1})
++(\textcolor{yellow}a_\textcolor{red}{n-2}\times \textcolor{orange}{B}^\textcolor{red}{n-2}) 
++ \text{ ... } 
++ (\textcolor{yellow}a_\textcolor{red}2\times \textcolor{orange}{B}^\textcolor{red}2)
++ (\textcolor{yellow}a_\textcolor{red}1\times \textcolor{orange}{B}^\textcolor{red}1)
++ (\textcolor{yellow}a_\textcolor{red}0\times \textcolor{orange}{B}^\textcolor{red}0)
 $$
 
-$B$ : La base du nombre à convertir
-$n$ : Le nombre de chiffres ou de bits du nombre exprimé en base $B$
-$a_i$ : Le chiffre ou bit de rang $i$ du nombre exprimé en base $B$
+$\textcolor{orange}{B}$ : La base du nombre à convertir
+$\textcolor{red}{n}$ : Le nombre de chiffres ou de bits du nombre exprimé en base $\textcolor{orange}{B}$
+$\textcolor{yellow}a_\textcolor{red}i$ : Le chiffre ou bit de rang $\textcolor{red}i$ du nombre exprimé en base $\textcolor{orange}{B}$
 
 Ce qui revient tout simplement à écrire quelque chose tel que : 
 $$
-(4 \times 10^3) + (7 \times 10^2) + (8 \times 10^1) + (5 \times 10^0) = 4785
+(\textcolor{yellow}4 \times \textcolor{orange}{10}^\textcolor{red}3) + (\textcolor{yellow}7 \times \textcolor{orange}{10}^\textcolor{red}2) + (\textcolor{yellow}8 \times \textcolor{orange}{10}^\textcolor{red}1) + (\textcolor{yellow}5 \times \textcolor{orange}{10}^\textcolor{red}0) = \textcolor{yellow}{4785}
 $$
 $$
-(4 \times 1000) + (7 \times 100) + (8 \times 10) + (5 \times 1) = 4785
+(\textcolor{yellow}4 \times \textcolor{lime}{1000}) + (\textcolor{yellow}7 \times \textcolor{lime}{100}) + (\textcolor{yellow}8 \times \textcolor{lime}{10}) + (\textcolor{yellow}5 \times \textcolor{lime}{1}) = \textcolor{yellow}{4785}
 $$
 
 Pour la base $10$ avec le nombre $4785$.
@@ -67,19 +72,19 @@ Pour la base $10$ avec le nombre $4785$.
 La base décimale est la base de référence. On peut alors omettre la notation de la base du nombre.
 Mais lorsqu'on note un nombre **binaire** tel que :
 $$
-011100101010
+\color{yellow}011100101010
 $$
 Alors on doit noter la base en indice du nombre, entre parenthèses : 
 $$
-011100101010_{(2)}
+\color{yellow}011100101010_\textcolor{orange}{(2)}
 $$
 On peut alors noter la base avec le nombre d'élement qui la composent, 10 pour la base décimale, 16 pour l'héxadécimal, 8 pour l'octal ou encore 64 pour la base 64.
 
 On aurait alors des notations telles que les suivantes :
 
-$$1982149_{(10)}, \text{19DAE}_{(16)}, 45621_{(8)}$$
+$$\color{yellow}1982149_\textcolor{orange}{(10)}, \text{19DAE}_\textcolor{orange}{(16)}, 45621_\textcolor{orange}{(8)}$$
 
-Qui peuvent être d'ailleurs écrites telles que : $1982149_{(\text{dec})}, \text{19DAE}_{(\text{hex})}, 45621_{(\text{oct})}$.
+Qui peuvent être d'ailleurs écrites telles que : $\color{yellow}1982149_\textcolor{orange}{(\text{dec})}, \text{19DAE}_\textcolor{orange}{(\text{hex})}, 45621_\textcolor{orange}{(\text{oct})}$.
 
 **Cours à voir :**
 - [[2.0 Les variables]]
