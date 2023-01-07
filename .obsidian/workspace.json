@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARCHI1/1. La numération actuelle.md",
+                "file": "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.3 Matrices symétiques et antisymétriques.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARCHI1/1. La numération actuelle.md",
+                "file": "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.3 Matrices symétiques et antisymétriques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARCHI1/1. La numération actuelle.md",
+                "file": "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.3 Matrices symétiques et antisymétriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARCHI1/1. La numération actuelle.md"
+                "file": "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.3 Matrices symétiques et antisymétriques.md"
               }
             }
           },
@@ -165,15 +165,15 @@
   },
   "active": "774ec64d938f1cd0",
   "lastOpenFiles": [
+    "OMF/1. Les matrices/1.1 Définitions et notations.md",
+    "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
+    "ARCHI1/1. La numération actuelle.md",
     "ARCHI1/4. Codage des caractères.md",
     "OMF/Calculer la valeur d'un polynôme.md",
-    "OMF/1. Les matrices/1.1 Définitions et notations.md",
     "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.1 La matrice Identité.md",
     "OMF/2. Systèmes linéaires/2.4 Résolution par la méthode du pivot.md",
     "OMF/2. Systèmes linéaires/2.3 Cas particulier des systèmes échelonnés.md",
     "OMF/2. Systèmes linéaires/2.2 Théorie des systèmes linéaires.md",
-    "OMF/2. Systèmes linéaires/2.1 Equations linéaires de 1 à 3 inconnues.md",
-    "OMF/1. Les matrices/1.7 Matrices et transformation du plan.md",
-    "OMF/1. Les matrices/1.6 Matrices carrées inversibles.md"
+    "OMF/2. Systèmes linéaires/2.1 Equations linéaires de 1 à 3 inconnues.md"
   ]
 }
