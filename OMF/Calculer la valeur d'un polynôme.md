@@ -13,7 +13,7 @@ Un polynôme est une expression mathématique qui consiste en une somme de terme
 
 On peut généraliser cette définition en disant qu'un polynôme de degré $\color{pink}n$ a la forme 
 $$
-\textcolor{tomato}a_\textcolor{pink}n\textcolor{cyan}x^\textcolor{pink}n + \textcolor{tomato}a_\textcolor{pink}{n-1}\textcolor{cyan}x^\textcolor{pink}{n-1} + \text{ ... } + \textcolor{tomato}a_\textcolor{pink}1\textcolor{cyan}x^\textcolor{pink}1 + \textcolor{tomato}a_\textcolor{pink}0
+\textcolor{tomato}a_\textcolor{pink}n\textcolor{cyan}x^\textcolor{pink}n + \textcolor{tomato}a_\textcolor{pink}{n-1}\textcolor{cyan}x^\textcolor{pink}{n-1} + \dots + \textcolor{tomato}a_\textcolor{pink}1\textcolor{cyan}x^\textcolor{pink}1 + \textcolor{tomato}a_\textcolor{pink}0
 $$
 Où $\textcolor{tomato}a_\textcolor{pink}n$, $\textcolor{tomato}a_\textcolor{pink}{n-1}$, ..., $\textcolor{tomato}a_\textcolor{pink}1$ et $\textcolor{tomato}a_\textcolor{pink}0$ sont des nombres appelés *coefficients*.
 

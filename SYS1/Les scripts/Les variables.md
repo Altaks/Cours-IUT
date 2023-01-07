@@ -1,6 +1,6 @@
 **Cours liés :**
 - [[Un shell, c'est quoi]]
-- [[2.0 Les variables]]
+- [[1.2.1 Les variables]]
 - [[echo - Afficher du texte]]
 
 Les variables sont un élément important de tout langage de programmation, y compris Bash, le shell par défaut de la plupart des distributions Linux. Elles permettent de stocker et de manipuler des valeurs dans un script ou un shell.

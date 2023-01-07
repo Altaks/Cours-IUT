@@ -1,8 +1,8 @@
 **Cours liés :**
 - [[Un shell, c'est quoi]]
 - [[Les variables]]
-- [[11. Les boucles 'pour' (for)]]
-- [[10. Les boucles 'tant-que' (while, do-while)]]
+- [[1.11. Les boucles 'pour' (for)]]
+- [[1.10. Les boucles 'tant-que' (while, do-while)]]
 
 Les boucles `while` et `for` sont des structures de contrôle couramment utilisées en Bash et dans d'autres langages de programmation. Elles permettent de répéter un certain nombre d'instructions jusqu'à ce qu'une condition soit remplie ou qu'un compteur atteigne une valeur spécifique.
 

@@ -1,5 +1,5 @@
 **Cours liés :**
-- [[3. Affichage et entrées console]]
+- [[1.3. Affichage et entrées console]]
 
 La commande `echo` est une commande de base disponible dans de nombreux systèmes d'exploitation, y compris Linux et Unix. Elle permet d'afficher du texte à l'écran, ce qui en fait une commande utile pour afficher des messages de diagnostic ou de suivi lors de la création de scripts.
 

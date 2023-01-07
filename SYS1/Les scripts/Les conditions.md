@@ -1,7 +1,7 @@
 **Cours liés :**
 - [[Un shell, c'est quoi]]
 - [[Les variables]]
-- [[8. Les conditions]]
+- [[1.8. Les conditions]]
 
 Les conditions sont un élément important de tout langage de programmation, y compris Bash. Elles permettent de tester une expression et de prendre une décision en fonction du résultat de cette expression.
 

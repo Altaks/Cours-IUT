@@ -7,9 +7,9 @@ Si vous avez des difficultés d'affichage de certaines parties des cours, il vou
 - Obsidian Functionplot
 
 Le cours contient le semestre 1 :
-- Archi - Début : [[La numération actuelle]]
+- Archi - Début : [[1. La numération actuelle]]
 - BD1 - Début : [[SQL, SGBD - C'est quoi]]
-- DEV - Début : [[1. Les commentaires]]
+- DEV - Début : [[1.1. Les commentaires]]
 - OMF - Début : [[Calculer la valeur d'un polynôme]]
 - SYS - Début : [[Un shell, c'est quoi]]
 - WEB - Début : [[Bases - Le web, c'est quoi]]
