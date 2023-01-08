@@ -8,6 +8,7 @@ Lorsqu
 Liste
 Linux
 LinkedList
+Last
 balise
 but
 balises
@@ -64,6 +65,7 @@ binare
 branche
 bruts
 brute
+basiques
 est
 et
 entre
@@ -180,6 +182,10 @@ envoyant
 englober
 enregistr
 edges
+empiler
+enfiler
+emfiler
+embouteillage
 ment
 ments
 mettre
@@ -677,6 +683,7 @@ tera
 tent
 truit
 tomato
+tions
 les
 le
 la
@@ -795,6 +802,10 @@ Executer
 ET
 EXCLUSIF
 Et
+Empiler
+Etapes
+Emfiler
+Enfiler
 utilis
 un
 utiliser
@@ -830,6 +841,7 @@ unicodes
 unaires
 unsigned
 utilisable
+usage
 pour
 premi
 peut
@@ -1043,6 +1055,11 @@ port
 pourriez
 pointer
 parcours
+piles
+pose
+pioche
+piler
+piocher
 finir
 fin
 ferm
@@ -1134,6 +1151,9 @@ form
 factorielle
 faciles
 fera
+file
+files
+filer
 contient
 comment
 ces
@@ -1495,6 +1515,7 @@ chain
 correspondrait
 concatenate
 cutives
+convertit
 autres
 avant
 au
@@ -1698,6 +1719,9 @@ allouer
 attribuer
 al
 atoire
+arriv
+autoroutier
+arriver
 Voici
 Valeurs
 Vous
@@ -1870,6 +1894,7 @@ ignorera
 issu
 imagin
 invite
+implique
 structure
 sur
 style
@@ -2062,6 +2087,9 @@ sortant
 sallouer
 sommet
 simplifi
+sorti
+situe
+sortir
 Dans
 DEV
 De
@@ -2070,6 +2098,7 @@ Dig
 Des
 Description
 Disjonction
+Dernier
 que
 qui
 quel
@@ -2163,6 +2192,9 @@ value
 voulons
 vont
 vive
+vois
+voitures
+voiture
 Il
 Ils
 Internet
@@ -2178,6 +2210,7 @@ Ici
 Inclure
 Input
 ID
+Incr
 noter
 navigateur
 normes
@@ -2270,6 +2303,8 @@ Paris
 Prenons
 Propositions
 POO
+Premier
+Placer
 web
 widgets
 word
@@ -2387,6 +2422,7 @@ OU
 OR
 OUTER
 Objet
+Out
 hi
 horizontale
 header
@@ -2458,6 +2494,8 @@ Res
 Retourner
 Remplacez
 Remarque
+Replacer
+Retirer
 Nucl
 Nous
 NFS
@@ -2469,6 +2507,9 @@ Firefox
 Fonctions
 Functionplot
 Fonctionnement
+FIFO
+First
+FILO
 Attributs
 Avec
 AJAX

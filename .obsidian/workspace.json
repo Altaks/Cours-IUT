@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD/5. Arithmétique/5.1 Bases de la numération.md",
+                "file": "DEV/3. Les structures de données/3.3 Les files.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MD/5. Arithmétique/5.1 Bases de la numération.md",
+                "file": "DEV/3. Les structures de données/3.3 Les files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD/5. Arithmétique/5.1 Bases de la numération.md",
+                "file": "DEV/3. Les structures de données/3.3 Les files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MD/5. Arithmétique/5.1 Bases de la numération.md"
+                "file": "DEV/3. Les structures de données/3.3 Les files.md"
               }
             }
           },
@@ -166,15 +166,15 @@
   },
   "active": "37d0083f18317a23",
   "lastOpenFiles": [
-    "OMF/1. Les matrices/1.2 Addition et multiplication par un réel.md",
-    "OMF/1. Les matrices/1.1 Définitions et notations.md",
-    "OMF/1. Les matrices/1.3 Produit de matrices.md",
-    "Sans titre.canvas",
+    "DEV/3. Les structures de données/3.4 Les maps (dictionnaires).md",
+    "DEV/3. Les structures de données/3.5 Les arbres.md",
+    "DEV/3. Les structures de données/3.3 Les files.md",
+    "DEV/3. Les structures de données/3.2 Les piles.md",
     "DEV/3. Les structures de données/3.1 Les listes chaînées.md",
-    "ARCHI1/2. Codage des nombres entiers.md",
-    "DEV/1. Bases/1.2.1 Les variables.md",
-    "SYS1/Les commandes bash/cat - Afficher le contenu d'un fichier.md",
-    "OMF/1. Les matrices/1.6 Matrices carrées inversibles.md",
-    "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.1 La matrice Identité.md"
+    "ARCHI1/4. Codage des caractères.md",
+    "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
+    "MD/5. Arithmétique/5.1 Bases de la numération.md",
+    "OMF/1. Les matrices/1.2 Addition et multiplication par un réel.md",
+    "OMF/1. Les matrices/1.1 Définitions et notations.md"
   ]
 }
