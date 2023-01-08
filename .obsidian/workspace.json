@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/3. Les structures de données/3.3 Les files.md",
+                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV/3. Les structures de données/3.3 Les files.md",
+                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV/3. Les structures de données/3.3 Les files.md",
+                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV/3. Les structures de données/3.3 Les files.md"
+                "file": "DEV/3. Les structures de données/3.2 Les piles.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "37d0083f18317a23",
   "lastOpenFiles": [
+    "DEV/3. Les structures de données/3.3 Les files.md",
     "DEV/3. Les structures de données/3.4 Les maps (dictionnaires).md",
     "DEV/3. Les structures de données/3.5 Les arbres.md",
-    "DEV/3. Les structures de données/3.3 Les files.md",
     "DEV/3. Les structures de données/3.2 Les piles.md",
     "DEV/3. Les structures de données/3.1 Les listes chaînées.md",
     "ARCHI1/4. Codage des caractères.md",
