@@ -178,6 +178,8 @@ enum
 endroits
 envoyant
 englober
+enregistr
+edges
 ment
 ments
 mettre
@@ -1491,6 +1493,8 @@ chage
 choses
 chain
 correspondrait
+concatenate
+cutives
 autres
 avant
 au
@@ -1865,6 +1869,7 @@ ignorer
 ignorera
 issu
 imagin
+invite
 structure
 sur
 style
@@ -2231,6 +2236,8 @@ not
 natifs
 nettoyer
 nature
+nouveaux
+nodes
 UTF
 URL
 Uploader
