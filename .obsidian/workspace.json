@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dc66ca634e888fa8",
+        "id": "db039657693b4332",
         "type": "tabs",
         "children": [
           {
-            "id": "82d7c44fc315d6ff",
+            "id": "c9b68b909b7f228e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "OMF/1. Les matrices/1.3 Produit de matrices.md",
-                "staged": false
+                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -78,13 +79,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DEV/3. Les structures de données/3.2 Les piles.md"
+              }
             }
           },
           {
@@ -160,17 +164,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6202e2a8f0f033f7",
+  "active": "c9b68b909b7f228e",
   "lastOpenFiles": [
-    "BD1/2. SQL - Fonctions d'agrégations/MIN - Déterminer un minimum.md",
-    "OMF/1. Les matrices/1.3 Produit de matrices.md",
-    "DEV/3. Les structures de données/3.5 Les arbres.md",
-    "DEV/3. Les structures de données/3.4 Les maps (dictionnaires).md",
     "DEV/3. Les structures de données/3.3 Les files.md",
     "DEV/3. Les structures de données/3.2 Les piles.md",
     "DEV/3. Les structures de données/3.1 Les listes chaînées.md",
+    "DEV/2. Les fonctions/2.4. La récursivité.md",
+    "DEV/2. Les fonctions/2.3. La surcharge de fonction.md",
+    "DEV/2. Les fonctions/2.2. Les signatures de fonction (prototypes).md",
     "DEV/2. Les fonctions/2.1. Les fonctions en général.md",
-    "ARCHI1/3. Codage des nombres flottants.md",
-    "ARCHI1/4. Codage des caractères.md"
+    "DEV/1. Bases/1.16 Les pointeurs.md",
+    "DEV/1. Bases/1.17 Les itérateurs.md",
+    "DEV/1. Bases/1.18. Les erreurs, exceptions.md"
   ]
 }
