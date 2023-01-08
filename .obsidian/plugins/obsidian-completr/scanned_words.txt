@@ -2349,6 +2349,7 @@ ge
 gestionnaire
 gatives
 grit
+gale
 Que
 Quelles
 Quels
@@ -2496,6 +2497,7 @@ Remplacez
 Remarque
 Replacer
 Retirer
+Renvoyer
 Nucl
 Nous
 NFS

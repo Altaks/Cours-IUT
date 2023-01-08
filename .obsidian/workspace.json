@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e7a645de8f705d0",
+        "id": "dc66ca634e888fa8",
         "type": "tabs",
         "children": [
           {
-            "id": "37d0083f18317a23",
+            "id": "82d7c44fc315d6ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
-                "mode": "source",
-                "source": false
+                "file": "OMF/1. Les matrices/1.3 Produit de matrices.md",
+                "staged": false
               }
             }
           }
@@ -79,13 +78,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DEV/3. Les structures de données/3.2 Les piles.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,17 +160,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37d0083f18317a23",
+  "active": "6202e2a8f0f033f7",
   "lastOpenFiles": [
-    "DEV/3. Les structures de données/3.3 Les files.md",
-    "DEV/3. Les structures de données/3.4 Les maps (dictionnaires).md",
+    "BD1/2. SQL - Fonctions d'agrégations/MIN - Déterminer un minimum.md",
+    "OMF/1. Les matrices/1.3 Produit de matrices.md",
     "DEV/3. Les structures de données/3.5 Les arbres.md",
+    "DEV/3. Les structures de données/3.4 Les maps (dictionnaires).md",
+    "DEV/3. Les structures de données/3.3 Les files.md",
     "DEV/3. Les structures de données/3.2 Les piles.md",
     "DEV/3. Les structures de données/3.1 Les listes chaînées.md",
-    "ARCHI1/4. Codage des caractères.md",
-    "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
-    "MD/5. Arithmétique/5.1 Bases de la numération.md",
-    "OMF/1. Les matrices/1.2 Addition et multiplication par un réel.md",
-    "OMF/1. Les matrices/1.1 Définitions et notations.md"
+    "DEV/2. Les fonctions/2.1. Les fonctions en général.md",
+    "ARCHI1/3. Codage des nombres flottants.md",
+    "ARCHI1/4. Codage des caractères.md"
   ]
 }
