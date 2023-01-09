@@ -9,6 +9,7 @@ Liste
 Linux
 LinkedList
 Last
+Limite
 balise
 but
 balises
@@ -66,6 +67,7 @@ branche
 bruts
 brute
 basiques
+bulle
 est
 et
 entre
@@ -441,6 +443,7 @@ recevant
 refl
 rencier
 ragir
+ramener
 de
 documents
 document
@@ -806,6 +809,7 @@ Empiler
 Etapes
 Emfiler
 Enfiler
+Etape
 utilis
 un
 utiliser
@@ -1516,6 +1520,8 @@ correspondrait
 concatenate
 cutives
 convertit
+croissant
+complexit
 autres
 avant
 au
@@ -1722,6 +1728,9 @@ atoire
 arriv
 autoroutier
 arriver
+algorithme
+atteindre
+atteintes
 Voici
 Valeurs
 Vous
@@ -1784,6 +1793,7 @@ onsole
 ordinaire
 omises
 ouverts
+orange
 Tous
 Tim
 Tout
@@ -2195,6 +2205,7 @@ vive
 vois
 voitures
 voiture
+voisine
 Il
 Ils
 Internet
@@ -2211,6 +2222,8 @@ Inclure
 Input
 ID
 Incr
+Init
+Impl
 noter
 navigateur
 normes
@@ -2357,6 +2370,7 @@ Quelle
 Qui
 Query
 Quelques
+Qu
 Conditional
 CSS
 Cependant
@@ -2401,6 +2415,7 @@ jointure
 joindre
 join
 jours
+jeu
 JavaScript
 Je
 Joindre
@@ -2488,6 +2503,7 @@ Boucle
 Bonjour
 Bob
 Binaire
+Bulle
 Recherche
 RGB
 RGBA

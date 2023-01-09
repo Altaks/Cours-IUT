@@ -13,10 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
-                "mode": "preview",
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md",
+                "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "5aa90fa00496a2d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri à bulle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55b1d3618c1b56e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bfbee81fe22c9b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri rapide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c191a80203120260",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -79,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 320.5
   },
   "right": {
     "id": "55a24efc551a758b",
@@ -105,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV/3. Les structures de données/3.2 Les piles.md",
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV/3. Les structures de données/3.2 Les piles.md"
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md"
               }
             }
           },
@@ -166,15 +210,15 @@
   },
   "active": "c9b68b909b7f228e",
   "lastOpenFiles": [
+    "DEV/Compléxité et Algorithmes de tri/Tri à bulle.md",
+    "DEV/Compléxité et Algorithmes de tri/Notation O(...).md",
+    "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
+    "DEV/Compléxité et Algorithmes de tri/Tri rapide.md",
+    "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md",
+    "DEV/3. Les structures de données/3.4 Les maps (dictionnaires).md",
     "DEV/3. Les structures de données/3.3 Les files.md",
     "DEV/3. Les structures de données/3.2 Les piles.md",
     "DEV/3. Les structures de données/3.1 Les listes chaînées.md",
-    "DEV/2. Les fonctions/2.4. La récursivité.md",
-    "DEV/2. Les fonctions/2.3. La surcharge de fonction.md",
-    "DEV/2. Les fonctions/2.2. Les signatures de fonction (prototypes).md",
-    "DEV/2. Les fonctions/2.1. Les fonctions en général.md",
-    "DEV/1. Bases/1.16 Les pointeurs.md",
-    "DEV/1. Bases/1.17 Les itérateurs.md",
-    "DEV/1. Bases/1.18. Les erreurs, exceptions.md"
+    "DEV/2. Les fonctions/2.4. La récursivité.md"
   ]
 }
