@@ -1,4 +1,3 @@
-
 **Cours en lien :**
 - [[Notation O(...)]]
 - [[Tri par insertion]]
@@ -31,6 +30,10 @@ Et en vert la partie du tableau déjà triée
 ## Implémentation en C++ (tableau d'entiers)
 
 ```cpp
+/*
+ * Permet d'afficher un tableau de valeurs entières dans la console
+ * Entrée: le tableau array et sa taille size.
+ */
 void displayArray(int array[], int size)
 {
     std::cout << "[ ";
@@ -41,7 +44,10 @@ void displayArray(int array[], int size)
     std::cout << "]" << std::endl;
 }
 
-
+/*
+ * Permet d'échanger les valeurs de deux ints de position en RAM.
+ * Entrée: l'adresse de l'entier 1 et l'adresse de l'entier 2
+ */
 void swap(int &val1, int &val2)
 {
     int temp = val1;
@@ -49,11 +55,15 @@ void swap(int &val1, int &val2)
     val2 = temp;
 }
 
+/*
+ * Permet de trier un tableau d'entiers suivant la méthode du tri par sélection
+ * Entrée: le tableau array et sa taille size.
+ */
 void selectionSort(int array[], int size)
 {
     for(int i = 0; i < size; i++)
     {
-        int min_index = i + 1;
+        int min_index = i;
         for(int j = i + 1; j < size; j++)
         {
             if(array[j] < array[min_index])

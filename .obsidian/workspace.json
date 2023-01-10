@@ -13,8 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OMF/1. Les matrices/1.1 Définitions et notations.md",
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri rapide (quicksort).md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b620e4198bf2eb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BD1/5. SQLPlus - Particularités/COMPUTE - Calculer depuis le résultat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56b7b01e0a320f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BD1/5. SQLPlus - Particularités/COMPUTE - Calculer depuis le résultat.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f5bad98646c59ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -23,12 +59,8 @@
             "id": "5aa90fa00496a2d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -60,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md"
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md"
               }
             }
           },
@@ -206,17 +238,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6202e2a8f0f033f7",
+  "active": "9f5bad98646c59ee",
   "lastOpenFiles": [
+    "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
+    "BD1/5. SQLPlus - Particularités/COLUMN - Changer les noms de colonnes.md",
+    "BD1/5. SQLPlus - Particularités/COMPUTE - Calculer depuis le résultat.md",
+    "BD1/1. SQL - Requêtes/CASE - Décrire un cas d'affichage.md",
+    "DEV/Compléxité et Algorithmes de tri/Tri rapide (quicksort).md",
+    "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
     "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md",
     "DEV/Compléxité et Algorithmes de tri/Notation O(...).md",
-    "SYS1/Les commandes bash/grep - Rechercher une chaine parmis des fichiers.md",
-    "OMF/1. Les matrices/1.1 Définitions et notations.md",
-    "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
-    "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
-    "DEV/Compléxité et Algorithmes de tri/Tri rapide (quicksort).md",
     "DEV/Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md",
-    "DEV/1. Bases/1.2.1 Les variables.md",
-    "BD1/2. SQL - Fonctions d'agrégations/AVG - Calculer une moyenne.md"
+    "DEV/2. Les fonctions/2.4. La récursivité.md"
   ]
 }
