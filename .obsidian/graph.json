@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"DEV/1. Bases\"",
@@ -144,6 +144,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 253,
-  "scale": 0.9307103025993458,
+  "scale": 0.27268599173600716,
   "close": true
 }
