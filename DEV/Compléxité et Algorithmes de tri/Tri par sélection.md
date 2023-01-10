@@ -53,7 +53,7 @@ void selectionSort(int array[], int size)
 {
     for(int i = 0; i < size; i++)
     {
-        int min_index = i;
+        int min_index = i + 1;
         for(int j = i + 1; j < size; j++)
         {
             if(array[j] < array[min_index])
