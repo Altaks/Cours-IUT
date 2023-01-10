@@ -2100,6 +2100,7 @@ simplifi
 sorti
 situe
 sortir
+selectionner
 Dans
 DEV
 De
@@ -2487,6 +2488,7 @@ Sinon
 Supprimer
 Sachant
 Structures
+Sortie
 Web
 World
 Wide

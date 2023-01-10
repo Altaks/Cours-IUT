@@ -26,4 +26,50 @@ Et en vert la partie du tableau déjà triée
 | Étape 9 |   -   |   -   |$\begin{bmatrix}&1 & 3 & 4 & 5 & \textcolor{lime}7 & \textcolor{lime}8 &\end{bmatrix}$|
 | Étape - |   -   |   -   |$\color{lime}\begin{bmatrix}&1 & 3 & 4 & 5 & 7 & 8 &\end{bmatrix}$|
 
-## Implémentation en C++
+## Implémentation en C++ (tableau d'entiers)
+
+```cpp
+void displayArray(int array[], int size)
+{
+    std::cout << "[ ";
+    for(int i = 0; i < size; i++)
+    {
+        std::cout << array[i] << " ";
+    }
+    std::cout << "]" << std::endl;
+}
+
+void swap(int &val1, int &val2)
+{
+    int temp = val1;
+    val1 = val2;
+    val2 = temp;
+}
+
+void bubbleSort(int array[], int size)
+{
+    for(int i = 0; i < size; i++)
+    {
+        for(int j = 0; j < (size-i-1); j++)
+        {
+            if(array[j] > array[j+1])
+            {
+                swap(array[j], array[j+1]);
+                displayArray(array, size);
+            }
+        }
+    }
+}
+```
+
+### Sortie en console :
+
+```
+[ 1 8 3 7 4 5 ]
+[ 1 3 8 7 4 5 ]
+[ 1 3 7 8 4 5 ]
+[ 1 3 7 4 8 5 ]
+[ 1 3 7 4 5 8 ]
+[ 1 3 4 7 5 8 ]
+[ 1 3 4 5 7 8 ]
+```

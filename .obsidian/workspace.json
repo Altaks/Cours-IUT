@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md",
+                "file": "OMF/1. Les matrices/1.1 Définitions et notations.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri à bulle.md",
+                "file": "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
+                "file": "DEV/1. Bases/1.2.1 Les variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,12 +47,8 @@
             "id": "4bfbee81fe22c9b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri rapide.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -63,7 +59,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,13 +120,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -149,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,17 +202,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9b68b909b7f228e",
+  "active": "6202e2a8f0f033f7",
   "lastOpenFiles": [
+    "BD1/2. SQL - Fonctions d'agrégations/AVG - Calculer une moyenne.md",
+    "BD1/2. SQL - Fonctions d'agrégations/MIN - Déterminer un minimum.md",
+    "BD1/4. SQL - Jointure et Tables virtuelles/NATURAL JOIN - Jointure naturelle.md",
+    "BD1/4. SQL - Jointure et Tables virtuelles/LEFT JOIN - Jointure (gauche) sur attribut.md",
+    "BD1/4. SQL - Jointure et Tables virtuelles/Produit cartésien - Jointure totale.md",
+    "SYS1/Les commandes bash/grep - Rechercher une chaine parmis des fichiers.md",
     "DEV/Compléxité et Algorithmes de tri/Tri à bulle.md",
-    "DEV/Compléxité et Algorithmes de tri/Notation O(...).md",
-    "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
     "DEV/Compléxité et Algorithmes de tri/Tri rapide.md",
-    "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md",
-    "DEV/3. Les structures de données/3.4 Les maps (dictionnaires).md",
-    "DEV/3. Les structures de données/3.3 Les files.md",
-    "DEV/3. Les structures de données/3.2 Les piles.md",
-    "DEV/3. Les structures de données/3.1 Les listes chaînées.md",
-    "DEV/2. Les fonctions/2.4. La récursivité.md"
+    "DEV/1. Bases/1.2.1 Les variables.md",
+    "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md"
   ]
 }
