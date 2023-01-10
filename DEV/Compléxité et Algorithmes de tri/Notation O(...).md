@@ -21,11 +21,17 @@ Elle se base sur son temps d'execution et son utilisation de l'espace mémoire :
 
 Le temps d'execution doit être comparé sur le même jeu de valeurs, la même machine et réglée aux mêmes performances afin d'avoir une comparaison viable.
 
-## Quelques exemples 
+## Quelques exemples
+
+Voici un tableau de valeurs décrivant la complexité d'algorithmes communs : 
+
+| Nom de l'algorithme | Meilleur des cas | Cas moyen | Pire des cas |
+| ------------------- | ---------------- | --------- | ------------ |
+|                     |                  |           |              |
 
 
 **Cours à voir :**
-- [[Tri à bulle]]
+- [[Tri à bulle (bubbleSort)]]
 - [[Tri par sélection]]
 - [[Tri par insertion]]
-- [[Tri rapide]]
+- [[Tri rapide (quicksort)]]

@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
-                "mode": "source",
+                "file": "DEV/Compléxité et Algorithmes de tri/Notation O(...).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/1. Bases/1.2.1 Les variables.md",
+                "file": "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 375.5
   },
   "right": {
     "id": "55a24efc551a758b",
@@ -146,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md"
+              }
             }
           },
           {
@@ -202,17 +206,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6202e2a8f0f033f7",
+  "active": "55b1d3618c1b56e5",
   "lastOpenFiles": [
+    "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
+    "DEV/Compléxité et Algorithmes de tri/Notation O(...).md",
+    "OMF/1. Les matrices/1.1 Définitions et notations.md",
+    "DEV/Compléxité et Algorithmes de tri/Tri rapide (quicksort).md",
+    "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md",
+    "DEV/Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md",
+    "DEV/1. Bases/1.2.1 Les variables.md",
     "BD1/2. SQL - Fonctions d'agrégations/AVG - Calculer une moyenne.md",
     "BD1/2. SQL - Fonctions d'agrégations/MIN - Déterminer un minimum.md",
-    "BD1/4. SQL - Jointure et Tables virtuelles/NATURAL JOIN - Jointure naturelle.md",
-    "BD1/4. SQL - Jointure et Tables virtuelles/LEFT JOIN - Jointure (gauche) sur attribut.md",
-    "BD1/4. SQL - Jointure et Tables virtuelles/Produit cartésien - Jointure totale.md",
-    "SYS1/Les commandes bash/grep - Rechercher une chaine parmis des fichiers.md",
-    "DEV/Compléxité et Algorithmes de tri/Tri à bulle.md",
-    "DEV/Compléxité et Algorithmes de tri/Tri rapide.md",
-    "DEV/1. Bases/1.2.1 Les variables.md",
-    "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md"
+    "BD1/4. SQL - Jointure et Tables virtuelles/NATURAL JOIN - Jointure naturelle.md"
   ]
 }

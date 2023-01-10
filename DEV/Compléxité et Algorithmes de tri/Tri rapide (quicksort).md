@@ -1,6 +1,7 @@
 ## Explication du fonctionnement
 
 
+
 ## Exemple avec un jeu de valeurs
 
 Prenons comme exemple le tableau suivant : $\begin{bmatrix}&8 & 1 & 3 & 7 & 4 & 5&\end{bmatrix}$.

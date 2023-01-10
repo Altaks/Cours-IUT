@@ -188,6 +188,7 @@ empiler
 enfiler
 emfiler
 embouteillage
+exigences
 ment
 ments
 mettre
@@ -292,6 +293,8 @@ monde
 modulaires
 mente
 maillon
+min
+mettra
 racine
 re
 res
@@ -444,6 +447,7 @@ refl
 rencier
 ragir
 ramener
+ral
 de
 documents
 document
@@ -687,6 +691,7 @@ tent
 truit
 tomato
 tions
+terme
 les
 le
 la
@@ -769,6 +774,8 @@ left
 litt
 lu
 liser
+logiciels
+lags
 HTML
 HyperText
 HTTP
@@ -788,6 +795,7 @@ Manipuler
 Modifier
 MD
 Matrices
+Meilleur
 Elle
 En
 Exemples
@@ -846,6 +854,8 @@ unaires
 unsigned
 utilisable
 usage
+upstream
+usuelles
 pour
 premi
 peut
@@ -1064,6 +1074,10 @@ pose
 pioche
 piler
 piocher
+pondre
+performances
+performant
+prendras
 finir
 fin
 ferm
@@ -1158,6 +1172,7 @@ fera
 file
 files
 filer
+finitions
 contient
 comment
 ces
@@ -1522,6 +1537,9 @@ cutives
 convertit
 croissant
 complexit
+caler
+confondre
+changes
 autres
 avant
 au
@@ -1731,6 +1749,8 @@ arriver
 algorithme
 atteindre
 atteintes
+algorithmes
+analyse
 Voici
 Valeurs
 Vous
@@ -1738,6 +1758,7 @@ Version
 Valeur
 Virtual
 Variable
+Val
 ouverte
 on
 onglet
@@ -1794,6 +1815,8 @@ ordinaire
 omises
 ouverts
 orange
+optimisation
+optimis
 Tous
 Tim
 Tout
@@ -1905,6 +1928,7 @@ issu
 imagin
 invite
 implique
+insertion
 structure
 sur
 style
@@ -2101,6 +2125,9 @@ sorti
 situe
 sortir
 selectionner
+sentative
+sauvegarder
+suffisante
 Dans
 DEV
 De
@@ -2133,6 +2160,7 @@ quent
 qualificatif
 quivalence
 quotient
+quivaut
 vers
 vous
 versions
@@ -2207,6 +2235,7 @@ vois
 voitures
 voiture
 voisine
+viable
 Il
 Ils
 Internet
@@ -2225,6 +2254,7 @@ ID
 Incr
 Init
 Impl
+Indice
 noter
 navigateur
 normes
@@ -2296,6 +2326,7 @@ Unix
 Utiliser
 Ubuntu
 Unknown
+Updated
 Pour
 Python
 Par
@@ -2319,6 +2350,7 @@ Propositions
 POO
 Premier
 Placer
+Pire
 web
 widgets
 word
@@ -2364,6 +2396,7 @@ gestionnaire
 gatives
 grit
 gale
+gl
 Que
 Quelles
 Quels
@@ -2405,6 +2438,7 @@ CPU
 Conjonction
 Classe
 Celui
+Cas
 js
 jpg
 juste
@@ -2417,6 +2451,7 @@ joindre
 join
 jours
 jeu
+juger
 JavaScript
 Je
 Joindre
@@ -2489,6 +2524,8 @@ Supprimer
 Sachant
 Structures
 Sortie
+Signification
+Stashed
 Web
 World
 Wide
@@ -2523,6 +2560,8 @@ NON
 NOT
 Nombre
 Notions
+Nom
+Notation
 Firefox
 Fonctions
 Functionplot
