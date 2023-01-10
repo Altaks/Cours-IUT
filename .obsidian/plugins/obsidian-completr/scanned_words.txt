@@ -66,6 +66,11 @@ branche
 bruts
 brute
 basiques
+by
+be
+before
+below
+blocks
 est
 et
 entre
@@ -186,6 +191,8 @@ empiler
 enfiler
 emfiler
 embouteillage
+each
+every
 ment
 ments
 mettre
@@ -441,6 +448,9 @@ recevant
 refl
 rencier
 ragir
+resolve
+recommend
+replace
 de
 documents
 document
@@ -557,6 +567,8 @@ dure
 destructeur
 destructeurs
 doublement
+deleted
+desired
 tous
 tre
 telles
@@ -684,6 +696,9 @@ tent
 truit
 tomato
 tions
+them
+the
+to
 les
 le
 la
@@ -766,6 +781,7 @@ left
 litt
 lu
 liser
+listed
 HTML
 HyperText
 HTTP
@@ -842,6 +858,8 @@ unaires
 unsigned
 utilisable
 usage
+using
+use
 pour
 premi
 peut
@@ -1154,6 +1172,8 @@ fera
 file
 files
 filer
+followed
+following
 contient
 comment
 ces
@@ -1516,6 +1536,10 @@ correspondrait
 concatenate
 cutives
 convertit
+commit
+commands
+conflicted
+conflicts
 autres
 avant
 au
@@ -1722,6 +1746,10 @@ atoire
 arriv
 autoroutier
 arriver
+and
+automatically
+available
+above
 Voici
 Valeurs
 Vous
@@ -1784,6 +1812,8 @@ onsole
 ordinaire
 omises
 ouverts
+obsidian
+of
 Tous
 Tim
 Tout
@@ -1795,6 +1825,7 @@ Types
 Tableau
 Type
 Tri
+This
 inclus
 informations
 images
@@ -2090,6 +2121,7 @@ simplifi
 sorti
 situe
 sortir
+strongly
 Dans
 DEV
 De
@@ -2195,6 +2227,7 @@ vive
 vois
 voitures
 voiture
+viewing
 Il
 Ils
 Internet
@@ -2211,6 +2244,7 @@ Inclure
 Input
 ID
 Incr
+Instructions
 noter
 navigateur
 normes
@@ -2305,11 +2339,15 @@ Propositions
 POO
 Premier
 Placer
+Please
 web
 widgets
 word
 while
 wx
+will
+workspace
+with
 galement
 gles
 gras
@@ -2350,6 +2388,7 @@ gestionnaire
 gatives
 grit
 gale
+graph
 Que
 Quelles
 Quels
@@ -2390,6 +2429,7 @@ CPU
 Conjonction
 Classe
 Celui
+Conflicts
 js
 jpg
 juste
@@ -2401,6 +2441,7 @@ jointure
 joindre
 join
 jours
+json
 JavaScript
 Je
 Joindre
@@ -2472,6 +2513,7 @@ Sinon
 Supprimer
 Sachant
 Structures
+Source
 Web
 World
 Wide
@@ -2505,6 +2547,7 @@ NON
 NOT
 Nombre
 Notions
+Not
 Firefox
 Fonctions
 Functionplot
@@ -2512,6 +2555,7 @@ Fonctionnement
 FIFO
 First
 FILO
+For
 Attributs
 Avec
 AJAX
@@ -2536,6 +2580,7 @@ AND
 Apr
 Ajoutez
 Affichage
+Additional
 XML
 XOR
 zone
