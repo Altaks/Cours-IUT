@@ -9,6 +9,7 @@ Liste
 Linux
 LinkedList
 Last
+Limite
 balise
 but
 balises
@@ -71,6 +72,7 @@ be
 before
 below
 blocks
+bulle
 est
 et
 entre
@@ -193,6 +195,7 @@ emfiler
 embouteillage
 each
 every
+exigences
 ment
 ments
 mettre
@@ -297,6 +300,8 @@ monde
 modulaires
 mente
 maillon
+min
+mettra
 racine
 re
 res
@@ -451,6 +456,9 @@ ragir
 resolve
 recommend
 replace
+ramener
+rencontrerez
+ral
 de
 documents
 document
@@ -699,6 +707,8 @@ tions
 them
 the
 to
+terme
+tudes
 les
 le
 la
@@ -782,6 +792,8 @@ litt
 lu
 liser
 listed
+logiciels
+lags
 HTML
 HyperText
 HTTP
@@ -801,6 +813,7 @@ Manipuler
 Modifier
 MD
 Matrices
+Meilleur
 Elle
 En
 Exemples
@@ -822,6 +835,7 @@ Empiler
 Etapes
 Emfiler
 Enfiler
+Etape
 utilis
 un
 utiliser
@@ -860,6 +874,7 @@ utilisable
 usage
 using
 use
+usuelles
 pour
 premi
 peut
@@ -1078,6 +1093,11 @@ pose
 pioche
 piler
 piocher
+pondre
+performances
+probablement
+performant
+prendras
 finir
 fin
 ferm
@@ -1174,6 +1194,7 @@ files
 filer
 followed
 following
+finitions
 contient
 comment
 ces
@@ -1540,6 +1561,10 @@ commit
 commands
 conflicted
 conflicts
+croissant
+caler
+complexit
+confondre
 autres
 avant
 au
@@ -1750,6 +1775,11 @@ and
 automatically
 available
 above
+algorithme
+atteindre
+atteintes
+algorithmes
+analyse
 Voici
 Valeurs
 Vous
@@ -1757,6 +1787,7 @@ Version
 Valeur
 Virtual
 Variable
+Val
 ouverte
 on
 onglet
@@ -1814,6 +1845,9 @@ omises
 ouverts
 obsidian
 of
+orange
+optimisation
+optimis
 Tous
 Tim
 Tout
@@ -1926,6 +1960,7 @@ issu
 imagin
 invite
 implique
+insertion
 structure
 sur
 style
@@ -2122,6 +2157,10 @@ sorti
 situe
 sortir
 strongly
+sauvegarder
+selectionner
+sentative
+suffisante
 Dans
 DEV
 De
@@ -2154,6 +2193,7 @@ quent
 qualificatif
 quivalence
 quotient
+quivaut
 vers
 vous
 versions
@@ -2228,6 +2268,8 @@ vois
 voitures
 voiture
 viewing
+voisine
+viable
 Il
 Ils
 Internet
@@ -2245,6 +2287,9 @@ Input
 ID
 Incr
 Instructions
+Impl
+Indice
+Init
 noter
 navigateur
 normes
@@ -2340,6 +2385,7 @@ POO
 Premier
 Placer
 Please
+Pire
 web
 widgets
 word
@@ -2389,6 +2435,7 @@ gatives
 grit
 gale
 graph
+gl
 Que
 Quelles
 Quels
@@ -2396,6 +2443,7 @@ Quelle
 Qui
 Query
 Quelques
+Qu
 Conditional
 CSS
 Cependant
@@ -2430,6 +2478,7 @@ Conjonction
 Classe
 Celui
 Conflicts
+Cas
 js
 jpg
 juste
@@ -2442,6 +2491,8 @@ joindre
 join
 jours
 json
+jeu
+juger
 JavaScript
 Je
 Joindre
@@ -2514,6 +2565,8 @@ Supprimer
 Sachant
 Structures
 Source
+Sortie
+Signification
 Web
 World
 Wide
@@ -2530,6 +2583,7 @@ Boucle
 Bonjour
 Bob
 Binaire
+Bulle
 Recherche
 RGB
 RGBA
@@ -2548,6 +2602,8 @@ NOT
 Nombre
 Notions
 Not
+Nom
+Notation
 Firefox
 Fonctions
 Functionplot
