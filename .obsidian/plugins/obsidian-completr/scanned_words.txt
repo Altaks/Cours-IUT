@@ -189,6 +189,7 @@ enfiler
 emfiler
 embouteillage
 exigences
+ent
 ment
 ments
 mettre
@@ -295,6 +296,10 @@ mente
 maillon
 min
 mettra
+meilleure
+moyennes
+minimums
+maximums
 racine
 re
 res
@@ -449,6 +454,7 @@ ragir
 ramener
 ral
 rencontrerez
+rapports
 de
 documents
 document
@@ -565,6 +571,8 @@ dure
 destructeur
 destructeurs
 doublement
+directive
+department
 tous
 tre
 telles
@@ -778,10 +786,12 @@ lu
 liser
 logiciels
 lags
+lisibilit
 HTML
 HyperText
 HTTP
 Hello
+HEADING
 Markup
 Maps
 Mozilla
@@ -820,6 +830,7 @@ Etapes
 Emfiler
 Enfiler
 Etape
+Employee
 utilis
 un
 utiliser
@@ -1081,6 +1092,8 @@ performances
 performant
 prendras
 probablement
+partement
+paremment
 finir
 fin
 ferm
@@ -1176,6 +1189,8 @@ file
 files
 filer
 finitions
+fins
+fonctionner
 contient
 comment
 ces
@@ -1543,6 +1558,9 @@ complexit
 caler
 confondre
 changes
+cessairement
+chelle
+controler
 autres
 avant
 au
@@ -1754,6 +1772,9 @@ atteindre
 atteintes
 algorithmes
 analyse
+aura
+automatis
+av
 Voici
 Valeurs
 Vous
@@ -1820,6 +1841,7 @@ ouverts
 orange
 optimisation
 optimis
+outils
 Tous
 Tim
 Tout
@@ -2131,6 +2153,11 @@ selectionner
 sentative
 sauvegarder
 suffisante
+salary
+support
+statistiques
+sommes
+salaires
 Dans
 DEV
 De
@@ -2258,6 +2285,7 @@ Incr
 Init
 Impl
 Indice
+Intelligence
 noter
 navigateur
 normes
@@ -2318,6 +2346,7 @@ nettoyer
 nature
 nouveaux
 nodes
+name
 UTF
 URL
 Uploader
@@ -2400,6 +2429,7 @@ gatives
 grit
 gale
 gl
+grouper
 Que
 Quelles
 Quels
@@ -2442,6 +2472,10 @@ Conjonction
 Classe
 Celui
 Cas
+COMPUTE
+COLUMN
+COUNT
+Count
 js
 jpg
 juste
@@ -2478,6 +2512,8 @@ OR
 OUTER
 Objet
 Out
+OF
+ON
 hi
 horizontale
 header
@@ -2529,6 +2565,7 @@ Structures
 Sortie
 Signification
 Stashed
+Salary
 Web
 World
 Wide
@@ -2546,6 +2583,9 @@ Bonjour
 Bob
 Binaire
 Bulle
+BREAK
+BI
+Business
 Recherche
 RGB
 RGBA
@@ -2565,6 +2605,7 @@ Nombre
 Notions
 Nom
 Notation
+Name
 Firefox
 Fonctions
 Functionplot
@@ -2572,6 +2613,7 @@ Fonctionnement
 FIFO
 First
 FILO
+FORMAT
 Attributs
 Avec
 AJAX
@@ -2596,6 +2638,8 @@ AND
 Apr
 Ajoutez
 Affichage
+AVG
+Average
 XML
 XOR
 zone
