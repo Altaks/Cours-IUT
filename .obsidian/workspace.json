@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fd364406e92e3e04",
+        "id": "47d7afdb3b3ece22",
         "type": "tabs",
         "children": [
           {
-            "id": "e52fac9ca74a0fb1",
+            "id": "cd98b61b6b45976f",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "markdown",
               "state": {
                 "file": "ARCHI1/1. La numération actuelle.md",
                 "mode": "preview",
                 "source": false
               }
+=======
+              "type": "graph",
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -79,7 +84,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "ARCHI1/1. La numération actuelle.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 289.5
   },
   "right": {
     "id": "55a24efc551a758b",
@@ -105,7 +113,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "ARCHI1/1. La numération actuelle.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,9 +143,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "ARCHI1/1. La numération actuelle.md"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           },
           {
@@ -155,15 +170,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< Updated upstream
   "active": "e52fac9ca74a0fb1",
   "lastOpenFiles": [
     "DEV/1. Bases/1.5. Opérateurs.md",
@@ -176,5 +192,19 @@
     "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
     "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
     "OMF/1. Les matrices/1.1 Définitions et notations.md"
+=======
+  "active": "6202e2a8f0f033f7",
+  "lastOpenFiles": [
+    "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
+    "DEV/Compléxité et Algorithmes de tri/Tri par insertion.md",
+    "DEV/Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md",
+    "DEV/Compléxité et Algorithmes de tri/Notation O(...).md",
+    "DEV/4. La Programmation Orientée Objet/4.5. L'héritage.md",
+    "DEV/Compléxité et Algorithmes de tri/Tri rapide (quicksort).md",
+    "MD/3. Calcul booléen/3.1 Algèbre de Boole.md",
+    "MD/2. Logique - Propositions et prédicats/2.4 Quantificateurs.md",
+    "MD/2. Logique - Propositions et prédicats/2.3 Calcul des prédicats.md",
+    "MD/2. Logique - Propositions et prédicats/2.2 Connexions.md"
+>>>>>>> Stashed changes
   ]
 }

@@ -2,7 +2,7 @@
 
 Le tri a bulle est un algorithme de tri de valeurs, qui consiste à ramener les valeurs les plus élevées vers la fin du tableau (dans le cas d'un tri croissant). 
 
-A chaque itération, la bulle va être comparée avec la valeur voisine (la valeur de droite), et si la valeur voisine est moins grande que celle de la bulle, les deux valeurs vont échanger de position, et cette opération est répétée jusqu'à atteindre la fin des valeurs non triées. Une fois la fin des valeurs non triées atteintes, on réitère cette logique et ainsi de suite jusqu'à ce que le tableau soit trié.
+A chaque itération, la bulle va être comparée avec la valeur voisine (la valeur de droite), et si la valeur voisine est moins grande que celle de la bulle, les deux valeurs vont échanger de position, et cette opération est répétée jusqu'à atteindre la fin des valeurs non triées. Une fois la fin des valeurs non triées atteintes, on réitère cette logique pour (le même nombre de valeurs - 1) et ainsi de suite jusqu'à ce que le tableau soit trié.
 
 ## Exemple avec un jeu de valeurs
 
@@ -25,6 +25,10 @@ Et en vert la partie du tableau déjà triée
 |    Étape 8     |   7   |   5    |$\begin{bmatrix}&1 & 3& 4& \textcolor{orange}7& \textcolor{yellow}5& \textcolor{lime}8 &\end{bmatrix}$|
 |    Étape 9     |   -   |   -    |$\begin{bmatrix}&1 & 3 & 4 & 5 & \textcolor{lime}7 & \textcolor{lime}8 &\end{bmatrix}$|
 |    Étape -     |   -   |   -    |$\color{lime}\begin{bmatrix}&1 & 3 & 4 & 5 & 7 & 8 &\end{bmatrix}$|
+
+## Démonstration en vidéo 
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/Cq7SMsQBEUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Implémentation en C++ (tableau d'entiers)
 

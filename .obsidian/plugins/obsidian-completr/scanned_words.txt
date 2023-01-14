@@ -10,6 +10,9 @@ Linux
 LinkedList
 Last
 Limite
+Listes
+Logarithmique
+Lin
 balise
 but
 balises
@@ -196,6 +199,11 @@ embouteillage
 each
 every
 exigences
+<<<<<<< Updated upstream
+=======
+ent
+encrypted
+>>>>>>> Stashed changes
 ment
 ments
 mettre
@@ -302,6 +310,18 @@ mente
 maillon
 min
 mettra
+<<<<<<< Updated upstream
+=======
+meilleure
+moyennes
+minimums
+maximums
+max
+matricielle
+ms
+monstration
+media
+>>>>>>> Stashed changes
 racine
 re
 res
@@ -458,7 +478,13 @@ recommend
 replace
 ramener
 rencontrerez
+<<<<<<< Updated upstream
 ral
+=======
+rapports
+ros
+rapide
+>>>>>>> Stashed changes
 de
 documents
 document
@@ -575,8 +601,14 @@ dure
 destructeur
 destructeurs
 doublement
+<<<<<<< Updated upstream
 deleted
 desired
+=======
+directive
+department
+dichotomique
+>>>>>>> Stashed changes
 tous
 tre
 telles
@@ -709,6 +741,8 @@ the
 to
 terme
 tudes
+tas
+title
 les
 le
 la
@@ -836,6 +870,11 @@ Etapes
 Emfiler
 Enfiler
 Etape
+<<<<<<< Updated upstream
+=======
+Employee
+Exponentiel
+>>>>>>> Stashed changes
 utilis
 un
 utiliser
@@ -1098,6 +1137,14 @@ performances
 probablement
 performant
 prendras
+<<<<<<< Updated upstream
+=======
+probablement
+partement
+paremment
+player
+picture
+>>>>>>> Stashed changes
 finir
 fin
 ferm
@@ -1195,6 +1242,14 @@ filer
 followed
 following
 finitions
+<<<<<<< Updated upstream
+=======
+fins
+fonctionner
+fibonacci
+fusion
+frameborder
+>>>>>>> Stashed changes
 contient
 comment
 ces
@@ -1565,6 +1620,15 @@ croissant
 caler
 complexit
 confondre
+<<<<<<< Updated upstream
+=======
+changes
+cessairement
+chelle
+controler
+classiques
+clipboard
+>>>>>>> Stashed changes
 autres
 avant
 au
@@ -1780,6 +1844,17 @@ atteindre
 atteintes
 algorithmes
 analyse
+<<<<<<< Updated upstream
+=======
+aura
+automatis
+av
+arithmique
+allow
+accelerometer
+autoplay
+allowfullscreen
+>>>>>>> Stashed changes
 Voici
 Valeurs
 Vous
@@ -1859,7 +1934,11 @@ Types
 Tableau
 Type
 Tri
+<<<<<<< Updated upstream
 This
+=======
+Temps
+>>>>>>> Stashed changes
 inclus
 informations
 images
@@ -1961,6 +2040,7 @@ imagin
 invite
 implique
 insertion
+insersion
 structure
 sur
 style
@@ -2161,6 +2241,16 @@ sauvegarder
 selectionner
 sentative
 suffisante
+<<<<<<< Updated upstream
+=======
+salary
+support
+statistiques
+sommes
+salaires
+src
+share
+>>>>>>> Stashed changes
 Dans
 DEV
 De
@@ -2170,6 +2260,7 @@ Des
 Description
 Disjonction
 Dernier
+Diminution
 que
 qui
 quel
@@ -2194,6 +2285,7 @@ qualificatif
 quivalence
 quotient
 quivaut
+quentielle
 vers
 vous
 versions
@@ -2289,7 +2381,12 @@ Incr
 Instructions
 Impl
 Indice
+<<<<<<< Updated upstream
 Init
+=======
+Intelligence
+Insertion
+>>>>>>> Stashed changes
 noter
 navigateur
 normes
@@ -2386,14 +2483,20 @@ Premier
 Placer
 Please
 Pire
+Polynomial
 web
 widgets
 word
 while
 wx
+<<<<<<< Updated upstream
 will
 workspace
 with
+=======
+width
+write
+>>>>>>> Stashed changes
 galement
 gles
 gras
@@ -2436,6 +2539,12 @@ grit
 gale
 graph
 gl
+<<<<<<< Updated upstream
+=======
+grouper
+gris
+gyroscope
+>>>>>>> Stashed changes
 Que
 Quelles
 Quels
@@ -2444,6 +2553,7 @@ Qui
 Query
 Quelques
 Qu
+Quadratique
 Conditional
 CSS
 Cependant
@@ -2479,6 +2589,15 @@ Classe
 Celui
 Conflicts
 Cas
+<<<<<<< Updated upstream
+=======
+COMPUTE
+COLUMN
+COUNT
+Count
+Constant
+Cubique
+>>>>>>> Stashed changes
 js
 jpg
 juste
@@ -2534,6 +2653,7 @@ home
 habitant
 habituel
 handles
+height
 YouTube
 Google
 GET

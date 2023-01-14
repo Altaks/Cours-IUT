@@ -5,149 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"DEV/1. Bases\"",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:\"DEV/2. Les fonctions\"",
-      "color": {
-        "a": 1,
-        "rgb": 12998156
-      }
-    },
-    {
-      "query": "path:\"DEV/3. Les structures de données\"",
-      "color": {
-        "a": 1,
-        "rgb": 10429219
-      }
-    },
-    {
-      "query": "path:\"DEV/4. La Programmation Orientée Objet\"",
-      "color": {
-        "a": 1,
-        "rgb": 15822596
-      }
-    },
-    {
-      "query": "path:\"SYS1/Les commandes bash\"",
-      "color": {
-        "a": 1,
-        "rgb": 11937003
-      }
-    },
-    {
-      "query": "path:\"SYS1/Les permissions\"",
-      "color": {
-        "a": 1,
-        "rgb": 9180558
-      }
-    },
-    {
-      "query": "path:\"SYS1/Les utilisateurs\"",
-      "color": {
-        "a": 1,
-        "rgb": 15214277
-      }
-    },
-    {
-      "query": "path:\"SYS1/Les scripts\"",
-      "color": {
-        "a": 1,
-        "rgb": 15472728
-      }
-    },
-    {
-      "query": "path:ARCHI1",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:\"BD1/1. SQL - Requêtes\"",
-      "color": {
-        "a": 1,
-        "rgb": 1845731
-      }
-    },
-    {
-      "query": "path:\"BD1/3. SQL - Dépendences et Restrictions\"",
-      "color": {
-        "a": 1,
-        "rgb": 3628795
-      }
-    },
-    {
-      "query": "path:\"BD1/2. SQL - Fonctions d'agrégations\"",
-      "color": {
-        "a": 1,
-        "rgb": 2132974
-      }
-    },
-    {
-      "query": "path:\"BD1/4. SQL - Jointure et Tables virtuelles\"",
-      "color": {
-        "a": 1,
-        "rgb": 3000294
-      }
-    },
-    {
-      "query": "path:WEB1/HTML",
-      "color": {
-        "a": 1,
-        "rgb": 14415624
-      }
-    },
-    {
-      "query": "path:WEB1/CSS",
-      "color": {
-        "a": 1,
-        "rgb": 8366601
-      }
-    },
-    {
-      "query": "path:OMF",
-      "color": {
-        "a": 1,
-        "rgb": 844916
-      }
-    },
-    {
-      "query": "path:MD",
-      "color": {
-        "a": 1,
-        "rgb": 2420925
-      }
-    },
-    {
-      "query": "file:README",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.30458333333333,
-  "lineSizeMultiplier": 0.753014322916667,
-  "collapse-forces": false,
-  "centerStrength": 0.5125,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 253,
-<<<<<<< HEAD
-  "scale": 0.27268599173600716,
-=======
-  "scale": 0.41599798120349574,
->>>>>>> origin/main
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.9964914457983125,
+  "close": false
 }
