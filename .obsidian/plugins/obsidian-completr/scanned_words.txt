@@ -10,6 +10,9 @@ Linux
 LinkedList
 Last
 Limite
+Listes
+Logarithmique
+Lin
 balise
 but
 balises
@@ -189,6 +192,8 @@ enfiler
 emfiler
 embouteillage
 exigences
+ent
+encrypted
 ment
 ments
 mettre
@@ -295,6 +300,15 @@ mente
 maillon
 min
 mettra
+meilleure
+moyennes
+minimums
+maximums
+max
+matricielle
+ms
+monstration
+media
 racine
 re
 res
@@ -448,6 +462,10 @@ rencier
 ragir
 ramener
 ral
+rencontrerez
+rapports
+ros
+rapide
 de
 documents
 document
@@ -564,6 +582,9 @@ dure
 destructeur
 destructeurs
 doublement
+directive
+department
+dichotomique
 tous
 tre
 telles
@@ -692,6 +713,9 @@ truit
 tomato
 tions
 terme
+tudes
+tas
+title
 les
 le
 la
@@ -776,10 +800,12 @@ lu
 liser
 logiciels
 lags
+lisibilit
 HTML
 HyperText
 HTTP
 Hello
+HEADING
 Markup
 Maps
 Mozilla
@@ -818,6 +844,8 @@ Etapes
 Emfiler
 Enfiler
 Etape
+Employee
+Exponentiel
 utilis
 un
 utiliser
@@ -1078,6 +1106,11 @@ pondre
 performances
 performant
 prendras
+probablement
+partement
+paremment
+player
+picture
 finir
 fin
 ferm
@@ -1173,6 +1206,11 @@ file
 files
 filer
 finitions
+fins
+fonctionner
+fibonacci
+fusion
+frameborder
 contient
 comment
 ces
@@ -1540,6 +1578,11 @@ complexit
 caler
 confondre
 changes
+cessairement
+chelle
+controler
+classiques
+clipboard
 autres
 avant
 au
@@ -1751,6 +1794,14 @@ atteindre
 atteintes
 algorithmes
 analyse
+aura
+automatis
+av
+arithmique
+allow
+accelerometer
+autoplay
+allowfullscreen
 Voici
 Valeurs
 Vous
@@ -1817,6 +1868,7 @@ ouverts
 orange
 optimisation
 optimis
+outils
 Tous
 Tim
 Tout
@@ -1828,6 +1880,7 @@ Types
 Tableau
 Type
 Tri
+Temps
 inclus
 informations
 images
@@ -1929,6 +1982,7 @@ imagin
 invite
 implique
 insertion
+insersion
 structure
 sur
 style
@@ -2128,6 +2182,13 @@ selectionner
 sentative
 sauvegarder
 suffisante
+salary
+support
+statistiques
+sommes
+salaires
+src
+share
 Dans
 DEV
 De
@@ -2137,6 +2198,7 @@ Des
 Description
 Disjonction
 Dernier
+Diminution
 que
 qui
 quel
@@ -2161,6 +2223,7 @@ qualificatif
 quivalence
 quotient
 quivaut
+quentielle
 vers
 vous
 versions
@@ -2255,6 +2318,8 @@ Incr
 Init
 Impl
 Indice
+Intelligence
+Insertion
 noter
 navigateur
 normes
@@ -2315,6 +2380,7 @@ nettoyer
 nature
 nouveaux
 nodes
+name
 UTF
 URL
 Uploader
@@ -2351,11 +2417,14 @@ POO
 Premier
 Placer
 Pire
+Polynomial
 web
 widgets
 word
 while
 wx
+width
+write
 galement
 gles
 gras
@@ -2397,6 +2466,9 @@ gatives
 grit
 gale
 gl
+grouper
+gris
+gyroscope
 Que
 Quelles
 Quels
@@ -2405,6 +2477,7 @@ Qui
 Query
 Quelques
 Qu
+Quadratique
 Conditional
 CSS
 Cependant
@@ -2439,6 +2512,12 @@ Conjonction
 Classe
 Celui
 Cas
+COMPUTE
+COLUMN
+COUNT
+Count
+Constant
+Cubique
 js
 jpg
 juste
@@ -2475,6 +2554,8 @@ OR
 OUTER
 Objet
 Out
+OF
+ON
 hi
 horizontale
 header
@@ -2493,6 +2574,7 @@ home
 habitant
 habituel
 handles
+height
 YouTube
 Google
 GET
@@ -2526,6 +2608,7 @@ Structures
 Sortie
 Signification
 Stashed
+Salary
 Web
 World
 Wide
@@ -2543,6 +2626,9 @@ Bonjour
 Bob
 Binaire
 Bulle
+BREAK
+BI
+Business
 Recherche
 RGB
 RGBA
@@ -2562,7 +2648,7 @@ Nombre
 Notions
 Nom
 Notation
-Ne
+Name
 Firefox
 Fonctions
 Functionplot
@@ -2570,6 +2656,7 @@ Fonctionnement
 FIFO
 First
 FILO
+FORMAT
 Attributs
 Avec
 AJAX
@@ -2594,6 +2681,8 @@ AND
 Apr
 Ajoutez
 Affichage
+AVG
+Average
 XML
 XOR
 zone

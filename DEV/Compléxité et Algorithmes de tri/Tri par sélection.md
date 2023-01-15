@@ -22,11 +22,14 @@ Et en vert la partie du tableau déjà triée
 |  Init.  |   -   |   -    | $\begin{bmatrix}&8 & 1 & 3 & 7 & 4 & 5&\end{bmatrix}$ |
 | Étape 1 |   1   |   0    | $\begin{bmatrix}&\textcolor{yellow}8 & \textcolor{yellow}3 & \textcolor{orange}1 & \textcolor{yellow}7 & \textcolor{yellow}4 & \textcolor{yellow}5&\end{bmatrix}$ |
 | Étape 2 |   3   |   1    | $\begin{bmatrix}&\textcolor{lime}1 & \textcolor{orange}3 & \textcolor{yellow}8 & \textcolor{yellow}7 & \textcolor{yellow}4 & \textcolor{yellow}5&\end{bmatrix}$ |
-| Étape 3 |   4   |   2    | $\begin{bmatrix}& \textcolor{lime}1 & \textcolor{lime}3 & \textcolor{orange}4 & \textcolor{yellow}7 & \textcolor{yellow}8 & \textcolor{yellow}5&\end{bmatrix}$ |
+| Étape 3 |   4   |   2    | $\begin{bmatrix}&\textcolor{lime}1 & \textcolor{lime}3 & \textcolor{orange}4 & \textcolor{yellow}7 & \textcolor{yellow}8 & \textcolor{yellow}5&\end{bmatrix}$ |
 | Étape 4 |   5   |   3    | $\begin{bmatrix}&\textcolor{lime}1 & \textcolor{lime}3 & \textcolor{lime}4 & \textcolor{orange}5 & \textcolor{yellow}8 & \textcolor{yellow}7 &\end{bmatrix}$ |
 | Étape 5 |   7   |   4    | $\begin{bmatrix}&\textcolor{lime}1 & \textcolor{lime}3 & \textcolor{lime}4 & \textcolor{lime}5 & \textcolor{orange}7 & \textcolor{yellow}8 &\end{bmatrix}$ |
 | Étape 6 |   -   |   -    | $\begin{bmatrix}&\textcolor{lime}1 & \textcolor{lime}3 & \textcolor{lime}4 & \textcolor{lime}5 & \textcolor{lime}7 & \textcolor{lime}8 &\end{bmatrix}$ |
 
+## Démonstration en vidéo
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/92BfuxHn2XE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Implémentation en C++ (tableau d'entiers)
 
@@ -77,6 +80,3 @@ void selectionSort(int array[], int size)
 [ 1 3 4 5 7 8 ]
 [ 1 3 4 5 7 8 ]
 ```
-
-**Cours à voir :**
-- [[Tri rapide (quicksort)]]
