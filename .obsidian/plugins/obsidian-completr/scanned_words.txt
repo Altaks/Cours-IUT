@@ -70,11 +70,6 @@ branche
 bruts
 brute
 basiques
-by
-be
-before
-below
-blocks
 bulle
 est
 et
@@ -196,14 +191,9 @@ empiler
 enfiler
 emfiler
 embouteillage
-each
-every
 exigences
-<<<<<<< Updated upstream
-=======
 ent
 encrypted
->>>>>>> Stashed changes
 ment
 ments
 mettre
@@ -310,8 +300,6 @@ mente
 maillon
 min
 mettra
-<<<<<<< Updated upstream
-=======
 meilleure
 moyennes
 minimums
@@ -321,7 +309,6 @@ matricielle
 ms
 monstration
 media
->>>>>>> Stashed changes
 racine
 re
 res
@@ -473,18 +460,12 @@ recevant
 refl
 rencier
 ragir
-resolve
-recommend
-replace
 ramener
-rencontrerez
-<<<<<<< Updated upstream
 ral
-=======
+rencontrerez
 rapports
 ros
 rapide
->>>>>>> Stashed changes
 de
 documents
 document
@@ -601,14 +582,9 @@ dure
 destructeur
 destructeurs
 doublement
-<<<<<<< Updated upstream
-deleted
-desired
-=======
 directive
 department
 dichotomique
->>>>>>> Stashed changes
 tous
 tre
 telles
@@ -736,9 +712,6 @@ tent
 truit
 tomato
 tions
-them
-the
-to
 terme
 tudes
 tas
@@ -825,13 +798,14 @@ left
 litt
 lu
 liser
-listed
 logiciels
 lags
+lisibilit
 HTML
 HyperText
 HTTP
 Hello
+HEADING
 Markup
 Maps
 Mozilla
@@ -870,11 +844,8 @@ Etapes
 Emfiler
 Enfiler
 Etape
-<<<<<<< Updated upstream
-=======
 Employee
 Exponentiel
->>>>>>> Stashed changes
 utilis
 un
 utiliser
@@ -911,8 +882,7 @@ unaires
 unsigned
 utilisable
 usage
-using
-use
+upstream
 usuelles
 pour
 premi
@@ -1134,17 +1104,13 @@ piler
 piocher
 pondre
 performances
-probablement
 performant
 prendras
-<<<<<<< Updated upstream
-=======
 probablement
 partement
 paremment
 player
 picture
->>>>>>> Stashed changes
 finir
 fin
 ferm
@@ -1239,17 +1205,12 @@ fera
 file
 files
 filer
-followed
-following
 finitions
-<<<<<<< Updated upstream
-=======
 fins
 fonctionner
 fibonacci
 fusion
 frameborder
->>>>>>> Stashed changes
 contient
 comment
 ces
@@ -1612,23 +1573,16 @@ correspondrait
 concatenate
 cutives
 convertit
-commit
-commands
-conflicted
-conflicts
 croissant
-caler
 complexit
+caler
 confondre
-<<<<<<< Updated upstream
-=======
 changes
 cessairement
 chelle
 controler
 classiques
 clipboard
->>>>>>> Stashed changes
 autres
 avant
 au
@@ -1835,17 +1789,11 @@ atoire
 arriv
 autoroutier
 arriver
-and
-automatically
-available
-above
 algorithme
 atteindre
 atteintes
 algorithmes
 analyse
-<<<<<<< Updated upstream
-=======
 aura
 automatis
 av
@@ -1854,7 +1802,6 @@ allow
 accelerometer
 autoplay
 allowfullscreen
->>>>>>> Stashed changes
 Voici
 Valeurs
 Vous
@@ -1918,11 +1865,10 @@ onsole
 ordinaire
 omises
 ouverts
-obsidian
-of
 orange
 optimisation
 optimis
+outils
 Tous
 Tim
 Tout
@@ -1934,11 +1880,7 @@ Types
 Tableau
 Type
 Tri
-<<<<<<< Updated upstream
-This
-=======
 Temps
->>>>>>> Stashed changes
 inclus
 informations
 images
@@ -2236,13 +2178,10 @@ simplifi
 sorti
 situe
 sortir
-strongly
-sauvegarder
 selectionner
 sentative
+sauvegarder
 suffisante
-<<<<<<< Updated upstream
-=======
 salary
 support
 statistiques
@@ -2250,7 +2189,6 @@ sommes
 salaires
 src
 share
->>>>>>> Stashed changes
 Dans
 DEV
 De
@@ -2359,7 +2297,6 @@ vive
 vois
 voitures
 voiture
-viewing
 voisine
 viable
 Il
@@ -2378,15 +2315,11 @@ Inclure
 Input
 ID
 Incr
-Instructions
+Init
 Impl
 Indice
-<<<<<<< Updated upstream
-Init
-=======
 Intelligence
 Insertion
->>>>>>> Stashed changes
 noter
 navigateur
 normes
@@ -2447,6 +2380,7 @@ nettoyer
 nature
 nouveaux
 nodes
+name
 UTF
 URL
 Uploader
@@ -2458,6 +2392,7 @@ Unix
 Utiliser
 Ubuntu
 Unknown
+Updated
 Pour
 Python
 Par
@@ -2481,7 +2416,6 @@ Propositions
 POO
 Premier
 Placer
-Please
 Pire
 Polynomial
 web
@@ -2489,14 +2423,8 @@ widgets
 word
 while
 wx
-<<<<<<< Updated upstream
-will
-workspace
-with
-=======
 width
 write
->>>>>>> Stashed changes
 galement
 gles
 gras
@@ -2537,14 +2465,10 @@ gestionnaire
 gatives
 grit
 gale
-graph
 gl
-<<<<<<< Updated upstream
-=======
 grouper
 gris
 gyroscope
->>>>>>> Stashed changes
 Que
 Quelles
 Quels
@@ -2587,17 +2511,13 @@ CPU
 Conjonction
 Classe
 Celui
-Conflicts
 Cas
-<<<<<<< Updated upstream
-=======
 COMPUTE
 COLUMN
 COUNT
 Count
 Constant
 Cubique
->>>>>>> Stashed changes
 js
 jpg
 juste
@@ -2609,7 +2529,6 @@ jointure
 joindre
 join
 jours
-json
 jeu
 juger
 JavaScript
@@ -2635,6 +2554,8 @@ OR
 OUTER
 Objet
 Out
+OF
+ON
 hi
 horizontale
 header
@@ -2684,9 +2605,10 @@ Sinon
 Supprimer
 Sachant
 Structures
-Source
 Sortie
 Signification
+Stashed
+Salary
 Web
 World
 Wide
@@ -2704,6 +2626,9 @@ Bonjour
 Bob
 Binaire
 Bulle
+BREAK
+BI
+Business
 Recherche
 RGB
 RGBA
@@ -2721,9 +2646,9 @@ NON
 NOT
 Nombre
 Notions
-Not
 Nom
 Notation
+Name
 Firefox
 Fonctions
 Functionplot
@@ -2731,7 +2656,7 @@ Fonctionnement
 FIFO
 First
 FILO
-For
+FORMAT
 Attributs
 Avec
 AJAX
@@ -2756,7 +2681,8 @@ AND
 Apr
 Ajoutez
 Affichage
-Additional
+AVG
+Average
 XML
 XOR
 zone
