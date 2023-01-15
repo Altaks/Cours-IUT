@@ -1,3 +1,7 @@
+**Cours liés :**
+- [[1.13.1 Les tableaux]]
+- [[2.1. Les fonctions en général]]
+
 ## Qu'est ce que la complexité ?
 
 La complexité d'un algorithme est une notion qui va permettre de juger de l'efficacité de celui-ci.
