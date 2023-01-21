@@ -28,6 +28,24 @@ La notation ci-dessus est représentative d'une complexité linéaire : elle dé
 | Polynomial     | $2^{\mathcal{O}(\log{n})} = poly(n)$ | $n, n \times \log{(n)}, n^{10}$ |                                                              |
 | Exponentiel    | $2^{\mathcal{O}(n)}$                 | $1.1^n, 10^n$                                |                                                              |
 
+
+```functionplot
+---
+title: Complexités
+xLabel: Nombre d'éléments
+yLabel: Temps d'exécution
+bounds: [0,15,0,50]
+disableZoom: true
+grid: true
+---
+f(x) = 1
+g(x) = x^2
+h(x) = x^3
+i(x) = log(x)
+k(x) = x
+```
+
+
 ## Sur quoi se base-t-elle ?
 
 Elle se base sur son temps d'execution et son utilisation de l'espace mémoire :
