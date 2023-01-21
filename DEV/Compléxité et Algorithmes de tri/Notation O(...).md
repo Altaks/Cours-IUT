@@ -10,10 +10,11 @@ Elle permettra de comparer des algorithmes et déterminer lequel implémenter po
 Il s'agit d'une notion capitale en terme d'optimisation de logiciels. L'analyse des performances et du système de fonctionnement de l'application permettra de réduire les lags, accélérer le fonctionnement et réduire les "exigences minimales"d'une machine pour utiliser l'application.
 
 La complexité d'une application est souvent notée de la manière suivante :
+
 $$
 \mathcal{O}(\dots)
 $$
-La notation ci-dessus est représentative d'une complexité linéaire : elle dépend de $n$ et n'est placée à aucune puissance. Vous rencontrerez probablement les complexités $\mathcal{O}(n^2)$, $\mathcal{O}(\frac{n}{2})$, $\mathcal{O}(\log{n})$, $\mathcal{O}(n\log{n})$, $\mathcal{O}(\log_2{n})$ et bien d'autres au cours de vos études.
+La notation ci-dessus est représentative d'une complexité linéaire : elle dépend de $n$ et n'est placée à aucune puissance.
 
 ### Listes de complexités en temps classiques
 

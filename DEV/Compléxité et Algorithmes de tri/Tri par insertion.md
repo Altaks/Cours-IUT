@@ -28,10 +28,6 @@ On affichera en orange la première valeur non triée et en jaune les valeurs à
 ## Implémentation en C++ (tableau d'entiers)
 
 ```cpp
-/*
- * Permet d'afficher un tableau de valeurs entières dans la console
- * Entrée: le tableau array et sa taille size.
- */
 void displayArray(int array[], int size)
 {
     std::cout << "[ ";
@@ -42,10 +38,6 @@ void displayArray(int array[], int size)
     std::cout << "]" << std::endl;
 }
 
-/*
- * Permet d'échanger les valeurs de deux ints de position en RAM.
- * Entrée: l'adresse de l'entier 1 et l'adresse de l'entier 2
- */
 void swap(int &val1, int &val2)
 {
     int temp = val1;
@@ -53,10 +45,6 @@ void swap(int &val1, int &val2)
     val2 = temp;
 }
 
-/*
- * Permet de trier un tableau d'entiers suivant la méthode du tri par insertion
- * Entrée: le tableau array et sa taille size.
- */
 void insertionSort(int array[], int size)
 {
 
