@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "47d7afdb3b3ece22",
+        "id": "992ca2bc1a76f193",
         "type": "tabs",
         "children": [
           {
-            "id": "cd98b61b6b45976f",
+            "id": "0016aafe1b1bbe64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEV/4. La Programmation Orientée Objet/4.5. L'héritage.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV/4. La Programmation Orientée Objet/4.5. L'héritage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV/4. La Programmation Orientée Objet/4.5. L'héritage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DEV/4. La Programmation Orientée Objet/4.5. L'héritage.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd98b61b6b45976f",
+  "active": "0016aafe1b1bbe64",
   "lastOpenFiles": [
+    "DEV/4. La Programmation Orientée Objet/4.5. L'héritage.md",
     "DEV/4. La Programmation Orientée Objet/4.4. Les spécificateurs d'accès.md",
     "DEV/4. La Programmation Orientée Objet/4.3.1 Les attributs.md",
     "DEV/4. La Programmation Orientée Objet/4.1. La P.O.O en général.md",
@@ -174,7 +167,6 @@
     "BD1/3. SQL - Dépendences et Restrictions/PK - Clé primaire.md",
     "BD1/3. SQL - Dépendences et Restrictions/UNIQUE - Clé unique.md",
     "BD1/4. SQL - Jointure et Tables virtuelles/RIGHT JOIN - Jointure (droite) sur attribut.md",
-    "BD1/4. SQL - Jointure et Tables virtuelles/INNER JOIN, OUTER JOIN - Quelle différence.md",
-    "BD1/4. SQL - Jointure et Tables virtuelles/LEFT JOIN - Jointure (gauche) sur attribut.md"
+    "BD1/4. SQL - Jointure et Tables virtuelles/INNER JOIN, OUTER JOIN - Quelle différence.md"
   ]
 }
