@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "db039657693b4332",
+        "id": "992ca2bc1a76f193",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b68b909b7f228e",
+            "id": "0016aafe1b1bbe64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OMF/1. Les matrices/1.1 Définitions et notations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aa90fa00496a2d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55b1d3618c1b56e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEV/1. Bases/1.2.1 Les variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bfbee81fe22c9b6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c191a80203120260",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,12 +80,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 289.5
   },
   "right": {
     "id": "55a24efc551a758b",
@@ -193,26 +147,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6202e2a8f0f033f7",
+  "active": "0016aafe1b1bbe64",
   "lastOpenFiles": [
-    "BD1/2. SQL - Fonctions d'agrégations/AVG - Calculer une moyenne.md",
-    "BD1/2. SQL - Fonctions d'agrégations/MIN - Déterminer un minimum.md",
-    "BD1/4. SQL - Jointure et Tables virtuelles/NATURAL JOIN - Jointure naturelle.md",
-    "BD1/4. SQL - Jointure et Tables virtuelles/LEFT JOIN - Jointure (gauche) sur attribut.md",
-    "BD1/4. SQL - Jointure et Tables virtuelles/Produit cartésien - Jointure totale.md",
-    "SYS1/Les commandes bash/grep - Rechercher une chaine parmis des fichiers.md",
-    "DEV/Compléxité et Algorithmes de tri/Tri à bulle.md",
-    "DEV/Compléxité et Algorithmes de tri/Tri rapide.md",
-    "DEV/1. Bases/1.2.1 Les variables.md",
-    "DEV/Compléxité et Algorithmes de tri/Tri par sélection.md"
+    "DEV/4. La Programmation Orientée Objet/4.5. L'héritage.md",
+    "DEV/4. La Programmation Orientée Objet/4.4. Les spécificateurs d'accès.md",
+    "DEV/4. La Programmation Orientée Objet/4.3.1 Les attributs.md",
+    "DEV/4. La Programmation Orientée Objet/4.1. La P.O.O en général.md",
+    "BD1/3. SQL - Dépendences et Restrictions/CHECK - Restriction de valeur.md",
+    "BD1/3. SQL - Dépendences et Restrictions/FK - Clé étrangère.md",
+    "BD1/3. SQL - Dépendences et Restrictions/PK - Clé primaire.md",
+    "BD1/3. SQL - Dépendences et Restrictions/UNIQUE - Clé unique.md",
+    "BD1/4. SQL - Jointure et Tables virtuelles/RIGHT JOIN - Jointure (droite) sur attribut.md",
+    "BD1/4. SQL - Jointure et Tables virtuelles/INNER JOIN, OUTER JOIN - Quelle différence.md"
   ]
 }

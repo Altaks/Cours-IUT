@@ -5,145 +5,159 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"DEV/1. Bases\"",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16325146
       }
     },
     {
       "query": "path:\"DEV/2. Les fonctions\"",
       "color": {
         "a": 1,
-        "rgb": 12998156
+        "rgb": 14890293
       }
     },
     {
       "query": "path:\"DEV/3. Les structures de données\"",
       "color": {
         "a": 1,
-        "rgb": 10429219
+        "rgb": 14634769
+      }
+    },
+    {
+      "query": "path:\"DEV/Compléxité et Algorithmes de tri\"",
+      "color": {
+        "a": 1,
+        "rgb": 15364624
       }
     },
     {
       "query": "path:\"DEV/4. La Programmation Orientée Objet\"",
       "color": {
         "a": 1,
-        "rgb": 15822596
-      }
-    },
-    {
-      "query": "path:\"SYS1/Les commandes bash\"",
-      "color": {
-        "a": 1,
-        "rgb": 11937003
-      }
-    },
-    {
-      "query": "path:\"SYS1/Les permissions\"",
-      "color": {
-        "a": 1,
-        "rgb": 9180558
-      }
-    },
-    {
-      "query": "path:\"SYS1/Les utilisateurs\"",
-      "color": {
-        "a": 1,
-        "rgb": 15214277
-      }
-    },
-    {
-      "query": "path:\"SYS1/Les scripts\"",
-      "color": {
-        "a": 1,
-        "rgb": 15472728
-      }
-    },
-    {
-      "query": "path:ARCHI1",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
+        "rgb": 15642667
       }
     },
     {
       "query": "path:\"BD1/1. SQL - Requêtes\"",
       "color": {
         "a": 1,
-        "rgb": 1845731
-      }
-    },
-    {
-      "query": "path:\"BD1/3. SQL - Dépendences et Restrictions\"",
-      "color": {
-        "a": 1,
-        "rgb": 3628795
+        "rgb": 1641445
       }
     },
     {
       "query": "path:\"BD1/2. SQL - Fonctions d'agrégations\"",
       "color": {
         "a": 1,
-        "rgb": 2132974
+        "rgb": 5789924
+      }
+    },
+    {
+      "query": "path:\"BD1/3. SQL - Dépendences et Restrictions\"",
+      "color": {
+        "a": 1,
+        "rgb": 6848499
       }
     },
     {
       "query": "path:\"BD1/4. SQL - Jointure et Tables virtuelles\"",
       "color": {
         "a": 1,
-        "rgb": 3000294
+        "rgb": 9673953
+      }
+    },
+    {
+      "query": "path:\"BD1/5. SQLPlus - Particularités\"",
+      "color": {
+        "a": 1,
+        "rgb": 12634354
+      }
+    },
+    {
+      "query": "path:\"BD1/\"",
+      "color": {
+        "a": 1,
+        "rgb": 138396
+      }
+    },
+    {
+      "query": "path:\"SYS1/Les permissions\"",
+      "color": {
+        "a": 1,
+        "rgb": 9962216
+      }
+    },
+    {
+      "query": "path:\"SYS1/Les commandes bash\"",
+      "color": {
+        "a": 1,
+        "rgb": 8535276
+      }
+    },
+    {
+      "query": "path:\"SYS1/Les scripts\"",
+      "color": {
+        "a": 1,
+        "rgb": 11039480
+      }
+    },
+    {
+      "query": "path:\"SYS1/Les utilisateurs\"",
+      "color": {
+        "a": 1,
+        "rgb": 12615914
+      }
+    },
+    {
+      "query": "path:SYS1",
+      "color": {
+        "a": 1,
+        "rgb": 6422946
+      }
+    },
+    {
+      "query": "path:\"MD/\"",
+      "color": {
+        "a": 1,
+        "rgb": 235746
+      }
+    },
+    {
+      "query": "path:\"OMF/\"",
+      "color": {
+        "a": 1,
+        "rgb": 440147
       }
     },
     {
       "query": "path:WEB1/HTML",
       "color": {
         "a": 1,
-        "rgb": 14415624
+        "rgb": 14810630
       }
     },
     {
       "query": "path:WEB1/CSS",
       "color": {
         "a": 1,
-        "rgb": 8366601
-      }
-    },
-    {
-      "query": "path:OMF",
-      "color": {
-        "a": 1,
-        "rgb": 844916
-      }
-    },
-    {
-      "query": "path:MD",
-      "color": {
-        "a": 1,
-        "rgb": 2420925
-      }
-    },
-    {
-      "query": "file:README",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
+        "rgb": 16028453
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.30458333333333,
-  "lineSizeMultiplier": 0.753014322916667,
-  "collapse-forces": false,
-  "centerStrength": 0.5125,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 253,
-  "scale": 0.11810736724137014,
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.20019151881880093,
+  "close": false
 }
