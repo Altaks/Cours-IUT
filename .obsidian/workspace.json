@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md",
-                "mode": "preview",
+                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md",
+                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md",
+                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV/Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md"
+                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md"
               }
             }
           },
@@ -166,15 +166,15 @@
   },
   "active": "cd98b61b6b45976f",
   "lastOpenFiles": [
-    "DEV/Compléxité et Algorithmes de tri/Notation O(...).md",
-    "DEV/1. Bases/1.15. Les références.md",
-    "DEV/1. Bases/1.16 Les pointeurs.md",
-    "DEV/1. Bases/1.17 Les itérateurs.md",
+    "MD/1. Théorie des ensembles/1.3 Fonctions et applications.md",
+    "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
     "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
+    "BD1/1. SQL - Requêtes/DELETE - Supprimer le contenu des tables.md",
     "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.1 La matrice Identité.md",
-    "OMF/Calculer la valeur d'un polynôme.md",
-    "DEV/1. Bases/1.18. Les erreurs, exceptions.md",
-    "DEV/1. Bases/1.14.2 Les fichiers.md",
-    "MD/4. Relations/4.2 Propriétés des relations/4.2.5 Fermeture d'une relation.md"
+    "MD/2. Logique - Propositions et prédicats/2.1 Calcul propositionnel.md",
+    "DEV/1. Bases/1.4.2 Types de données.md",
+    "MD/2. Logique - Propositions et prédicats/2.3 Calcul des prédicats.md",
+    "DEV/4. La Programmation Orientée Objet/4.2. La notion Classe-Objet.md",
+    "DEV/1. Bases/1.2.1 Les variables.md"
   ]
 }
