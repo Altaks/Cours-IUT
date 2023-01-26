@@ -4,18 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "992ca2bc1a76f193",
+        "id": "47d7afdb3b3ece22",
         "type": "tabs",
         "children": [
           {
-            "id": "0016aafe1b1bbe64",
+            "id": "cd98b61b6b45976f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DEV2/2. La Programmation Orientée Objet/2.6. Le polymorphisme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83def173a33424e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV2/2. La Programmation Orientée Objet/2.3.2 Les méthodes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "081fbc30a9eb3773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV2/1. La bibliothèque standard (STL)/1.1 Un peu d'histoire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d93e5c68d0f774fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV2/1. La bibliothèque standard (STL)/1.2 C++ STL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b27ea7b3f6f3db8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV2/1. La bibliothèque standard (STL)/1.3 Les modèles ou patrons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e9735a9ecf11479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV2/1. La bibliothèque standard (STL)/1.4 Les conteneurs (std containers).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26791692c099439c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV2/1. La bibliothèque standard (STL)/1.5 Les itérateurs (std iterators).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f68119ed0d4d1cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -75,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -84,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 343.5
   },
   "right": {
     "id": "55a24efc551a758b",
@@ -100,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md"
+              }
             }
           },
           {
@@ -147,26 +240,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0016aafe1b1bbe64",
+  "active": "f68119ed0d4d1cb8",
   "lastOpenFiles": [
-    "DEV/4. La Programmation Orientée Objet/4.5. L'héritage.md",
-    "DEV/4. La Programmation Orientée Objet/4.4. Les spécificateurs d'accès.md",
-    "DEV/4. La Programmation Orientée Objet/4.3.1 Les attributs.md",
-    "DEV/4. La Programmation Orientée Objet/4.1. La P.O.O en général.md",
-    "BD1/3. SQL - Dépendences et Restrictions/CHECK - Restriction de valeur.md",
-    "BD1/3. SQL - Dépendences et Restrictions/FK - Clé étrangère.md",
-    "BD1/3. SQL - Dépendences et Restrictions/PK - Clé primaire.md",
-    "BD1/3. SQL - Dépendences et Restrictions/UNIQUE - Clé unique.md",
-    "BD1/4. SQL - Jointure et Tables virtuelles/RIGHT JOIN - Jointure (droite) sur attribut.md",
-    "BD1/4. SQL - Jointure et Tables virtuelles/INNER JOIN, OUTER JOIN - Quelle différence.md"
+    "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
+    "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.3 Matrices symétiques et antisymétriques.md",
+    "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.2 Matrices diagonales et triangulaires.md",
+    "OMF/1. Les matrices/1.5 Cas des matrices carrées/1.5.1 La matrice Identité.md",
+    "OMF/Calculer la valeur d'un polynôme.md",
+    "DEV2/1. La bibliothèque standard (STL)/1.1 Un peu d'histoire.md",
+    "DEV2/1. La bibliothèque standard (STL)/1.2 C++ STL.md",
+    "DEV2/1. La bibliothèque standard (STL)/1.3 Les modèles ou patrons.md",
+    "DEV1/1. Bases/1.10. Les boucles 'tant-que' (while, do-while).md",
+    "DEV1/1. Bases/1.8. Les conditions.md"
   ]
 }
