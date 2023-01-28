@@ -36,6 +36,13 @@
       }
     },
     {
+      "query": "path:\"DEV2/1. La bibliothèque standard (STL)\"",
+      "color": {
+        "a": 1,
+        "rgb": 12160561
+      }
+    },
+    {
       "query": "path:\"DEV2/2. La Programmation Orientée Objet\"",
       "color": {
         "a": 1,
@@ -158,6 +165,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2322301644537326,
+  "scale": 0.23223016445373282,
   "close": false
 }
