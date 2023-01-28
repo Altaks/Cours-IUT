@@ -14,9 +14,16 @@ Tout d'abord il vous faudra un compte github si vous voulez recevoir facilement 
   
 ![Page d'acceuil github](https://992890468-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FPG0zCPj7E9knpbCdtfkH%2Fuploads%2F5iu0E6wtU6Avfhf2Jahc%2Fimage.png?alt=media&token=57ce6561-0316-4399-a6f5-8f60ff037839)
 
-- Vous pouvez alors choisir l'option "Clone a repository from the Internet"
+- Vous pouvez alors choisir l'option **"Clone a repository from the Internet"**, vous diriger vers l'onglet **"URL"** et indiquez **"Altaks/Cours-IUT"** comme URL, et un dossier vide comme dossier de destination des fichiers, comme ceci :
+![Illustration](Illustrations/github-fromurl.png)
+- Une fois ceci fait, appuyez sur **"Clone"** et patientez le temps de la copie de l'intégralité des fiches de cours.
+- Une fois ceci fait, ouvrez l'application Obsidian, et choisissez l'option "Ouvrir un dossier comme coffre" comme ceci :
 
-Le cours contient le semestre 1 :
+![from chest](Illustrations/obsidian_from_folder.png)
+
+Et choisissez le dossier racine qui contient les cours, une fois ceci fait, vous devriez voir l'arborescence des cours apparaître à gauche de votre écran. Bravo ! *oui c'est fini !*
+
+L'archive contient les cours suivants :
 - Archi - Début : [[1. La numération actuelle]]
 - BD1 - Début : [[SQL, SGBD - C'est quoi]]
 - DEV - Début : [[1.1. Les commentaires]]
