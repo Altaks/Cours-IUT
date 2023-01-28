@@ -8,35 +8,35 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"DEV/1. Bases\"",
+      "query": "path:\"DEV1/1. Bases\"",
       "color": {
         "a": 1,
         "rgb": 16325146
       }
     },
     {
-      "query": "path:\"DEV/2. Les fonctions\"",
+      "query": "path:\"DEV1/2. Les fonctions\"",
       "color": {
         "a": 1,
         "rgb": 14890293
       }
     },
     {
-      "query": "path:\"DEV/3. Les structures de données\"",
+      "query": "path:\"DEV1/3. Les structures de données\"",
       "color": {
         "a": 1,
         "rgb": 14634769
       }
     },
     {
-      "query": "path:\"DEV/Compléxité et Algorithmes de tri\"",
+      "query": "path:\"DEV1/Compléxité et Algorithmes de tri\"",
       "color": {
         "a": 1,
         "rgb": 15364624
       }
     },
     {
-      "query": "path:\"DEV/4. La Programmation Orientée Objet\"",
+      "query": "path:\"DEV2/2. La Programmation Orientée Objet\"",
       "color": {
         "a": 1,
         "rgb": 15642667
@@ -158,6 +158,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.20019151881880093,
+  "scale": 0.2322301644537326,
   "close": false
 }
