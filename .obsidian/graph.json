@@ -153,6 +153,13 @@
         "a": 1,
         "rgb": 16028453
       }
+    },
+    {
+      "query": "path:\"Mathématiques - Lycée\"",
+      "color": {
+        "a": 1,
+        "rgb": 14298608
+      }
     }
   ],
   "collapse-display": true,
@@ -165,6 +172,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.23223016445373282,
+  "scale": 0.23223016445373346,
   "close": false
 }
