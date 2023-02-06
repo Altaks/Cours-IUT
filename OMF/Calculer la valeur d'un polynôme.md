@@ -22,7 +22,7 @@ Voici quelques exemples de polynômes de différents degrés :
 -   $\textcolor{cyan}x + \textcolor{tomato}1$ est un polynôme du premier degré.
 -   $\textcolor{cyan}x^\textcolor{pink}2 + \textcolor{tomato}2\textcolor{cyan}x + \textcolor{tomato}1$ est un polynôme du second degré.
 -   $\textcolor{cyan}x^\textcolor{pink}3 - \textcolor{tomato}2\textcolor{cyan}x^\textcolor{pink}2 + \textcolor{cyan}x - \textcolor{tomato}1$ est un polynôme du troisième degré.
--   $\textcolor{cyan}x^\textcolor{pink}4 - \textcolor{tomato}3\textcolor{cyan}x^\textcolor{pink}3 + \textcolor{tomato}2\textcolor{cyan}x^\textcolor{pink}2 - \textcolor{cyan}x + \textcolor{tomato}1$ est un polynôme du quatrième degré. 
+-   $\textcolor{cyan}x^\textcolor{pink}4 - \textcolor{tomato}3\textcolor{cyan}x^\textcolor{pink}3 + \textcolor{tomato}2\textcolor{cyan}x^\textcolor{pink}2 - \textcolor{cyan}x + \textcolor{tomato}1$ est un polynôme du quatrième degré.
 
 # Calcul de la valeur d'un polynome : $P(x)$
 
