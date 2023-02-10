@@ -109,6 +109,9 @@ bcc
 bE
 bV
 bxx
+badges
+bagdes
+badge
 est
 et
 entre
@@ -916,6 +919,7 @@ tS
 tuuU
 tI
 tH
+triplet
 les
 le
 la
@@ -1029,6 +1033,7 @@ lm
 lc
 lUW
 lr
+longueures
 HTML
 HyperText
 HTTP
@@ -1463,6 +1468,7 @@ pL
 pA
 pvvV
 pAs
+pingler
 finir
 fin
 ferm
@@ -1582,6 +1588,9 @@ fX
 ftm
 fk
 fF
+firme
+fabrique
+fabriqu
 contient
 comment
 ces
@@ -1980,6 +1989,8 @@ cg
 cM
 cw
 cFL
+coler
+commutative
 autres
 avant
 au
@@ -2219,6 +2230,8 @@ aU
 aD
 ax
 arrr
+associative
+admet
 Voici
 Valeurs
 Vous
@@ -2338,6 +2351,7 @@ oO
 oX
 oh
 oE
+obtient
 Tous
 Tim
 Tout
@@ -2383,7 +2397,6 @@ ie
 inf
 ils
 interne
-int
 importance
 iframe
 indique
@@ -2447,13 +2460,11 @@ incorrect
 impliquent
 invers
 incr
-interm
 implicites
 importante
 identifiants
 installer
 inclue
-ints
 include
 identique
 importer
@@ -2734,6 +2745,7 @@ sF
 sE
 suu
 sQRRR
+suites
 Dans
 DEV
 De
@@ -3317,6 +3329,7 @@ CH
 Cg
 Cx
 CAAAOu
+Concat
 js
 jpg
 juste
@@ -3346,6 +3359,7 @@ jq
 jbcc
 jXc
 jjj
+juxtaposant
 JavaScript
 Je
 Joindre

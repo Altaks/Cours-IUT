@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
+                "file": "Mathématiques - Lycée/1ère/Algèbre/Étude des suites.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
+                "file": "Mathématiques - Lycée/1ère/Algèbre/Étude des suites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
+                "file": "Mathématiques - Lycée/1ère/Algèbre/Étude des suites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md"
+                "file": "Mathématiques - Lycée/1ère/Algèbre/Étude des suites.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph:3D Graph": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "daily-notes:Ouvrir la note quotidienne": false,
@@ -166,15 +167,15 @@
   },
   "active": "5f82a42c781dd820",
   "lastOpenFiles": [
-    "MD/1. Théorie des ensembles/1.3 Fonctions et applications.md",
     "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
-    "MD/2. Logique - Propositions et prédicats/2.1 Calcul propositionnel.md",
+    "MD/1. Théorie des ensembles/1.4 Ensembles finis, dénombrables et infinis.md",
+    "MD/1. Théorie des ensembles/1.3 Fonctions et applications.md",
     "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md",
+    "MD/2. Logique - Propositions et prédicats/2.1 Calcul propositionnel.md",
     "diagrammeVenn.png.md",
     "Illustrations/diagrammeVenn.png",
     "Illustrations/Ensemble_Reunion.svg",
     "Illustrations/Ensemble_Intersection.svg",
-    "Illustrations/Ensemble-DifferenceSymetrique.png",
-    "Illustrations/Ensemble-Difference.png"
+    "Illustrations/Ensemble-DifferenceSymetrique.png"
   ]
 }
