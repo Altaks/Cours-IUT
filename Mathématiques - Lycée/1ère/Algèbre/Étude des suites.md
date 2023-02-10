@@ -3,7 +3,7 @@
 
 ## Qu'est ce qu'une suite ? 
 
-Une suite est une fonction définie depuis $\mathbb{N}$ vers $\mathbb{R}$, qui associe tout nombre $n$ tel que $n \geq n_0$ une valeur $U_n$. On dira alors que $U_n$ représente le $n$-ième terme de la suite indiquée, et que la suite est nommée $U$.
+Une suite est une fonction définie depuis $\mathbb{N}$ vers $\mathbb{R}$, qui à tout nombre $n$ tel que $n \geq n_0$ associe une valeur $U_n$. On dira alors que $U_n$ représente le $n$-ième terme de la suite indiquée, et que la suite est nommée $U$.
 *Un exemple sera souvent plus parlant :*
 
 #### Exemple :

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Algèbre/Étude des suites.md",
+                "file": "Mathématiques - Lycée/1ère/Algèbre/Génération d'une suite.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Algèbre/Étude des suites.md",
+                "file": "Mathématiques - Lycée/1ère/Algèbre/Génération d'une suite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Algèbre/Étude des suites.md",
+                "file": "Mathématiques - Lycée/1ère/Algèbre/Génération d'une suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Algèbre/Étude des suites.md"
+                "file": "Mathématiques - Lycée/1ère/Algèbre/Génération d'une suite.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "5f82a42c781dd820",
   "lastOpenFiles": [
+    "Mathématiques - Lycée/1ère/Algèbre/Étude des suites.md",
+    "Mathématiques - Lycée/1ère/Algèbre/Génération d'une suite.md",
     "MD/1. Théorie des ensembles/1.2 Ensembles et opérations ensemblistes.md",
     "MD/1. Théorie des ensembles/1.4 Ensembles finis, dénombrables et infinis.md",
     "MD/1. Théorie des ensembles/1.3 Fonctions et applications.md",
@@ -174,8 +176,6 @@
     "MD/2. Logique - Propositions et prédicats/2.1 Calcul propositionnel.md",
     "diagrammeVenn.png.md",
     "Illustrations/diagrammeVenn.png",
-    "Illustrations/Ensemble_Reunion.svg",
-    "Illustrations/Ensemble_Intersection.svg",
-    "Illustrations/Ensemble-DifferenceSymetrique.png"
+    "Illustrations/Ensemble_Reunion.svg"
   ]
 }

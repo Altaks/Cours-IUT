@@ -112,6 +112,7 @@ bxx
 badges
 bagdes
 badge
+bel
 est
 et
 entre
@@ -266,6 +267,7 @@ errr
 ev
 eJ
 eee
+essentielles
 ment
 ments
 mettre
@@ -606,6 +608,8 @@ rEW
 rtt
 rZ
 rDD
+retenir
+regardez
 de
 documents
 document
@@ -764,6 +768,8 @@ dH
 dbt
 dZw
 dddD
+dira
+dois
 tous
 tre
 telles
@@ -920,6 +926,9 @@ tuuU
 tI
 tH
 triplet
+trouvables
+tudiez
+tude
 les
 le
 la
@@ -1469,6 +1478,7 @@ pA
 pvvV
 pAs
 pingler
+parlant
 finir
 fin
 ferm
@@ -1991,6 +2001,8 @@ cw
 cFL
 coler
 commutative
+currence
+construite
 autres
 avant
 au
@@ -2352,6 +2364,7 @@ oX
 oh
 oE
 obtient
+observe
 Tous
 Tim
 Tout
@@ -2746,6 +2759,7 @@ sE
 suu
 sQRRR
 suites
+servir
 Dans
 DEV
 De
@@ -3551,6 +3565,7 @@ Sxx
 SE
 Shh
 ST
+Suite
 Web
 World
 Wide
