@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd817dfbb9ccafc3",
+        "id": "ef04d12010a85681",
         "type": "tabs",
         "children": [
           {
-            "id": "90e0cbd88d858e91",
+            "id": "ca43b27259b478a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Analyse/Étude de la dérivation.md",
+                "file": "Mathématiques - Lycée/1ère/Algèbre/4.1 Calculs de somme de termes d'une suite.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Analyse/Étude de la dérivation.md",
+                "file": "Mathématiques - Lycée/1ère/Algèbre/4.1 Calculs de somme de termes d'une suite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Analyse/Étude de la dérivation.md",
+                "file": "Mathématiques - Lycée/1ère/Algèbre/4.1 Calculs de somme de termes d'une suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Analyse/Étude de la dérivation.md"
+                "file": "Mathématiques - Lycée/1ère/Algèbre/4.1 Calculs de somme de termes d'une suite.md"
               }
             }
           },
@@ -165,15 +165,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90e0cbd88d858e91",
+  "active": "ca43b27259b478a2",
   "lastOpenFiles": [
-    "Mathématiques - Lycée/1ère/Algèbre/4. Suites arithmétiques et géométriques.md",
     "Mathématiques - Lycée/1ère/Algèbre/5. Polynôme du second degré.md",
-    "Mathématiques - Lycée/1ère/Analyse/Étude de la dérivation.md",
-    "Mathématiques - Lycée/1ère/Algèbre/1. Présentation des suites numériques.md",
-    "Mathématiques - Lycée/1ère/Algèbre/2. Génération d'une suite.md",
-    "Mathématiques - Lycée/1ère/Algèbre/3. Étude des suites.md",
     "Mathématiques - Lycée/1ère/Algèbre/4.1 Calculs de somme de termes d'une suite.md",
+    "Mathématiques - Lycée/1ère/Algèbre/4. Suites arithmétiques et géométriques.md",
+    "Mathématiques - Lycée/1ère/Algèbre/3. Étude des suites.md",
+    "Mathématiques - Lycée/1ère/Algèbre/2. Génération d'une suite.md",
+    "Mathématiques - Lycée/1ère/Algèbre/1. Présentation des suites numériques.md",
+    "Mathématiques - Lycée/1ère/Analyse/Étude de la dérivation.md",
     "WEB1/CSS/Sélecteurs.md",
     "SYS1/Sha-bang.md",
     "MD/1. Théorie des ensembles/1.1 Notation et définitions usuelles.md"
