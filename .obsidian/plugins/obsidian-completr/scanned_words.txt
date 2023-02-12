@@ -419,6 +419,7 @@ mt
 mfKz
 mn
 monotone
+maths
 racine
 re
 res
@@ -613,6 +614,7 @@ rDD
 retenir
 regardez
 ressembler
+rapproche
 de
 documents
 document
@@ -773,6 +775,10 @@ dZw
 dddD
 dira
 dois
+diminue
+donnerait
+divise
+divisier
 tous
 tre
 telles
@@ -932,6 +938,14 @@ triplet
 trouvables
 tudiez
 tude
+tudi
+triques
+tez
+terminons
+tend
+titanesque
+tition
+transforme
 les
 le
 la
@@ -1047,6 +1061,7 @@ lUW
 lr
 longueures
 limite
+liminaires
 HTML
 HyperText
 HTTP
@@ -1483,6 +1498,9 @@ pvvV
 pAs
 pingler
 parlant
+prouver
+prenez
+proche
 finir
 fin
 ferm
@@ -1605,6 +1623,9 @@ fF
 firme
 fabrique
 fabriqu
+facteur
+final
+factoris
 contient
 comment
 ces
@@ -2013,6 +2034,10 @@ concernent
 croissante
 continuit
 cutifs
+choisissez
+cider
+contraire
+cedemment
 autres
 avant
 au
@@ -2254,6 +2279,10 @@ ax
 arrr
 associative
 admet
+arrivent
+augmente
+additionnons
+annulation
 Voici
 Valeurs
 Vous
@@ -2375,6 +2404,10 @@ oh
 oE
 obtient
 observe
+observez
+observons
+obtiendra
+or
 Tous
 Tim
 Tout
@@ -2403,6 +2436,7 @@ Tm
 Ttt
 TL
 Trois
+Toujours
 inclus
 informations
 images
@@ -2526,6 +2560,11 @@ iX
 is
 iv
 impairs
+inqui
+infini
+instantan
+interviennent
+identiques
 structure
 sur
 style
@@ -2773,6 +2812,7 @@ sQRRR
 suites
 servir
 sait
+suffira
 Dans
 DEV
 De
@@ -2956,6 +2996,7 @@ violet
 variations
 verrons
 variation
+vaut
 Il
 Ils
 Internet
@@ -3012,6 +3053,7 @@ If
 Iqqq
 IHHP
 Irtt
+II
 noter
 navigateur
 normes
@@ -3091,6 +3133,7 @@ nR
 nnn
 naturel
 nde
+notons
 UTF
 URL
 Uploader
@@ -3177,6 +3220,7 @@ Paaa
 PAs
 PG
 Principalement
+Puis
 web
 widgets
 word
@@ -3280,6 +3324,7 @@ gn
 gggB
 gT
 gee
+grandir
 Que
 Quelles
 Quels
@@ -3364,6 +3409,8 @@ Cg
 Cx
 CAAAOu
 Concat
+Calculer
+Calculs
 js
 jpg
 juste
@@ -3461,6 +3508,7 @@ Ojj
 OO
 OW
 OG
+Observons
 hi
 horizontale
 header
@@ -3586,6 +3634,8 @@ SE
 Shh
 ST
 Suite
+Simplification
+Somme
 Web
 World
 Wide
@@ -3723,6 +3773,7 @@ FU
 Fe
 Fg
 Fnnn
+Formule
 Attributs
 Avec
 AJAX
