@@ -24,6 +24,19 @@ Tout d'abord il vous faudra un compte github si vous voulez recevoir facilement 
 
 Et choisissez le dossier racine qui contient les cours, une fois ceci fait, vous devriez voir l'arborescence des cours apparaître à gauche de votre écran. Bravo ! *oui c'est fini !*
 
+## Récupérer les dernières mises à jour
+
+Afin de récupérer les dernières mises à jour et obtenir les derniers cours écrits, la procédure est simple
+
+- Ouvrez Github Desktop
+- Assurez vous d'avoir sélectionné le repository **Cours-IUT**
+- Appuyez sur **Fetch origin** (souligné en rouge) : 
+
+![github-update](./Illustrations/github-updaterepo.png)
+
+- Si il vous indique une erreur concernant des changements locaux, appuyez sur **Stash changes** et continuez.
+- Attendez que le transfert soit fini et voila, vous pouvez retourner consulter Obsidian pour lire les nouveaux cours !
+
 L'archive contient les cours suivants :
 - Archi - Début : [[1. La numération actuelle]]
 - BD1 - Début : [[SQL, SGBD - C'est quoi]]

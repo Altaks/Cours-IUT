@@ -81,10 +81,10 @@ Cette fonction $f'$ est appellée la fonction dérivée de $f$.
 | ------------ | --------------------- | :---------------------: |
 | $f(x) =k$ (une constante) | $f'(x) = 0$| $\mathbb{R} \rightarrow \mathbb{R}$ |
 | $f(x) =mx+p$ | $f'(x) = m$| $\mathbb{R} \rightarrow \mathbb{R}$ |
-| $f(x) =x^\textcolor{yellow}2$  | $f'(x) = \textcolor{yellow}2x$| $\mathbb{R} \rightarrow \mathbb{R}$ |
-| $f(x) =x^\textcolor{yellow}n$  | $f'(x) = \textcolor{yellow}nx^{\textcolor{yellow}n-1}$| $\mathbb{R} \rightarrow \mathbb{R}$ |
+| $f(x) =x^\textcolor{orange}2$  | $f'(x) = \textcolor{orange}2x$| $\mathbb{R} \rightarrow \mathbb{R}$ |
+| $f(x) =x^\textcolor{orange}n$  | $f'(x) = \textcolor{orange}nx^{\textcolor{orange}n-1}$| $\mathbb{R} \rightarrow \mathbb{R}$ |
 | $f(x) =\Large\frac{1}{x}$  | $f'(x) = -\Large\frac{1}{x^2}$| $\mathbb{R} \rightarrow \mathbb{R}^*$ |
-| $f(x) =\Large\frac{1}{x^\textcolor{yellow}n}$  | $f'(x) = \Large\frac{-\textcolor{yellow}n}{x^{\textcolor{yellow}n+1}}$| $\mathbb{R} \rightarrow \mathbb{R}^*$ |
+| $f(x) =\Large\frac{1}{x^\textcolor{orange}n}$  | $f'(x) = \Large\frac{-\textcolor{orange}n}{x^{\textcolor{orange}n+1}}$| $\mathbb{R} \rightarrow \mathbb{R}^*$ |
 | $f(x) =\sqrt{x}$  | $f'(x) = \Large\frac{1}{2\sqrt{x}}$| $\mathbb{R} \rightarrow \mathbb{R}^{+*}$ (réels positifs non nuls)|
 
 ## Opérations sur les fonctions dérivées
@@ -117,5 +117,5 @@ $$
 ### Dérivée d'un quotient de deux fonctions :
 
 $$
-\left(\frac{\textcolor{tomato}u}{\textcolor{orange}v}\right)' = \frac{\textcolor{tomato}u'\textcolor{orange}v + \textcolor{tomato}u\textcolor{orange}v'}{\textcolor{orange}v^2}
+\left(\frac{\textcolor{tomato}u}{\textcolor{orange}v}\right)' = \frac{\textcolor{tomato}u'\textcolor{orange}v - \textcolor{tomato}u\textcolor{orange}v'}{\textcolor{orange}v^2}
 $$
