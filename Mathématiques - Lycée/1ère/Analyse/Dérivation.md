@@ -1,0 +1,121 @@
+
+L'étude de la dérivation d'une fonction est une méthode d'analyse qui permet de déterminer le comportement d'une courbe, dériver une fonction permet alors d'étudier bien plus facilement la-dite fonction.
+
+Cependant, avant de dériver une fonction, quelques notions sont à voir, telles que le nombre dérivé en un point, et ce que sont les tangentes à la courbe.
+
+## Nombre dérivé et tangente à la courbe
+
+##### Nombre dérivé
+
+>[!tip] Qu'est ce que le nombre dérivé ? 
+>On considère une fonction $f$ définie sur un intervalle $I$ quelconque.
+On considère aussi un nombre $a$ qui appartient à $I$. 
+>
+Une fonction $f$ est dite dérivable en $a$, lorsque, pour $h \neq 0$, le nombre $\cfrac{f(a+h)-f(a)}{h}$, appelé aussi **taux de variation** admet une limite finie. 
+>
+C'est à dire que la valeur de $\cfrac{f(a+h)-f(a)}{h}$ doit continuer d'exister lorsqu'on va faire diminuer $h$ de façon progressive vers $0$.
+>
+>Le **taux de variation** permet alors de savoir comment se comporte la courbe au point $a$, si la fonction va croître ou décroître, ou encore stagner. 
+>
+Soit, dit de façon plus mathématique : 
+>
+$$\lim_{h\rightarrow0}f'(a) = \cfrac{f(a+h)-f(a)}{h} = L$$
+> 
+> *Remarque, le nombre dérivé peut parfois s'écrire :* $\cfrac{df}{dx}(a)$  *, la plupart du temps cette forme intervient dans les notations en physique*
+
+##### Tangente à la courbe
+
+On considère une fonction $f$ que l'on va représenter par une courbe $\mathscr{C}$ dans un plan $(O, \overrightarrow{i}, \overrightarrow{j})$.
+On considère aussi un nombre $h$ tel que $a+h$ appartient à $I$.
+
+*Autrement écrit :* $h \in \mathbb{R} / (a+h) \in I$.
+
+```functionplot
+---
+xLabel: x
+yLabel: y
+disableZoom: true
+grid: true
+---
+f(x) = x^2 +3x -4
+g(x) = 7x - 4
+```
+
+- La **fonction** de base est représentée par la courbe **bleue**.
+- Le **taux de variation** vu précedemment : $\cfrac{f(a+h)-f(a)}{h}$ est le coefficient directeur de la droite **rouge**.
+
+On observe deux **intersections** entre la courbe $\mathscr{C}$ **bleue** et la droite **rouge**, la première (celle de gauche), que l'on noterait $A$ aurait comme coordonnées : $A(a; f(a))$. La seconde intersection que l'on note $M$ quant à elle, a pour coordonnées $M(a+h; f(a+h))$.
+
+A mesure que l'on va faire tendre $h$ vers $0$, soit diminuer sa valeur, on observe que les deux intersections entre la courbe et la droite vont se rapprocher. *(M se rapproche de A plus exactement car l'intersection M se rapproche de l'intersection A)*. 
+
+Ceci va faire en sorte que la droite $(AM)$ se rapproche de plus en plus de la position de la tangente à $\mathscr{C}$ au point $A$. Soit ceci va de plus en plus ressembler à ceci : 
+
+```functionplot
+---
+title: Tangente à la courbe
+xLabel: x
+yLabel: y
+disableZoom: true
+grid: true
+---
+f(x) = x^2 + 3x -4 
+g(x) = 7 * (x-2) + (2^2 +3*2 - 4)
+```
+
+###### Théorème : 
+
+Si $f$ est dérivable en $a$, alors la **droite** qui passe par $A(a; f(a))$ et a pour coefficient directeur $f'(a)$ **est la tangente** à la courbe $\mathscr{C}$ au point $A$.
+
+L'équation de cette tangente est : $$y = \Big((f'(a)(x-a) + f(a)\Big)$$
+
+## Fonction dérivée 
+
+On dit qu'une fonction $f$ est dérivable sur un ensemble $I$ lorsqu'elle est dérivable en tout point de $I$.
+On note alors $f'$ la fonction qui pour tout $x$ (appartenant à $I$) associe le nombre dérivé de $f$ en $x$.
+
+Cette fonction $f'$ est appellée la fonction dérivée de $f$.
+
+##### Fonctions dérivées des fonctions communes :
+
+| Fonction $f$ |  Fonction dérivée $f'$ | Domaines de définitions ($f \to f'$)|
+| ------------ | --------------------- | :---------------------: |
+| $f(x) =k$ (une constante) | $f'(x) = 0$| $\mathbb{R} \rightarrow \mathbb{R}$ |
+| $f(x) =mx+p$ | $f'(x) = m$| $\mathbb{R} \rightarrow \mathbb{R}$ |
+| $f(x) =x^\textcolor{yellow}2$  | $f'(x) = \textcolor{yellow}2x$| $\mathbb{R} \rightarrow \mathbb{R}$ |
+| $f(x) =x^\textcolor{yellow}n$  | $f'(x) = \textcolor{yellow}nx^{\textcolor{yellow}n-1}$| $\mathbb{R} \rightarrow \mathbb{R}$ |
+| $f(x) =\Large\frac{1}{x}$  | $f'(x) = -\Large\frac{1}{x^2}$| $\mathbb{R} \rightarrow \mathbb{R}^*$ |
+| $f(x) =\Large\frac{1}{x^\textcolor{yellow}n}$  | $f'(x) = \Large\frac{-\textcolor{yellow}n}{x^{\textcolor{yellow}n+1}}$| $\mathbb{R} \rightarrow \mathbb{R}^*$ |
+| $f(x) =\sqrt{x}$  | $f'(x) = \Large\frac{1}{2\sqrt{x}}$| $\mathbb{R} \rightarrow \mathbb{R}^{+*}$ (réels positifs non nuls)|
+
+## Opérations sur les fonctions dérivées
+
+*Information : $\textcolor{tomato}u$ et $\textcolor{orange}v$ sont des fonctions quelconques*
+
+### Dérivée d'une somme de deux fonctions : 
+
+$$
+(\textcolor{tomato}u + \textcolor{orange}v)' = (\textcolor{tomato}u' + \textcolor{orange}v')
+$$
+
+### Dérivée du produit d'une fonction par un réel :
+
+$$
+(\textcolor{hotpink}k\textcolor{tomato}u)' = \textcolor{hotpink}k(\textcolor{tomato}u)'
+$$
+
+### Dérivée d'un produit de deux fonctions : 
+
+$$
+(\textcolor{tomato}u\times \textcolor{orange}v)' = (\textcolor{tomato}u'\textcolor{orange}v + \textcolor{tomato}u\textcolor{orange}v')
+$$
+
+### Dérivée de l'inverse d'une fonction
+$$
+\left(\frac{1}{\textcolor{orange}v}\right)' = \frac{-\textcolor{orange}v'}{\textcolor{orange}v^2}
+$$
+
+### Dérivée d'un quotient de deux fonctions :
+
+$$
+\left(\frac{\textcolor{tomato}u}{\textcolor{orange}v}\right)' = \frac{\textcolor{tomato}u'\textcolor{orange}v + \textcolor{tomato}u\textcolor{orange}v'}{\textcolor{orange}v^2}
+$$
