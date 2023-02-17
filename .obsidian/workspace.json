@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Algèbre/1. Présentation des suites numériques.md",
+                "file": "Mathématiques - Lycée/1ère/Analyse/2. Étude de la dérivation.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Algèbre/1. Présentation des suites numériques.md",
+                "file": "Mathématiques - Lycée/1ère/Analyse/2. Étude de la dérivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 316
   },
   "right": {
     "id": "55a24efc551a758b",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Algèbre/1. Présentation des suites numériques.md",
+                "file": "Mathématiques - Lycée/1ère/Analyse/2. Étude de la dérivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathématiques - Lycée/1ère/Algèbre/1. Présentation des suites numériques.md"
+                "file": "Mathématiques - Lycée/1ère/Analyse/2. Étude de la dérivation.md"
               }
             }
           },
@@ -167,15 +167,15 @@
   },
   "active": "d14577fc24fcfa31",
   "lastOpenFiles": [
+    "Mathématiques - Lycée/1ère/Analyse/1. Notion de dérivation.md",
+    "Mathématiques - Lycée/1ère/Analyse/2. Étude de la dérivation.md",
+    "Mathématiques - Lycée/1ère/Algèbre/1. Présentation des suites numériques.md",
     "DEV1/3.Compléxité et Algorithmes de tri/Tri par insertion.md",
     "DEV1/3.Compléxité et Algorithmes de tri/Tri à bulle (bubbleSort).md",
-    "Mathématiques - Lycée/1ère/Analyse/1. Notion de dérivation.md",
     "Mathématiques - Lycée/1ère/Algèbre/5. Polynôme du second degré.md",
     "Mathématiques - Lycée/1ère/Algèbre/4.1 Calculs de somme de termes d'une suite.md",
     "Mathématiques - Lycée/1ère/Algèbre/4. Suites arithmétiques et géométriques.md",
     "Mathématiques - Lycée/1ère/Algèbre/3. Étude des suites.md",
-    "Mathématiques - Lycée/1ère/Analyse/2. Étude de la dérivation.md",
-    "README.md",
-    "Illustrations/github-updaterepo.png"
+    "README.md"
   ]
 }

@@ -43,6 +43,7 @@ Lk
 Lu
 Li
 LX
+Lors
 balise
 but
 balises
@@ -492,6 +493,7 @@ my
 mv
 mb
 mX
+marche
 racine
 re
 res
@@ -719,6 +721,7 @@ rA
 rg
 rj
 rUy
+reconnait
 de
 documents
 document
@@ -901,6 +904,8 @@ dE
 dG
 dj
 dO
+dresse
+dresser
 tous
 tre
 telles
@@ -1099,6 +1104,7 @@ ty
 tO
 tW
 tc
+tudie
 les
 le
 la
@@ -1267,6 +1273,7 @@ HrR
 HWr
 HUZ
 HX
+Hors
 Markup
 Maps
 Mozilla
@@ -1411,6 +1418,7 @@ Eh
 Ej
 EM
 Ef
+Extremum
 utilis
 un
 utiliser
@@ -1782,6 +1790,7 @@ pK
 pC
 pb
 py
+positive
 finir
 fin
 ferm
@@ -2383,6 +2392,9 @@ cW
 cdL
 cZu
 cq
+ciproque
+conserve
+conclure
 autres
 avant
 au
@@ -2650,6 +2662,8 @@ at
 aCCf
 aw
 aL
+admis
+annule
 Voici
 Valeurs
 Vous
@@ -3317,6 +3331,7 @@ stG
 sL
 sb
 sT
+simplifie
 Dans
 DEV
 De
@@ -3750,6 +3765,7 @@ nX
 nc
 nYi
 ng
+nominateur
 UTF
 URL
 Uploader
@@ -4040,6 +4056,7 @@ gP
 gOJ
 gMi
 gIVV
+gative
 Que
 Quelles
 Quels
@@ -4868,6 +4885,9 @@ Agn
 AO
 AA
 At
+Applications
+Admettons
+Autre
 XML
 XOR
 Xe
