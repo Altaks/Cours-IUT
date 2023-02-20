@@ -11,11 +11,28 @@
             "id": "8dafbbb5378ca045",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathématiques - Lycée/1ère/Algèbre/4.1 Calculs de somme de termes d'une suite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b042d45ac571dc85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPO - Compta/Récap. Comptabilité.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,6 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GPO - Compta/Récap. Comptabilité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GPO - Compta/Récap. Comptabilité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GPO - Compta/Récap. Comptabilité.md"
+              }
             }
           },
           {
@@ -157,17 +178,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8dafbbb5378ca045",
+  "active": "b042d45ac571dc85",
   "lastOpenFiles": [
-    "Mathématiques - Lycée/1ère/Analyse/2. Étude de la dérivation.md",
-    "Mathématiques - Lycée/1ère/Analyse/3. La fonction exponentielle.md",
-    "DEV1/3.Compléxité et Algorithmes de tri/Notation O(...).md",
-    "DEV1/3.Compléxité et Algorithmes de tri/Tri par sélection.md",
-    "DEV2/1. La bibliothèque standard (STL)/1.3 Les modèles ou patrons.md",
-    "DEV2/1. La bibliothèque standard (STL)/1.5 Les itérateurs (std iterators).md",
-    "DEV2/1. La bibliothèque standard (STL)/1.6 Les algorithmes (std algorithms).md",
-    "DEV2/1. La bibliothèque standard (STL)/1.4 Les conteneurs (std containers).md",
-    "DEV2/1. La bibliothèque standard (STL)/1.2 C++ STD.md",
-    "DEV1/3.Compléxité et Algorithmes de tri/Tri par insertion.md"
+    "Mathématiques - Lycée/1ère/Algèbre/4.1 Calculs de somme de termes d'une suite.md",
+    "Mathématiques - Lycée/1ère/Probabilité et statistiques/Partition de l'univers et probabilités totales.md",
+    "Mathématiques - Lycée/1ère/Probabilité et statistiques/Arbres pondérés et calculs de probabilités.md",
+    "Mathématiques - Lycée/1ère/Géométrie/Vecteur normal à une droite et vecteur directeur.md",
+    "Mathématiques - Lycée/1ère/Géométrie/Parabole représentative d'une polynôme du second degré.md",
+    "Mathématiques - Lycée/1ère/Géométrie/Équation de cercle.md",
+    "Mathématiques - Lycée/1ère/Géométrie/Centre de gravité d'un triangle.md",
+    "Mathématiques - Lycée/1ère/Géométrie/Calcul vectoriel et produit scalaire.md",
+    "Mathématiques - Lycée/1ère/Analyse/Les fonctions trigonométriques.md",
+    "Mathématiques - Lycée/1ère/Analyse/3. La fonction exponentielle.md"
   ]
 }

@@ -3428,6 +3428,7 @@ set
 stack
 standards
 shuffle
+sentant
 Dans
 DEV
 De
@@ -4849,6 +4850,7 @@ Rd
 Rf
 Renvoie
 Remarques
+Repr
 Nucl
 Nous
 NFS
