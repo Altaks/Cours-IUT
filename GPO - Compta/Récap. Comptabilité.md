@@ -3,12 +3,12 @@
 Numéro de classe | Description 
 ---|---
 Classe 1 | Comptes capitaux
-Classe 2 | Comptes d'immo
+Classe 2 | Comptes d'immobilisation
 Classe 3 | Comptes de stocks
 Classe 4 | Comptes tiers
-Classe 5 | Comptes financier
-Classe 6 | Comptes de charges
-Classe 7 | Compte produit
+Classe 5 | Comptes financiers
+Classe 6 | Comptes de charges (ex: loyers)
+Classe 7 | Compte produits
 Classe 8 | Compte spéciaux
 
 ### Définitions
