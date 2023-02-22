@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "007f737bdd176174",
+    "type": "split",
+    "children": [
+      {
+        "id": "36cf762bab6e21df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d65cfc5b0145d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NUM2/1. L’interpolation polynomiale/1.2. Existence d'un polynôme d'interpolation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2440c15d33d65e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NUM2/1. L’interpolation polynomiale/1.2. Existence d'un polynôme d'interpolation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dd11aaf44af6513",
+    "type": "split",
+    "children": [
+      {
+        "id": "687c5d03e0cda00b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d961e0fae78a17c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e3d86ba539ae285",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71bfde4cb87d5a55",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6202e2a8f0f033f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dd2e5545c12d422",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NUM2/1. L’interpolation polynomiale/1.2. Existence d'un polynôme d'interpolation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316
+  },
+  "right": {
+    "id": "55a24efc551a758b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3746180cdb8d1fef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ad1d90834ed18c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NUM2/1. L’interpolation polynomiale/1.2. Existence d'un polynôme d'interpolation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6726271ed9c227c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "455ce0d4467678f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NUM2/1. L’interpolation polynomiale/1.2. Existence d'un polynôme d'interpolation.md"
+              }
+            }
+          },
+          {
+            "id": "f23877c77a62302c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "3d-graph:3D Graph": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "canvas:Create new canvas": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2440c15d33d65e79",
+  "lastOpenFiles": [
+    "NUM2/1. L’interpolation polynomiale/1.1. Description du problème.md",
+    "NUM2/1. L’interpolation polynomiale/1.3 Forme de Lagrange du polynôme d'interpolation.md",
+    "NUM2/1. L’interpolation polynomiale/1.2. Existence d'un polynôme d'interpolation.md",
+    "Illustrations/interpolation.png",
+    "NUM2/1. L’interpolation polynomiale/1.4 Erreur d'interpolation et phénomène de Runge.md",
+    "Mathématiques - Lycée/1ère/Algèbre/4.1 Calculs de somme de termes d'une suite.md",
+    "Mathématiques - Lycée/1ère/Algèbre/4. Suites arithmétiques et géométriques.md",
+    "README.md",
+    "BD1/SQLPlus - Client de serveur.md",
+    "BD1/SQL, SGBD - C'est quoi.md"
+  ]
+}
