@@ -7,5 +7,6 @@
   "obsidian-admonition",
   "obsidian-discordrpc",
   "obsidian-pandoc",
-  "3d-graph"
+  "3d-graph",
+  "obsidian-tikzjax"
 ]
