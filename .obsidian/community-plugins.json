@@ -8,5 +8,6 @@
   "obsidian-discordrpc",
   "obsidian-pandoc",
   "3d-graph",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "obsidian-chartsview-plugin"
 ]
