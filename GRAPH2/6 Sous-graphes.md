@@ -148,3 +148,6 @@ main/.style = {draw, circle, minimum size=1cm}
 \end{document}
 \end{document}
 ```
+
+**Cours lié(s) :**
+- [[7.1 Cas non orienté]]
