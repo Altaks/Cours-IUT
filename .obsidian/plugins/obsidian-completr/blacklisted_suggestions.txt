@@ -3,3 +3,5 @@ ints
 interm
 Attendez
 Note
+\nabla
+\natural
