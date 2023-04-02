@@ -47,3 +47,4 @@ L'archive contient les cours suivants :
 - MD - Début : [[Introduction au Mathématiques Discrètes]]
 - RES - Début : [[1.1 Introduction|Introduction aux réseaux]]
 - GPO - Compta : [[1.1 La comptabilité financière]]
+- STAT - Début : [[1. Introduction aux Statistiques]]
