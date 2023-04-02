@@ -1,9 +1,5 @@
 
 
-
-
-
-
 **Cours à voir :**
 - [[1.1.1 Les notations usuelles]]
 - [[2.1 Calcul propositionnel]]
