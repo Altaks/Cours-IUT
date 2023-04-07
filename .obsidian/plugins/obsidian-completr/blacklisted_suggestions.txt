@@ -6,3 +6,5 @@ Note
 \nabla
 \natural
 \rm
+SGBD
+read
