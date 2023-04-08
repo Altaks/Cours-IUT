@@ -8,3 +8,11 @@ Note
 \rm
 SGBD
 read
+commande
+commandes
+processus
+\cos
+\cot
+\cong
+Processus
+PROCEDURE
