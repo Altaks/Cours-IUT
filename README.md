@@ -40,6 +40,7 @@ Afin de récupérer les dernières mises à jour et obtenir les derniers cours �
 L'archive contient les cours suivants :
 - Archi - Début : [[1. La numération actuelle]]
 - BD1 - Début : [[SQL, SGBD - C'est quoi]]
+- BD2 - Début : [[1.1. Introduction aux séquences]]
 - DEV - Début : [[1.1. Les commentaires]]
 - OMF - Début : [[Calculer la valeur d'un polynôme]]
 - SYS - Début : [[Un shell, c'est quoi]]
