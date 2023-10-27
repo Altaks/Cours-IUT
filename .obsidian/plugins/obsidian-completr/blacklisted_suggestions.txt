@@ -45,3 +45,14 @@ cascade
 \int^{#}_{#}
 fill
 valider
+share
+Share
+SHARE
+raire
+raison
+indexer
+index
+Indexer
+indexent
+Row
+INDEX
