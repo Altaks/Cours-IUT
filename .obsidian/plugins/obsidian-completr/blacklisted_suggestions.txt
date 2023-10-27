@@ -39,3 +39,9 @@ validit
 validation
 validations
 cascade
+\in
+\inf
+\int
+\int^{#}_{#}
+fill
+valider
