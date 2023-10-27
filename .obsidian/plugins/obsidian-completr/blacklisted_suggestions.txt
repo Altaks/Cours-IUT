@@ -56,3 +56,7 @@ Indexer
 indexent
 Row
 INDEX
+\set{#}
+\Set{#}
+\setminus
+\usetagform{#}
